@@ -1,0 +1,4796 @@
+Line 1: LOCATION İstanbul
+Line 1: TIME Aralık
+Line 2: PERSON Şenlik
+Line 2: PERSON Tek
+Line 3: PERSON Şenlik
+Line 4: ORGANIZATION Kültür Sitesi
+Line 5: PERSON Anadolu
+Line 6: PERSON Şenlik
+Line 6: PERSON Ekim
+Line 6: TIME 0212
+Line 6: TIME Ekim
+Line 8: LOCATION Altın
+Line 9: TIME güz
+Line 10: LOCATION Allen
+Line 10: LOCATION Stanley
+Line 11: TIME güz
+Line 14: LOCATION Kara
+Line 14: LOCATION İran
+Line 14: LOCATION Garcia
+Line 14: LOCATION Yeni
+Line 14: LOCATION Almanya
+Line 14: LOCATION Fransa
+Line 14: LOCATION Portekiz
+Line 14: TIME Sonbahar
+Line 14: TIME bahar
+Line 15: PERSON Aslan
+Line 16: LOCATION Ferrara
+Line 16: LOCATION Warren
+Line 16: LOCATION Atlantik
+Line 17: LOCATION Altın
+Line 17: LOCATION Tucker
+Line 18: LOCATION İstanbul
+Line 18: LOCATION Ankara
+Line 18: LOCATION Adana
+Line 18: TIME 21 Ekim
+Line 18: TIME Ekim
+Line 19: LOCATION İstanbul
+Line 20: LOCATION Roscoe
+Line 20: LOCATION Mitchell
+Line 20: LOCATION İstanbul
+Line 20: LOCATION Aydın
+Line 21: LOCATION Aydın
+Line 21: LOCATION Ankara
+Line 21: TIME 19 Ekim
+Line 21: TIME Ekim
+Line 22: PERSON İlhan Erşahin Trio
+Line 22: LOCATION Adana
+Line 23: LOCATION İstanbul
+Line 23: LOCATION Ankara
+Line 24: PERSON Tamer HEPER
+Line 27: LOCATION Ancak
+Line 30: LOCATION İstanbul
+Line 38: PERSON Altan ÖYMEN
+Line 40: TIME 1950
+Line 41: PERSON Pek
+Line 42: PERSON Hakim
+Line 44: PERSON Hakim
+Line 47: LOCATION Çoğu
+Line 49: TIME yaz
+Line 52: LOCATION Türkiye
+Line 55: PERSON Yargı
+Line 62: LOCATION Ankara
+Line 62: ORGANIZATION Yargıtay
+Line 63: ORGANIZATION Yargıtay
+Line 65: ORGANIZATION YARGITAY
+Line 70: PERSON Ahmet Yorulmaz
+Line 71: LOCATION Herkül
+Line 71: TIME 1904
+Line 71: TIME yaz
+Line 72: PERSON Atatürk Araştırma Merkezi
+Line 72: LOCATION Cumhuriyet
+Line 73: PERSON Halis Komili
+Line 73: TIME yaz
+Line 74: LOCATION Türkiye
+Line 75: PERSON Cem Boyner
+Line 76: TIME yaz
+Line 77: LOCATION Türkiye
+Line 80: PERSON Kursları
+Line 81: PERSON Ayla Erduran
+Line 81: TIME yaz
+Line 82: TIME yaz
+Line 83: PERSON Çağdaş Yaşamı Destekleme Derneği
+Line 83: TIME Yaz
+Line 84: LOCATION Ayvalık Belediyesi
+Line 85: PERSON Ahmet Tüfekçi
+Line 86: PERSON Ecevit
+Line 86: LOCATION Menderes
+Line 90: TIME yaz
+Line 91: PERSON Atatürk
+Line 95: TIME yaz
+Line 97: PERSON Ertuğrul Özkök
+Line 100: TIME yaz
+Line 101: TIME yaz
+Line 102: TIME yaz
+Line 110: LOCATION Serdar
+Line 111: LOCATION Hakkari
+Line 114: TIME yaz
+Line 117: PERSON İçim
+Line 120: LOCATION Serdar
+Line 120: TIME yaz
+Line 121: PERSON Nazım Alpman
+Line 123: PERSON Ayşe
+Line 123: LOCATION Ağrı
+Line 125: TIME güz
+Line 130: LOCATION Eylül
+Line 130: TIME 12 Eylül
+Line 130: TIME Eylül
+Line 131: LOCATION Eylül
+Line 131: LOCATION Cumhuriyet
+Line 131: TIME 12 Eylül
+Line 131: TIME Eylül
+Line 132: LOCATION Eylül
+Line 132: LOCATION Cumhuriyet
+Line 132: TIME 12 Eylül
+Line 132: TIME Eylül
+Line 138: LOCATION Eylül
+Line 138: TIME 12 Eylül
+Line 138: TIME Eylül
+Line 140: LOCATION Eylül
+Line 140: TIME 12 Eylül
+Line 140: TIME Eylül
+Line 142: TIME eylül
+Line 147: LOCATION Adalet
+Line 150: PERSON Devlet
+Line 152: TIME 12 Eylüllerde
+Line 152: TIME Eylül
+Line 153: PERSON Batı
+Line 153: LOCATION Türkiye
+Line 153: LOCATION Yunanistan
+Line 153: LOCATION Eylül
+Line 153: TIME 12 Eylül
+Line 153: TIME Eylül
+Line 156: LOCATION Türkiye
+Line 156: LOCATION Eylül
+Line 156: TIME 12 Eylül
+Line 156: TIME Eylül
+Line 159: LOCATION Cumhuriyet
+Line 160: TIME kış
+Line 162: LOCATION Adam
+Line 163: PERSON Kadın
+Line 163: TIME kış
+Line 163: TIME pazardan
+Line 164: TIME kış
+Line 165: PERSON Mesut Yılmaz
+Line 165: TIME kış
+Line 167: PERSON Mesut Yılmaz
+Line 168: PERSON Tansu Çiller
+Line 168: LOCATION İstanbul
+Line 169: LOCATION Paris
+Line 170: LOCATION Paris
+Line 170: LOCATION RUSYA
+Line 170: LOCATION Fransa
+Line 171: TIME Mart
+Line 171: TIME 1 Mart 1815
+Line 171: TIME 1 Mart
+Line 171: TIME Mart 1815 
+Line 171: TIME 1815
+Line 173: LOCATION Paris
+Line 175: LOCATION Paris
+Line 175: LOCATION Fransa
+Line 177: LOCATION Paris
+Line 179: LOCATION Paris
+Line 180: LOCATION Paris
+Line 183: LOCATION Hoş
+Line 183: LOCATION Paris
+Line 184: LOCATION Paris
+Line 185: PERSON Hanım
+Line 186: TIME 1989
+Line 186: TIME yaz
+Line 193: PERSON Refah Partisi
+Line 196: TIME kış
+Line 197: PERSON Yılmaz
+Line 199: PERSON Fazilet Partesi
+Line 220: PERSON Fikret Bila
+Line 222: PERSON Mesut Yılmaz
+Line 222: TIME 28 Şubat
+Line 222: TIME Şubat
+Line 224: LOCATION Türkiye
+Line 225: LOCATION Türkiye
+Line 225: TIME 1960
+Line 226: TIME yaz
+Line 227: LOCATION Princeton
+Line 227: TIME 1966
+Line 233: LOCATION Elizabeth
+Line 236: PERSON Ulusal Sosyoloji Kongresi
+Line 239: LOCATION Kaş
+Line 243: PERSON Mesut Yılma
+Line 249: PERSON Deniz Baykal
+Line 251: PERSON Deniz
+Line 252: LOCATION King
+Line 252: LOCATION Martin
+Line 252: TIME Mart
+Line 260: LOCATION Ordu
+Line 260: LOCATION İzmir
+Line 260: TIME mart
+Line 260: TIME Cumartesi
+Line 271: PERSON Mesut
+Line 272: PERSON Mesut Yılmaz
+Line 273: LOCATION İstanbul
+Line 274: PERSON Mesut
+Line 277: PERSON Kemal Alemdaroğlu
+Line 277: LOCATION İstanbul
+Line 277: ORGANIZATION İstanbul Üniversitesi
+Line 278: PERSON Doğru
+Line 279: TIME kış
+Line 280: LOCATION Anayasa
+Line 282: PERSON Pek
+Line 285: PERSON Mesut Yılmaz
+Line 285: TIME kış
+Line 287: PERSON Güner
+Line 287: PERSON Agah Oktay Güner
+Line 288: TIME kış
+Line 289: ORGANIZATION TBMM
+Line 290: PERSON Mesut
+Line 291: PERSON Mesut
+Line 293: PERSON Refah Partisi
+Line 293: LOCATION Anayasa
+Line 293: TIME kış
+Line 295: PERSON Mesut
+Line 297: PERSON Oy
+Line 298: LOCATION Üniversite
+Line 298: LOCATION Ancak
+Line 298: LOCATION Cumhuriyet
+Line 298: ORGANIZATION TBMM
+Line 301: LOCATION ABD
+Line 302: LOCATION Yarın
+Line 303: LOCATION Yarın
+Line 303: TIME ekim
+Line 306: PERSON Koca Reis
+Line 309: PERSON Koca Reis
+Line 309: LOCATION Yarın
+Line 310: PERSON Reis
+Line 311: PERSON Karamürsel
+Line 312: PERSON Maksut Çavdar
+Line 312: LOCATION Zonguldak
+Line 312: LOCATION Çavdar
+Line 312: TIME cuma
+Line 313: PERSON Atatürk
+Line 314: LOCATION Ancak
+Line 314: TIME yaz
+Line 316: TIME kış
+Line 317: LOCATION RUSYA
+Line 318: LOCATION Duma
+Line 319: LOCATION Duma
+Line 319: LOCATION Moskova
+Line 320: LOCATION Anayasa
+Line 322: LOCATION Duma
+Line 326: LOCATION Rusya
+Line 327: LOCATION Duma
+Line 328: LOCATION Rusya
+Line 331: LOCATION İstanbul
+Line 331: LOCATION Ekonomik İlişkiler 
+Line 331: LOCATION Rusya
+Line 332: PERSON Ali İhsan Ahıskalıoğlu
+Line 332: LOCATION Rusya
+Line 333: LOCATION Rusya
+Line 335: PERSON Yılmaz
+Line 336: TIME pazarlamak
+Line 337: LOCATION Rusya
+Line 338: LOCATION Rusya
+Line 339: PERSON Devlet Bakanı
+Line 339: PERSON Güneş Taner
+Line 340: LOCATION Rusya
+Line 341: LOCATION Türkiye
+Line 342: LOCATION Ancak
+Line 344: LOCATION Yeni
+Line 345: LOCATION Rusya
+Line 346: LOCATION ABD
+Line 346: LOCATION Rusya
+Line 348: LOCATION Rusya
+Line 350: LOCATION Almanya
+Line 351: LOCATION Almanya
+Line 354: LOCATION Türkiye
+Line 354: LOCATION Almanya
+Line 355: LOCATION Almanya
+Line 356: LOCATION Almanya
+Line 358: PERSON Demirel
+Line 358: LOCATION Almanya
+Line 360: LOCATION Almanya
+Line 363: LOCATION Türkiye
+Line 364: PERSON Özenli
+Line 365: LOCATION Almanya
+Line 367: LOCATION Türkiye
+Line 368: PERSON Mesut Yılmaz
+Line 368: TIME yaz
+Line 369: PERSON Yılmaz
+Line 370: LOCATION Almanya
+Line 371: PERSON Mesut
+Line 372: LOCATION Almanya
+Line 373: PERSON Zengin
+Line 374: LOCATION Rusya
+Line 376: PERSON Mesut
+Line 378: LOCATION Almanya
+Line 378: LOCATION Irak
+Line 379: LOCATION Körfez
+Line 380: LOCATION Türkiye
+Line 381: PERSON Batı
+Line 384: PERSON Demirel
+Line 386: LOCATION Türkiye
+Line 386: LOCATION Almanya
+Line 390: LOCATION Almanya
+Line 392: LOCATION Türkiye
+Line 392: LOCATION Almanya
+Line 393: LOCATION Türkiye
+Line 393: LOCATION Almanya
+Line 394: TIME Nisan
+Line 394: TIME 18 Nisan 1999
+Line 394: TIME 1999
+Line 394: TIME 18 Nisan
+Line 394: TIME Nisan 1999 
+Line 401: LOCATION Ancak
+Line 413: LOCATION Ancak
+Line 415: PERSON Balkan Yazarlar Kongresi
+Line 415: PERSON A
+Line 415: TIME Yaz
+Line 417: TIME yaz
+Line 418: PERSON Çağdaş
+Line 418: TIME yaz
+Line 419: PERSON Sait Faik
+Line 419: TIME yaz
+Line 420: PERSON Can Çekişen Kitap
+Line 423: LOCATION Genç
+Line 424: TIME yaz
+Line 425: PERSON Çağlayan Yayınları
+Line 426: PERSON Refik Erduran
+Line 427: PERSON Çağlayan
+Line 429: PERSON Kemal Tahir
+Line 430: PERSON Demirtaş Ceyhun
+Line 430: LOCATION Fransa
+Line 431: TIME yaz
+Line 431: TIME 1983
+Line 436: PERSON Demirtaş Ceyhun
+Line 439: TIME pazarlıyor
+Line 440: LOCATION Türkiye
+Line 440: TIME yaz
+Line 441: PERSON Necati Cumalı
+Line 441: TIME Cumalı
+Line 443: PERSON Necati Cumalı
+Line 443: TIME Cumalı
+Line 444: PERSON Necati
+Line 445: PERSON Ceyhun
+Line 446: TIME yaz
+Line 448: PERSON Demirtaş Ceyhun
+Line 448: TIME yaz
+Line 451: LOCATION Türkiye
+Line 451: LOCATION Almanya
+Line 452: LOCATION Almanya
+Line 455: LOCATION Türkiye
+Line 455: LOCATION Almanya
+Line 455: TIME kış
+Line 457: LOCATION Frankfurt
+Line 459: LOCATION Fransa
+Line 460: PERSON Yurt
+Line 460: LOCATION Almanya
+Line 462: LOCATION Eylül
+Line 462: TIME 27 Eylül
+Line 462: TIME Eylül
+Line 464: LOCATION Çoğu
+Line 464: LOCATION Ancak
+Line 464: LOCATION Almanya
+Line 464: LOCATION Fransa
+Line 464: LOCATION İsviçre
+Line 469: LOCATION Ancak
+Line 471: LOCATION Ankara
+Line 472: LOCATION Ankara
+Line 472: LOCATION Almanya
+Line 472: LOCATION Yarın
+Line 475: TIME yaz
+Line 479: PERSON Abdullah Gül
+Line 479: LOCATION Gül
+Line 479: TIME yaz
+Line 482: PERSON Aziz Mahçub
+Line 482: TIME yaz
+Line 483: LOCATION Mısır
+Line 483: LOCATION Makale
+Line 484: PERSON Yazar
+Line 484: PERSON Nehir
+Line 484: LOCATION Arap
+Line 484: TIME Yaz
+Line 489: PERSON Nil
+Line 489: LOCATION Arap
+Line 493: LOCATION Kuran
+Line 494: PERSON Muhammed
+Line 496: PERSON Kadın
+Line 499: PERSON Nehir
+Line 499: LOCATION Arap
+Line 500: TIME kış
+Line 501: LOCATION İsrail
+Line 501: TIME 1967
+Line 502: PERSON Nehir
+Line 502: LOCATION Arap
+Line 502: TIME yaz
+Line 505: PERSON Aziz Mahçub
+Line 505: TIME salık
+Line 506: PERSON Ali
+Line 507: TIME 7. yüzyıldayız
+Line 509: PERSON Muhammed
+Line 511: PERSON Nil
+Line 511: LOCATION Cumhuriyet
+Line 512: PERSON Abdullah Gül
+Line 512: LOCATION Gül
+Line 514: LOCATION Türkiye
+Line 515: LOCATION Türkiye
+Line 517: PERSON Naki ÖZKAN
+Line 518: LOCATION Türkiye
+Line 518: LOCATION Almanya
+Line 519: LOCATION Türkiye
+Line 519: LOCATION Bonn
+Line 519: LOCATION Almanya
+Line 520: PERSON Naki Özkan
+Line 520: LOCATION Türkiye
+Line 520: LOCATION Almanya
+Line 521: LOCATION Türkiye
+Line 521: LOCATION Bonn
+Line 521: LOCATION Almanya
+Line 522: TIME yaz
+Line 526: LOCATION Türkiye
+Line 527: LOCATION Ancak
+Line 528: LOCATION Almanya
+Line 528: TIME 2015
+Line 530: TIME 2015
+Line 532: LOCATION Türkiye
+Line 533: LOCATION Türkiye
+Line 534: LOCATION Türkiye
+Line 535: LOCATION Türkiye
+Line 536: LOCATION Türkiye
+Line 536: LOCATION Ancak
+Line 536: LOCATION Brüksel
+Line 536: LOCATION Aynı
+Line 536: TIME güz
+Line 538: LOCATION Türkiye
+Line 539: LOCATION Türkiye
+Line 540: LOCATION Türkiye
+Line 542: LOCATION Türkiye
+Line 543: PERSON Volkan Vural
+Line 543: LOCATION Türkiye
+Line 543: LOCATION Ankara
+Line 543: TIME 1995
+Line 545: LOCATION Türkiye
+Line 545: TIME 1950
+Line 546: LOCATION Türkiye
+Line 547: LOCATION Brüksel
+Line 549: LOCATION Almanya
+Line 550: LOCATION Almanya
+Line 551: PERSON Doğu
+Line 552: LOCATION Türkiye
+Line 554: LOCATION Almanya
+Line 554: TIME 1944
+Line 555: PERSON Kuzey Vestfalya
+Line 555: LOCATION Bonn
+Line 555: LOCATION Vestfalya
+Line 555: LOCATION Çin
+Line 557: LOCATION Almanya
+Line 558: LOCATION Türkiye
+Line 558: LOCATION Almanya
+Line 559: LOCATION Türkiye
+Line 559: LOCATION Almanya
+Line 560: LOCATION Türkiye
+Line 560: LOCATION Almanya
+Line 561: LOCATION Türkiye
+Line 561: LOCATION Ancak
+Line 561: LOCATION Hayır
+Line 562: LOCATION Türkiye
+Line 562: LOCATION Almanya
+Line 563: LOCATION Malatya
+Line 563: LOCATION Kayseri
+Line 564: PERSON İhsan Çukur
+Line 564: LOCATION İstanbul
+Line 565: TIME kış
+Line 567: PERSON Hüseyin Dalkılıç
+Line 567: PERSON Adil Gezgin
+Line 567: PERSON Ali Karakaya
+Line 567: LOCATION İran
+Line 568: PERSON Gezgin
+Line 568: TIME 2952
+Line 568: TIME 2584
+Line 568: TIME 295225848
+Line 569: TIME kış
+Line 571: LOCATION Çoğu
+Line 572: PERSON Nurdan AKINER
+Line 573: PERSON Kerim Fizzi
+Line 573: PERSON Ailesi
+Line 573: LOCATION İran
+Line 573: TIME 6 Kasım
+Line 573: TIME Kasım
+Line 574: LOCATION Danimarka
+Line 575: PERSON Kerim Fizzi
+Line 575: PERSON Kerim Desing
+Line 575: LOCATION Danimarka
+Line 575: LOCATION İstanbul
+Line 575: LOCATION Rumeli Caddesi
+Line 575: TIME 1996
+Line 575: TIME Nisan
+Line 575: TIME 1998
+Line 575: TIME Nisan 1998 
+Line 576: PERSON Kerim Fizzi
+Line 576: PERSON Cavidan Kutlu
+Line 576: LOCATION Türkiye
+Line 576: LOCATION İran
+Line 578: PERSON Birsen ALTUNTAŞ
+Line 580: PERSON Fatih Aksoy
+Line 581: PERSON Ödül
+Line 583: PERSON Selvi Boylum
+Line 583: PERSON Kadir İnanır
+Line 583: LOCATION Sultan
+Line 583: TIME Yaz
+Line 584: PERSON Akyüz
+Line 586: PERSON Önay YILMAZ
+Line 588: TIME 1960
+Line 589: ORGANIZATION Amerikan Sualtı Araştırmaları Enstitüsü
+Line 590: PERSON Nergis Günsenin
+Line 590: LOCATION İstanbul
+Line 590: ORGANIZATION İstanbul Üniversitesi
+Line 590: TIME 13. yüzyıla
+Line 592: PERSON Dünya
+Line 592: PERSON Günsenin
+Line 592: TIME 13. yüzyıla
+Line 593: LOCATION ABD
+Line 594: LOCATION Balıkesir
+Line 595: PERSON Bülent Ecevit
+Line 595: PERSON Deniz Baykal
+Line 596: PERSON Ecevit
+Line 596: LOCATION Türkiye
+Line 597: PERSON Muammer Kaddafi
+Line 597: LOCATION Libya
+Line 598: PERSON Süleyman Demirel
+Line 599: PERSON Sevgi Özel Sağlık Hizmetleri
+Line 599: ORGANIZATION Sevgi Hastanesi
+Line 600: PERSON Demirel
+Line 600: PERSON Kahraman
+Line 600: LOCATION Türkiye
+Line 601: PERSON Demirel
+Line 602: PERSON Yasin Hatipoğlu
+Line 602: PERSON Güven Erkaya
+Line 602: PERSON Mehmetçik Vakfı
+Line 602: ORGANIZATION Mehmetçik Vakfı
+Line 603: PERSON Asliye Hukuk Mahkemesi
+Line 603: LOCATION Ankara
+Line 603: TIME 2 Temmuz
+Line 603: TIME Temmuz 1997 
+Line 603: TIME Temmuz
+Line 603: TIME 2 Temmuz 1997
+Line 603: TIME 1997
+Line 604: PERSON Erkaya
+Line 604: TIME 7 Mart 1997
+Line 604: TIME Mart
+Line 604: TIME Mart 1997 
+Line 604: TIME 7 Mart
+Line 604: TIME 1997
+Line 605: PERSON Bir
+Line 605: PERSON Çevik Bir
+Line 605: TIME güz
+Line 606: PERSON Mesut Yılmaz
+Line 606: PERSON Recai Kutan
+Line 607: LOCATION Aksu
+Line 607: LOCATION Ankara
+Line 607: LOCATION Büyükşehir Belediye 
+Line 607: TIME kış
+Line 607: TIME cuma
+Line 608: PERSON Yılmaz
+Line 608: PERSON Kutan
+Line 608: PERSON Arzu
+Line 609: PERSON Yardımcısı
+Line 609: LOCATION Aksu
+Line 610: PERSON Mesut Yılmaz
+Line 610: PERSON Bülent Ecevit
+Line 611: PERSON Salim Uslu
+Line 611: LOCATION Türkiye
+Line 611: LOCATION Eylül
+Line 611: TIME 12 Eylül
+Line 611: TIME Eylül
+Line 611: TIME 1982
+Line 612: PERSON İdil TÜTÜNCÜ
+Line 612: PERSON Can HACIOĞLU
+Line 612: LOCATION SİMAV
+Line 613: PERSON Tansu Çiller
+Line 615: TIME yaz
+Line 616: PERSON Bülent Ecevit
+Line 617: PERSON Dünya Gençler Tekvando Şampiyonası
+Line 618: PERSON Abdi İpekçi Spor Salonu
+Line 619: PERSON Halime Yalçın
+Line 619: PERSON Ali Maraş
+Line 619: PERSON Ahmet Sevinç
+Line 621: PERSON Dünya Serbet Güreş Şampiyonası
+Line 621: LOCATION Tahran
+Line 621: LOCATION İRAN
+Line 623: PERSON Harun Doğan
+Line 624: PERSON Harun
+Line 627: LOCATION Ancak
+Line 629: PERSON Harun Doğan
+Line 629: LOCATION Ancak
+Line 630: LOCATION Türkiye
+Line 631: PERSON Dünya
+Line 632: LOCATION Aydın
+Line 633: LOCATION Ancak
+Line 634: PERSON Dünya Şampiyonası
+Line 634: LOCATION Tahran
+Line 634: LOCATION İstanbul
+Line 634: LOCATION İran
+Line 634: TIME 05.30
+Line 635: PERSON Fevzi AKSOY
+Line 637: PERSON Dünya Karması
+Line 637: LOCATION Türkiye
+Line 637: LOCATION Yalnız
+Line 637: LOCATION Aynı
+Line 639: LOCATION İSTANBUL
+Line 643: LOCATION Aynı
+Line 653: LOCATION İtalya
+Line 654: ORGANIZATION Atıcılık Federasyonu
+Line 656: LOCATION Türkiye
+Line 659: ORGANIZATION Sualtı Sporları Federasyonu
+Line 659: TIME kış
+Line 660: PERSON Ekim
+Line 660: TIME 9 Ekim
+Line 660: TIME Ekim
+Line 661: PERSON Gelin
+Line 662: PERSON Harun Sevinç
+Line 667: PERSON Dünya Zıpkınla Balık Avlama Şampiyonası
+Line 667: LOCATION Hırvatistan
+Line 673: TIME 1998
+Line 674: PERSON Ayhan Şahenk Salonu
+Line 674: TIME 16.00
+Line 675: LOCATION Ankara
+Line 675: TIME 18.15
+Line 676: LOCATION Konya
+Line 676: LOCATION Aydın
+Line 676: LOCATION Bursa
+Line 676: LOCATION İzmir
+Line 676: LOCATION Ankara
+Line 676: LOCATION Kuşadası
+Line 676: TIME 16.00
+Line 676: TIME 16.15
+Line 676: TIME 17.00
+Line 677: PERSON Zeki ÇOL
+Line 689: LOCATION İlaç
+Line 693: TIME yaz
+Line 694: PERSON Sergen
+Line 696: LOCATION Ancak
+Line 698: LOCATION Orta
+Line 698: TIME cuma
+Line 699: TIME cuma
+Line 701: PERSON Saffet
+Line 704: LOCATION Campbell
+Line 705: PERSON Sergen
+Line 711: LOCATION Orta
+Line 715: PERSON Ergun ATA
+Line 716: LOCATION Campbell
+Line 719: PERSON Mehmet Zengin
+Line 720: LOCATION Campbell
+Line 721: TIME yaz
+Line 722: PERSON Emre
+Line 723: LOCATION Ancak
+Line 723: LOCATION Campbell
+Line 724: PERSON Dünya
+Line 727: PERSON Feti
+Line 727: PERSON Abdullah
+Line 728: PERSON Saffet
+Line 730: PERSON Saffet
+Line 730: TIME ekim
+Line 731: PERSON Saffet
+Line 731: PERSON Sergen
+Line 733: PERSON Saffet
+Line 734: LOCATION Campbell
+Line 735: PERSON Hadi
+Line 736: PERSON Seyit Cem
+Line 737: LOCATION Trabzon
+Line 739: LOCATION İstanbul
+Line 739: LOCATION Kemer
+Line 740: LOCATION Country Club
+Line 740: LOCATION Kemer
+Line 741: LOCATION İstanbul
+Line 742: LOCATION Türkiye
+Line 743: LOCATION Parma
+Line 743: LOCATION Karabük
+Line 745: LOCATION Parma
+Line 746: LOCATION Parma
+Line 747: LOCATION Karabük
+Line 748: LOCATION Parma
+Line 749: LOCATION Parma
+Line 750: PERSON Rakip
+Line 751: LOCATION Vicenza
+Line 751: LOCATION Parma
+Line 751: LOCATION İtalya
+Line 752: PERSON Zafer ARAPKİRLİ
+Line 752: LOCATION LONDRA
+Line 756: PERSON Tek
+Line 758: LOCATION FRANSA
+Line 758: LOCATION Georgina
+Line 758: TIME 99 Şubat
+Line 758: TIME 1999
+Line 758: TIME 1984
+Line 758: TIME 1985
+Line 758: TIME Şubat
+Line 761: LOCATION Fransa
+Line 762: ORGANIZATION Kan Bankası
+Line 763: LOCATION ABD
+Line 763: LOCATION Beyaz Saray
+Line 763: LOCATION Clinton
+Line 763: TIME yaz
+Line 764: LOCATION Clinton
+Line 765: PERSON Yardımcısı
+Line 765: LOCATION Gore
+Line 765: LOCATION ABD
+Line 765: LOCATION Clinton
+Line 765: TIME güz
+Line 766: LOCATION Clinton
+Line 766: TIME kış
+Line 767: LOCATION Tanrı
+Line 767: LOCATION Clinton
+Line 767: TIME kış
+Line 768: LOCATION Clinton
+Line 768: TIME kış
+Line 771: LOCATION Fransa
+Line 773: LOCATION ABD
+Line 773: TIME kış
+Line 774: PERSON Azadi
+Line 774: LOCATION Tahran
+Line 774: LOCATION İran
+Line 774: LOCATION ABD
+Line 776: LOCATION İran
+Line 776: LOCATION ABD
+Line 776: TIME 1979
+Line 777: TIME 21. yüzyıla
+Line 779: LOCATION Pire
+Line 781: LOCATION Vera
+Line 782: LOCATION Vera
+Line 784: TIME 19 Şubat 1982
+Line 784: TIME 1982
+Line 784: TIME Şubat 1982 
+Line 784: TIME 19 Şubat
+Line 784: TIME Şubat
+Line 787: TIME 1982
+Line 788: PERSON Bülent Tanla
+Line 792: PERSON Bedri
+Line 800: PERSON Cüneyt Arcayürek
+Line 800: LOCATION Ankara
+Line 806: LOCATION Türkiye
+Line 811: PERSON Güney Amerika
+Line 812: LOCATION Türkiye
+Line 813: LOCATION Türkiye
+Line 822: PERSON İsmail Cem
+Line 823: TIME yaz
+Line 825: PERSON Tugay Bayatlı
+Line 825: PERSON Melih Aşık
+Line 825: PERSON Bedri Koraman
+Line 825: PERSON Burçak Evren
+Line 826: PERSON Uğur Dündar
+Line 826: LOCATION Kanal
+Line 829: TIME 1998
+Line 830: PERSON Tanla
+Line 831: TIME yaz
+Line 832: LOCATION Cumhuriyet
+Line 836: PERSON Dede
+Line 839: LOCATION Türkiye
+Line 839: LOCATION Cumhuriyet
+Line 841: LOCATION Türkiye
+Line 843: PERSON Aile
+Line 843: LOCATION Kuran
+Line 844: PERSON Çağdaş
+Line 845: PERSON Bilgi
+Line 852: PERSON Sağlam
+Line 854: PERSON Yeter
+Line 855: PERSON Samimi
+Line 857: PERSON Baykal
+Line 860: PERSON Can TÜZÜNER
+Line 860: LOCATION Londra
+Line 864: PERSON Artık
+Line 865: ORGANIZATION Microsoft
+Line 866: PERSON Kuzey Londra
+Line 866: LOCATION Londra
+Line 868: PERSON Artık
+Line 870: TIME 0212
+Line 870: TIME 21. yüzyıl
+Line 874: LOCATION Şili
+Line 879: ORGANIZATION Microsoft
+Line 886: LOCATION Star
+Line 888: TIME 5.0
+Line 892: PERSON Sanal
+Line 893: PERSON Tek
+Line 898: PERSON Mekiğine
+Line 898: PERSON Uzay Mekiğine
+Line 900: PERSON Ayda
+Line 904: LOCATION Beyaz Saray
+Line 904: TIME yaz
+Line 905: PERSON Ayda
+Line 910: PERSON Güneş
+Line 911: PERSON Kaptan
+Line 921: PERSON Akıllı
+Line 921: TIME yaz
+Line 927: PERSON Sahra
+Line 930: LOCATION Jupiter
+Line 931: LOCATION Erkek
+Line 936: TIME yaz
+Line 939: ORGANIZATION Microsoft
+Line 939: ORGANIZATION Sony
+Line 941: PERSON Nuh
+Line 941: LOCATION Columbia
+Line 945: TIME haziran
+Line 947: LOCATION Clinton
+Line 950: TIME 2020
+Line 953: LOCATION Clinton
+Line 959: LOCATION Türkiye
+Line 959: ORGANIZATION Intel
+Line 960: TIME 3400
+Line 961: PERSON Kaptan
+Line 965: ORGANIZATION Microsoft
+Line 967: LOCATION Cumhuriyet
+Line 969: ORGANIZATION Intel
+Line 970: PERSON Mir
+Line 973: ORGANIZATION Microsoft
+Line 973: TIME eylül
+Line 974: PERSON Sanal
+Line 976: TIME 2000
+Line 978: PERSON Kaptan
+Line 996: PERSON Kaptan
+Line 1001: PERSON Uzay
+Line 1006: PERSON Dünya
+Line 1010: PERSON Sanal
+Line 1015: LOCATION İRAN
+Line 1016: LOCATION İran
+Line 1016: LOCATION Afganistan
+Line 1017: LOCATION Kara
+Line 1018: PERSON Zülfikar
+Line 1018: LOCATION Afganistan
+Line 1019: LOCATION Eylül
+Line 1019: TIME Eylül
+Line 1020: PERSON Suudi Arabistan
+Line 1020: LOCATION Pakistan
+Line 1020: LOCATION Suudi Arabistan
+Line 1020: LOCATION İran
+Line 1020: LOCATION ABD
+Line 1022: LOCATION Tahran
+Line 1023: PERSON Ahmed Muttavekil
+Line 1023: LOCATION Kandahar
+Line 1024: LOCATION İran
+Line 1025: LOCATION İran
+Line 1026: LOCATION BONN
+Line 1027: LOCATION Almanya
+Line 1028: LOCATION Almanya
+Line 1030: LOCATION Merkez
+Line 1030: TIME güz
+Line 1030: TIME ekim
+Line 1031: LOCATION Brezilya
+Line 1031: LOCATION ABD
+Line 1031: LOCATION RUSYA
+Line 1031: LOCATION Clinton
+Line 1032: LOCATION York
+Line 1032: LOCATION Merkez
+Line 1032: LOCATION ABD
+Line 1032: ORGANIZATION ABD Merkez Bankası
+Line 1032: TIME Pazartesi
+Line 1034: TIME kış
+Line 1034: TIME salı
+Line 1035: LOCATION Ancak
+Line 1035: TIME perşembe
+Line 1035: TIME 15.54
+Line 1036: TIME 95.50
+Line 1036: TIME Cuma
+Line 1037: LOCATION Tokyo
+Line 1037: TIME kış
+Line 1038: LOCATION Tokyo
+Line 1038: TIME 5.32
+Line 1039: LOCATION Fuji
+Line 1039: LOCATION Japonya
+Line 1039: LOCATION Ancak
+Line 1039: TIME Salı
+Line 1040: LOCATION Japonya
+Line 1040: TIME 16.98
+Line 1040: TIME 5.11
+Line 1040: TIME Cuma
+Line 1041: TIME 0.9
+Line 1042: TIME 3.06
+Line 1045: TIME 11.72
+Line 1047: TIME 16 Haziran
+Line 1047: TIME Haziran
+Line 1048: LOCATION ABD
+Line 1048: LOCATION Clinton
+Line 1048: LOCATION Rusya
+Line 1051: LOCATION Ancak
+Line 1053: LOCATION Parma
+Line 1054: PERSON Murat
+Line 1054: PERSON Metin
+Line 1055: LOCATION Karabük
+Line 1058: PERSON Metin Diyadin
+Line 1058: PERSON Murat Yakın
+Line 1059: PERSON Sedat
+Line 1059: LOCATION Karabük
+Line 1060: PERSON Hayati
+Line 1067: TIME kış
+Line 1068: LOCATION Orta
+Line 1069: PERSON Nefis
+Line 1077: PERSON Zaman
+Line 1080: PERSON Gün
+Line 1084: LOCATION Karabük
+Line 1087: LOCATION Orta
+Line 1098: PERSON İlhami Kaplan
+Line 1098: PERSON Metin Suyabakan
+Line 1098: PERSON Bülent Bozdoğan
+Line 1099: PERSON Murat Şahin
+Line 1099: PERSON Murat Yakın
+Line 1100: PERSON Kemalettin
+Line 1100: PERSON Taner
+Line 1100: PERSON Serkan
+Line 1100: LOCATION Oğuz
+Line 1101: PERSON Enver
+Line 1101: PERSON Halim
+Line 1101: PERSON İbrahim
+Line 1101: PERSON Erdoğan
+Line 1101: PERSON Şevki
+Line 1101: PERSON İzzet
+Line 1101: PERSON Gürkan
+Line 1101: PERSON Sedat
+Line 1101: PERSON İlkan
+Line 1101: PERSON Hayati
+Line 1101: PERSON Tayfun
+Line 1101: PERSON Tahir
+Line 1101: PERSON Seyit
+Line 1102: PERSON Zafer
+Line 1102: PERSON Yahya
+Line 1102: PERSON Serkan
+Line 1102: PERSON Cihan
+Line 1103: PERSON Murat Yakın
+Line 1103: LOCATION SARI
+Line 1104: LOCATION ANKARA
+Line 1105: LOCATION Eylül
+Line 1105: LOCATION Ankara
+Line 1105: TIME 12 Eylül
+Line 1105: TIME Eylül
+Line 1106: PERSON Evren
+Line 1107: LOCATION Eylül
+Line 1107: TIME 10 Eylül
+Line 1107: TIME Eylül
+Line 1107: TIME yaz
+Line 1108: PERSON Evren
+Line 1111: PERSON Evren
+Line 1112: LOCATION Belçika
+Line 1113: PERSON Alaattin Çakıcı
+Line 1114: PERSON Alaattin Çakıcı
+Line 1114: LOCATION Ağustos
+Line 1114: LOCATION Eylül
+Line 1114: LOCATION Belçika
+Line 1114: TIME Ağustos
+Line 1114: TIME 1 Eylül
+Line 1114: TIME 08.00
+Line 1114: TIME 31 Ağustos
+Line 1114: TIME Eylül
+Line 1114: TIME 21.00
+Line 1115: PERSON Osman Van
+Line 1115: LOCATION Belçika
+Line 1115: LOCATION Liege
+Line 1115: TIME Aralık 1997 
+Line 1115: TIME 25 Aralık
+Line 1115: TIME 25 Aralık 1997
+Line 1115: TIME Aralık
+Line 1115: TIME 1997
+Line 1116: PERSON Osman Van
+Line 1116: LOCATION Belçika
+Line 1117: TIME Aralık 1997 
+Line 1117: TIME 27 Aralık 1997
+Line 1117: TIME 25 Aralık
+Line 1117: TIME Aralık
+Line 1117: TIME 1997
+Line 1117: TIME 27 Aralık
+Line 1118: LOCATION Belçika
+Line 1119: PERSON Kaynak
+Line 1119: LOCATION Belçika
+Line 1120: LOCATION Paris
+Line 1120: LOCATION Belçika
+Line 1120: LOCATION Fransa
+Line 1121: LOCATION Belçika
+Line 1122: LOCATION Belçika
+Line 1122: TIME 1989
+Line 1122: TIME 1988
+Line 1124: PERSON Enis YILDIRIM
+Line 1124: PERSON Yusuf ÖZKAN
+Line 1124: LOCATION YILDIRIM
+Line 1124: LOCATION ARTVİN
+Line 1125: PERSON Mesut Yılmaz
+Line 1125: PERSON Deniz Baykal
+Line 1126: PERSON Baykal
+Line 1126: LOCATION Artvin
+Line 1126: LOCATION Eylül
+Line 1126: TIME 12 Eylül
+Line 1126: TIME Eylül
+Line 1127: PERSON Baykal
+Line 1127: LOCATION Türkiye
+Line 1127: LOCATION Artvin
+Line 1127: LOCATION Eylül
+Line 1127: TIME 12 Eylül
+Line 1127: TIME Eylül
+Line 1128: LOCATION Türkiye
+Line 1128: LOCATION Eylül
+Line 1128: LOCATION Yeni
+Line 1128: LOCATION Anayasa
+Line 1128: TIME 12 Eylül
+Line 1128: TIME Eylül
+Line 1129: PERSON Baykal
+Line 1129: LOCATION Türkiye
+Line 1129: TIME kış
+Line 1130: PERSON Süleyman Demirel
+Line 1130: PERSON Hüsamettin Cindoruk
+Line 1130: LOCATION Eylül
+Line 1130: TIME 12 Eylül
+Line 1130: TIME Eylül
+Line 1131: PERSON Ergun Göknel
+Line 1133: PERSON Çevik Kuvvet
+Line 1133: PERSON Kuvvet
+Line 1133: LOCATION Kars
+Line 1133: TIME yaz
+Line 1136: LOCATION RUSYA
+Line 1137: LOCATION Ankara
+Line 1138: LOCATION Rusya
+Line 1139: LOCATION Avusturya
+Line 1139: LOCATION Rusya
+Line 1140: LOCATION Moskova
+Line 1140: LOCATION Almanya
+Line 1141: LOCATION Danimarka
+Line 1141: LOCATION İtalya
+Line 1141: LOCATION Fransa
+Line 1141: LOCATION Çin
+Line 1142: LOCATION Gürcistan
+Line 1142: LOCATION Azerbaycan
+Line 1142: LOCATION Ukrayna
+Line 1142: LOCATION Rusya
+Line 1143: PERSON Devlet Başkanı
+Line 1143: ORGANIZATION Dışişleri Bakanlığı
+Line 1147: LOCATION Duma
+Line 1147: LOCATION Merkez
+Line 1147: ORGANIZATION Merkez Bankası
+Line 1148: PERSON Devlet Başkanı
+Line 1148: LOCATION Duma
+Line 1149: PERSON Vural Öger
+Line 1149: PERSON Birgen Air
+Line 1150: LOCATION BONN
+Line 1151: PERSON Vural Öger
+Line 1151: LOCATION ALMANYA
+Line 1151: LOCATION Almanya
+Line 1151: LOCATION Türkiye
+Line 1151: TIME yaz
+Line 1152: PERSON Vural Öger
+Line 1152: LOCATION Berlin
+Line 1152: LOCATION Almanya
+Line 1152: LOCATION Türkiye
+Line 1153: LOCATION Türkiye
+Line 1153: LOCATION Almanya
+Line 1153: ORGANIZATION Alman Türk Vakfı
+Line 1154: LOCATION Türkiye
+Line 1154: LOCATION Almanya
+Line 1156: PERSON Fidel Kostro
+Line 1156: PERSON Devlet Başkanı
+Line 1156: LOCATION Türkiye
+Line 1156: LOCATION Küba
+Line 1157: PERSON Vural Öger
+Line 1157: LOCATION Türkiye
+Line 1157: LOCATION Almanya
+Line 1159: PERSON Vural Öger
+Line 1159: PERSON Birgen Havayolları
+Line 1159: PERSON Öger Tours
+Line 1159: TIME 7 Şubat 1996
+Line 1159: TIME 1996
+Line 1159: TIME 7 Şubat
+Line 1159: TIME Şubat
+Line 1159: TIME Şubat 1996 
+Line 1161: PERSON Vural Öger
+Line 1163: LOCATION ABD
+Line 1163: LOCATION Clinton
+Line 1164: PERSON Dünya Enerji Kongresi
+Line 1164: LOCATION Eylül
+Line 1164: LOCATION Houston
+Line 1164: TIME 18 Eylül
+Line 1164: TIME Eylül
+Line 1165: PERSON Şeref Oğuz
+Line 1165: LOCATION Ekonomi
+Line 1165: LOCATION Oğuz
+Line 1166: PERSON Cumhur Ersümer
+Line 1166: LOCATION ABD
+Line 1167: LOCATION Türkiye
+Line 1168: LOCATION ABD
+Line 1168: LOCATION Clinton
+Line 1169: LOCATION Bakü
+Line 1169: LOCATION ABD
+Line 1171: LOCATION Houston
+Line 1171: LOCATION ABD
+Line 1172: PERSON Dünya Güç Konferansı
+Line 1172: PERSON Dünya Enerji Konseyi
+Line 1172: TIME 1923
+Line 1173: LOCATION Houston
+Line 1175: PERSON Hakan
+Line 1175: PERSON Fatih
+Line 1176: PERSON Hakan
+Line 1176: PERSON Ümit
+Line 1178: PERSON Hakan
+Line 1178: PERSON Fatih
+Line 1178: PERSON Ümit
+Line 1179: PERSON Hakan
+Line 1180: PERSON Hakan
+Line 1181: PERSON Terim
+Line 1183: PERSON Fatih Terim
+Line 1183: LOCATION Ancak
+Line 1184: PERSON Terim
+Line 1186: LOCATION Erzurum
+Line 1205: PERSON Rakip
+Line 1206: LOCATION HASAN
+Line 1206: LOCATION Hagi
+Line 1208: PERSON Hakan
+Line 1214: LOCATION FATİH
+Line 1219: LOCATION Erzurum
+Line 1220: LOCATION ALTAY
+Line 1221: PERSON Muzaffer
+Line 1232: LOCATION ALTAY
+Line 1238: LOCATION Ancak
+Line 1240: PERSON Muzaffer
+Line 1241: PERSON Taze
+Line 1244: PERSON Zaman
+Line 1246: PERSON Tolunay
+Line 1246: PERSON Ümit
+Line 1247: PERSON Tolunay
+Line 1248: PERSON Ümit
+Line 1255: PERSON Ali Sami Yen Stadı
+Line 1255: LOCATION İtalya
+Line 1257: LOCATION Bilbao
+Line 1258: PERSON Terim
+Line 1259: PERSON Fatih Terim
+Line 1259: LOCATION İtalya
+Line 1260: PERSON Terim
+Line 1260: LOCATION İstanbul
+Line 1261: PERSON Canaydın
+Line 1262: PERSON Özhan Canaydın
+Line 1263: LOCATION Bursa
+Line 1264: PERSON Murat Ilgaz
+Line 1264: PERSON Turgay Güdü
+Line 1264: PERSON İrfan Çakır
+Line 1265: LOCATION Hasan
+Line 1266: PERSON Emre
+Line 1266: PERSON Burak
+Line 1266: PERSON Bülent
+Line 1266: PERSON Mehmet
+Line 1267: PERSON Ali Rıza
+Line 1267: LOCATION Altay
+Line 1268: PERSON Ali
+Line 1268: PERSON Erkan
+Line 1268: PERSON Hüseyin
+Line 1269: LOCATION SARI
+Line 1270: PERSON Hakan
+Line 1270: PERSON Fatih
+Line 1270: PERSON Ümit
+Line 1271: PERSON Duygu ASENA
+Line 1272: PERSON Yardımcısı
+Line 1275: PERSON Göksoy
+Line 1278: PERSON Göksoy
+Line 1282: PERSON Göksoy
+Line 1286: PERSON Yalım Erez
+Line 1287: PERSON Göksoy
+Line 1288: PERSON Mehmet Tatar
+Line 1288: PERSON Yalım Erez
+Line 1291: PERSON Göksoy
+Line 1293: PERSON Göksoy
+Line 1295: TIME kış
+Line 1296: PERSON Pınar AKTAŞ
+Line 1296: LOCATION İSTANBUL
+Line 1297: PERSON Kemal Alemdaroğlu
+Line 1297: LOCATION İstanbul
+Line 1297: LOCATION İSTANBUL
+Line 1297: ORGANIZATION İstanbul Üniversitesi
+Line 1297: ORGANIZATION L Üniversitesi
+Line 1298: LOCATION İstanbul
+Line 1298: ORGANIZATION İstanbul Üniversitesi
+Line 1299: PERSON Ulu Önder
+Line 1299: LOCATION Türkiye
+Line 1299: LOCATION İstanbul
+Line 1299: ORGANIZATION İstanbul Üniversitesi
+Line 1302: LOCATION Andican
+Line 1302: LOCATION Cumhuriyet
+Line 1302: ORGANIZATION Cevahir Holding
+Line 1303: PERSON Şener Şen
+Line 1304: PERSON Nazım Alpman
+Line 1308: PERSON Şener Şen
+Line 1309: PERSON Şener Şen
+Line 1311: PERSON Hüseyin Kırcalı
+Line 1312: PERSON Şener Şen
+Line 1313: TIME güz
+Line 1318: PERSON İlgi
+Line 1319: LOCATION Şanlıurfa
+Line 1319: LOCATION İSTANBUL
+Line 1321: TIME kış
+Line 1323: PERSON Şener Şen
+Line 1323: LOCATION Cam
+Line 1324: PERSON Şener Şen
+Line 1324: LOCATION Şanlıurfa
+Line 1324: TIME ekim
+Line 1326: TIME kış
+Line 1328: PERSON Hüseyin Kırcalı
+Line 1331: LOCATION Hoş
+Line 1332: LOCATION Ankara
+Line 1332: LOCATION Şanlıurfa
+Line 1335: PERSON Hava
+Line 1336: PERSON Şener Şen
+Line 1337: PERSON Ömer Okutan
+Line 1338: PERSON Okutan
+Line 1338: TIME 1960
+Line 1339: LOCATION Hasan
+Line 1339: LOCATION İstanbul
+Line 1339: TIME güz
+Line 1339: TIME Yaz
+Line 1339: TIME yaz
+Line 1341: PERSON Hüseyin Kırcalı
+Line 1341: PERSON Ömer Okutan
+Line 1342: PERSON Şener Şen
+Line 1343: LOCATION Yeni
+Line 1346: PERSON Şener Şen
+Line 1346: LOCATION Diyarbakır
+Line 1347: PERSON Bekir Polat
+Line 1349: PERSON Polat
+Line 1351: PERSON Şener Şen
+Line 1353: PERSON Cemal Sönmez
+Line 1354: PERSON Cemal
+Line 1355: PERSON Şener Şen
+Line 1358: PERSON Şener Şen
+Line 1364: PERSON Şener Şen
+Line 1366: PERSON Şen
+Line 1366: LOCATION Ancak
+Line 1370: PERSON Su
+Line 1373: LOCATION Genç
+Line 1374: PERSON Hüseyin Kırcalı
+Line 1374: PERSON Şener Şen
+Line 1374: LOCATION Tanrım
+Line 1374: LOCATION Şanlıurfa
+Line 1379: PERSON Konseyi
+Line 1380: ORGANIZATION Hırvat Federasyonu
+Line 1381: LOCATION Dayton
+Line 1381: LOCATION ABD
+Line 1381: ORGANIZATION Hırvat Federasyonu
+Line 1382: PERSON Devlet Başkanlığı
+Line 1383: PERSON Ülke Parlamentosu
+Line 1385: ORGANIZATION Hırvat Federasyonu
+Line 1389: ORGANIZATION Hırvat Federasyonu
+Line 1393: LOCATION Türkiye
+Line 1393: LOCATION Ay
+Line 1393: TIME ekim
+Line 1394: PERSON Beyazıt Tıp Medresesi
+Line 1394: LOCATION Uzunköprü
+Line 1394: LOCATION Edirne
+Line 1394: LOCATION Kilitbahir Kalesi
+Line 1394: LOCATION Bursa
+Line 1394: LOCATION Ay
+Line 1394: LOCATION Söğüt
+Line 1394: TIME yaz
+Line 1394: TIME Cumalıkızık
+Line 1395: PERSON Yaşar Saraçoğlu
+Line 1395: PERSON Gülsün Durak
+Line 1395: PERSON Özgül Kavruk
+Line 1395: LOCATION Türkiye
+Line 1395: TIME güz
+Line 1395: TIME ekim
+Line 1397: TIME 1999
+Line 1399: PERSON Yıldız
+Line 1399: LOCATION Ay
+Line 1400: LOCATION Karabük
+Line 1401: LOCATION Parma
+Line 1404: PERSON Saffet
+Line 1404: PERSON Mustafa
+Line 1404: PERSON Rüştü
+Line 1404: LOCATION Ancak
+Line 1404: LOCATION Parma
+Line 1404: TIME Salı
+Line 1405: PERSON Ateş Ünal Erzen
+Line 1405: LOCATION Parma
+Line 1405: LOCATION Ancak
+Line 1405: TIME kış
+Line 1406: LOCATION Parma
+Line 1406: TIME Salı
+Line 1406: TIME yaz
+Line 1407: PERSON Murat Yakın
+Line 1408: PERSON Metin Diyadin
+Line 1410: PERSON Şener Şen
+Line 1417: LOCATION Şanlıurfa
+Line 1420: PERSON Pamuk
+Line 1422: LOCATION Türkiye
+Line 1422: LOCATION Şanlıurfa
+Line 1422: TIME 9.7
+Line 1426: LOCATION Şanlıurfa
+Line 1430: LOCATION Güzel
+Line 1430: TIME Güz
+Line 1441: PERSON Abbas Sümer
+Line 1441: PERSON Mansur Özdemir
+Line 1441: TIME ekim
+Line 1443: LOCATION Mardin
+Line 1443: LOCATION Diyarbakır
+Line 1443: LOCATION Viranşehir
+Line 1450: LOCATION Washington
+Line 1450: LOCATION ABD
+Line 1450: LOCATION Clinton
+Line 1451: LOCATION Clinton
+Line 1452: PERSON Yasemin ÇONGAR
+Line 1452: LOCATION WASHINGTON
+Line 1453: LOCATION ABD
+Line 1453: LOCATION Clinton
+Line 1454: LOCATION Clinton
+Line 1455: LOCATION Washington
+Line 1455: LOCATION York
+Line 1456: LOCATION Clinton
+Line 1458: LOCATION Clinton
+Line 1459: LOCATION Washington
+Line 1459: LOCATION Beyaz Saray
+Line 1459: LOCATION Clinton
+Line 1459: TIME yaz
+Line 1460: LOCATION Clinton
+Line 1466: LOCATION Clinton
+Line 1470: LOCATION Clinton
+Line 1470: LOCATION Adalet
+Line 1471: LOCATION Clinton
+Line 1474: PERSON Şükran Günü
+Line 1474: LOCATION Washington
+Line 1474: LOCATION Clinton
+Line 1474: TIME Kasım
+Line 1476: LOCATION Clinton
+Line 1477: LOCATION Anayasa
+Line 1478: LOCATION Ancak
+Line 1478: LOCATION Clinton
+Line 1480: LOCATION Gallup
+Line 1480: LOCATION Clinton
+Line 1481: LOCATION Ancak
+Line 1481: LOCATION Clinton
+Line 1483: LOCATION Clinton
+Line 1486: LOCATION Beyaz Saray
+Line 1486: TIME yaz
+Line 1488: PERSON Batı Kanat
+Line 1488: LOCATION Beyaz Saray
+Line 1488: TIME yaz
+Line 1490: LOCATION Clinton
+Line 1492: PERSON Kasım
+Line 1492: TIME Kasım 1995 
+Line 1492: TIME 15 Kasım 1995
+Line 1492: TIME 15 Kasım
+Line 1492: TIME Kasım
+Line 1492: TIME 1995
+Line 1493: LOCATION Beyaz Saray
+Line 1493: TIME 1.30
+Line 1493: TIME 5.07
+Line 1493: TIME 12.18
+Line 1493: TIME yaz
+Line 1493: TIME Kasım
+Line 1493: TIME 16 Kasım
+Line 1494: LOCATION Oval
+Line 1494: LOCATION Beyaz Saray
+Line 1494: TIME 12:35
+Line 1494: TIME yaz
+Line 1494: TIME 15 Kasım
+Line 1494: TIME 5:01
+Line 1494: TIME Kasım
+Line 1494: TIME 16 Kasım
+Line 1495: LOCATION Şef
+Line 1496: PERSON Personel Şefi
+Line 1498: LOCATION Yarın
+Line 1499: LOCATION CLINTON
+Line 1500: LOCATION Clinton
+Line 1501: PERSON Sonbahar
+Line 1501: TIME Sonbahar
+Line 1501: TIME bahar
+Line 1502: LOCATION Washington
+Line 1503: LOCATION Clinton
+Line 1504: LOCATION Singapur
+Line 1505: LOCATION Avustralya
+Line 1505: LOCATION Sydney
+Line 1505: LOCATION Clinton
+Line 1505: TIME yaz
+Line 1506: LOCATION Clinton
+Line 1507: LOCATION Clinton
+Line 1509: LOCATION Clinton
+Line 1510: LOCATION Clinton
+Line 1512: LOCATION ABD
+Line 1512: LOCATION Çin
+Line 1513: PERSON Güçlü
+Line 1516: LOCATION ABD
+Line 1517: PERSON Dünya
+Line 1523: LOCATION Endonezya
+Line 1523: LOCATION Cakarta
+Line 1525: LOCATION Star
+Line 1525: LOCATION Clinton
+Line 1530: LOCATION ABD
+Line 1530: LOCATION Clinton
+Line 1531: LOCATION Davis
+Line 1531: LOCATION Virginia
+Line 1531: LOCATION Clinton
+Line 1533: LOCATION Florida
+Line 1534: LOCATION Oregon
+Line 1535: PERSON Ani
+Line 1539: LOCATION New York
+Line 1539: LOCATION York
+Line 1539: LOCATION King
+Line 1544: LOCATION George
+Line 1544: LOCATION Washington
+Line 1550: LOCATION Clinton
+Line 1553: PERSON Kemal Gürüz
+Line 1553: LOCATION Anayasa
+Line 1554: PERSON Kemal Gürüz
+Line 1554: LOCATION Anayasa
+Line 1555: LOCATION Türkiye
+Line 1556: LOCATION Anayasa
+Line 1558: PERSON Kemal Gürüz
+Line 1561: LOCATION Anayasa
+Line 1564: TIME yaz
+Line 1566: LOCATION Anayasa
+Line 1567: LOCATION Anayasa
+Line 1582: LOCATION Anayasa
+Line 1596: LOCATION İstanbul
+Line 1596: ORGANIZATION İstanbul Üniversitesi
+Line 1600: LOCATION Türkiye
+Line 1604: LOCATION Anayasa
+Line 1608: LOCATION Tanrı
+Line 1611: LOCATION Anayasa
+Line 1623: PERSON Hata
+Line 1624: PERSON Beyza Bilgin
+Line 1626: PERSON Beyza Bilgin
+Line 1631: PERSON Atatürk
+Line 1638: LOCATION Üniversite
+Line 1652: PERSON Devlet
+Line 1655: LOCATION Anayasa
+Line 1657: LOCATION Özgürlük
+Line 1659: PERSON Tamam
+Line 1660: PERSON Sağlık
+Line 1665: PERSON İslam
+Line 1674: TIME 28 Şubat
+Line 1674: TIME Şubat
+Line 1678: TIME 1500
+Line 1683: LOCATION Türkiye
+Line 1685: LOCATION ABD
+Line 1687: TIME kış
+Line 1691: TIME 1500
+Line 1693: LOCATION Üst
+Line 1694: PERSON Özel
+Line 1695: PERSON Devlet
+Line 1696: PERSON Devlet
+Line 1698: LOCATION Türkiye
+Line 1702: TIME 2658
+Line 1702: TIME 1993
+Line 1703: TIME 1509
+Line 1705: LOCATION Üniversite
+Line 1710: PERSON Tek
+Line 1715: PERSON Bülent Eczacıbaşı
+Line 1715: LOCATION Türkiye
+Line 1723: LOCATION Rusya
+Line 1724: LOCATION Rusya
+Line 1724: TIME 1997
+Line 1726: PERSON Doğu Avrupa
+Line 1729: LOCATION Türkiye
+Line 1731: LOCATION Türkiye
+Line 1733: PERSON Asya
+Line 1733: LOCATION Rusya
+Line 1734: LOCATION Rusya
+Line 1735: LOCATION Rusya
+Line 1737: LOCATION Türkiye
+Line 1737: LOCATION Ancak
+Line 1737: LOCATION Rusya
+Line 1737: TIME pazar
+Line 1738: LOCATION Rusya
+Line 1738: TIME pazarı
+Line 1741: LOCATION Çin
+Line 1742: PERSON Asya
+Line 1746: PERSON Asya
+Line 1746: LOCATION Japonya
+Line 1748: TIME pazarlarda
+Line 1749: LOCATION Endonezya
+Line 1749: LOCATION Tayland
+Line 1749: LOCATION Malezya
+Line 1749: LOCATION Kore
+Line 1750: LOCATION Çin
+Line 1750: LOCATION Hong Kong
+Line 1751: LOCATION Çin
+Line 1753: LOCATION Japonya
+Line 1753: LOCATION Hong Kong
+Line 1755: LOCATION Arjantin
+Line 1755: LOCATION Hong Kong
+Line 1768: LOCATION Ekonomi
+Line 1769: LOCATION TEFE
+Line 1769: TIME 1998
+Line 1769: TIME 76.00
+Line 1769: TIME 1999
+Line 1769: TIME 38.50
+Line 1769: TIME 88.00
+Line 1770: TIME 1998
+Line 1771: TIME 88.00
+Line 1771: TIME 38.50
+Line 1773: TIME 1999
+Line 1774: TIME 76.00
+Line 1774: TIME 1999
+Line 1776: LOCATION Kütahya
+Line 1777: PERSON İdil TÜTÜNCÜ
+Line 1777: LOCATION TAVŞANLI
+Line 1778: PERSON Tansu Çiller
+Line 1778: LOCATION Kütahya
+Line 1780: LOCATION Ancak
+Line 1781: LOCATION Yeni
+Line 1783: PERSON Adnan Menderes
+Line 1783: LOCATION Menderes
+Line 1783: LOCATION Adalet
+Line 1785: LOCATION Türkiye
+Line 1785: LOCATION Yeni
+Line 1785: LOCATION Strasbourg
+Line 1785: TIME 21. yüzyıl
+Line 1787: TIME kış
+Line 1788: LOCATION Belçika
+Line 1789: PERSON Kemal Gürüz
+Line 1789: LOCATION Anayasa
+Line 1791: LOCATION Adalet
+Line 1791: ORGANIZATION Adalet Bakanlığı
+Line 1792: LOCATION Yeni
+Line 1792: ORGANIZATION Yargıtay
+Line 1793: PERSON Fener Rum Patrikhanesi
+Line 1793: LOCATION Atina
+Line 1793: LOCATION Brüksel
+Line 1794: LOCATION Türkiye
+Line 1794: TIME 9001
+Line 1795: PERSON Ege Ordu Komutanlığı
+Line 1795: LOCATION Ordu
+Line 1796: LOCATION KAYSERİ
+Line 1798: ORGANIZATION Yurtlar Kurumu
+Line 1802: LOCATION Ankara
+Line 1805: LOCATION ABD
+Line 1805: LOCATION Clinton
+Line 1806: LOCATION Brezilya
+Line 1806: LOCATION ABD
+Line 1806: LOCATION RUSYA
+Line 1806: LOCATION Clinton
+Line 1807: TIME Pazartesi
+Line 1808: TIME pazarına
+Line 1808: TIME pazarından
+Line 1809: PERSON Renaud  Paris
+Line 1809: PERSON Osman Çarmıklı
+Line 1809: LOCATION Türkiye
+Line 1809: LOCATION Paris
+Line 1810: ORGANIZATION Koç Holding
+Line 1810: TIME Nisan
+Line 1810: TIME 1999
+Line 1812: TIME 1.3
+Line 1813: LOCATION Türkiye
+Line 1813: LOCATION Hollanda
+Line 1814: LOCATION Cumhuriyet
+Line 1815: LOCATION Türkiye
+Line 1816: LOCATION Bayındır
+Line 1816: ORGANIZATION İş Bankası
+Line 1816: ORGANIZATION Bayındır Holding
+Line 1816: ORGANIZATION Park Holding
+Line 1817: LOCATION Ağustos
+Line 1817: LOCATION Rusya
+Line 1817: TIME Ağustos
+Line 1819: PERSON Mihail Gorbaçov
+Line 1819: LOCATION Rusya
+Line 1820: PERSON Devlet Bakanı
+Line 1820: PERSON Işın Çelebi
+Line 1820: TIME 1999
+Line 1821: PERSON Tarım İşletmeleri Genel Müdürlüğü
+Line 1821: LOCATION Türkiye
+Line 1821: TIME 5 Ekim
+Line 1821: TIME Ekim
+Line 1822: ORGANIZATION Rekabet Kurumu
+Line 1824: PERSON Feza Gürsey Salonu
+Line 1824: LOCATION Ankara
+Line 1825: LOCATION Çin
+Line 1827: PERSON Şener Şen
+Line 1828: PERSON Vural Öger
+Line 1828: PERSON Birgen Air
+Line 1829: LOCATION Almanya
+Line 1830: LOCATION Türkiye
+Line 1830: LOCATION Ay
+Line 1830: TIME ekim
+Line 1831: PERSON e Etki Değerlendirme
+Line 1831: LOCATION ÇAMLIHEMŞİN
+Line 1831: ORGANIZATION Hemşin Vakfı
+Line 1832: LOCATION Brezilya
+Line 1833: TIME 1950
+Line 1833: TIME 1998
+Line 1833: TIME yaz
+Line 1834: LOCATION ABD
+Line 1836: LOCATION Margaret
+Line 1837: LOCATION OSMANİYE
+Line 1837: LOCATION Sumbas İlçesi
+Line 1840: LOCATION Kenedy Caddesi
+Line 1840: LOCATION Sahil
+Line 1840: LOCATION Çay
+Line 1840: LOCATION Kenedy
+Line 1843: PERSON Aylin LİVANELİ
+Line 1845: LOCATION Kütahya
+Line 1846: PERSON Yardımcısı
+Line 1848: LOCATION Eylül
+Line 1848: LOCATION Ankara
+Line 1848: TIME 12 Eylül
+Line 1848: TIME Eylül
+Line 1849: LOCATION Eylül
+Line 1849: TIME 12 Eylül
+Line 1849: TIME Eylül
+Line 1850: PERSON Vekili
+Line 1850: LOCATION Türkiye
+Line 1850: LOCATION Hasan
+Line 1850: LOCATION Eylül
+Line 1850: LOCATION Güzel
+Line 1850: TIME 12 Eylül
+Line 1850: TIME Eylül
+Line 1850: TIME Güz
+Line 1851: PERSON İbrahim Yaşar Dedelek
+Line 1851: PERSON Yardımcısı
+Line 1851: PERSON Yaşar 
+Line 1852: PERSON Murat Karayalçın
+Line 1852: LOCATION Samsun
+Line 1853: LOCATION Cumhuriyet
+Line 1854: LOCATION Anayasa
+Line 1855: PERSON İsmail Hakkı Karadayı
+Line 1855: LOCATION Türkiye
+Line 1856: PERSON Devlet Başkanı
+Line 1856: LOCATION PANAMA
+Line 1856: LOCATION Topkapı Sarayı
+Line 1856: LOCATION Süleymaniye
+Line 1857: PERSON Dora Maria
+Line 1857: LOCATION Topkapı Sarayı
+Line 1860: PERSON Hakan
+Line 1860: PERSON Fatih
+Line 1861: PERSON Hakan
+Line 1861: PERSON Ümit
+Line 1862: LOCATION Parma
+Line 1863: PERSON Murat
+Line 1863: PERSON Metin
+Line 1864: LOCATION Karabük
+Line 1867: PERSON İskender
+Line 1867: PERSON Hüseyin
+Line 1868: PERSON Süleyman Seba
+Line 1870: LOCATION Erzurum
+Line 1872: LOCATION Ankara
+Line 1873: LOCATION Durham
+Line 1875: PERSON Ülker
+Line 1875: PERSON Hüseyin
+Line 1877: LOCATION İSTANBUL
+Line 1879: LOCATION Erkek
+Line 1879: LOCATION Antalya
+Line 1879: ORGANIZATION Erkek Milli Takımımız
+Line 1882: LOCATION İran
+Line 1882: ORGANIZATION Serbest Güreş Milli Takımımız
+Line 1883: PERSON Harun Doğan
+Line 1884: LOCATION Aydın
+Line 1888: PERSON Doğan KOLOĞLU
+Line 1891: PERSON Ömer Üründül
+Line 1892: LOCATION Washington
+Line 1892: LOCATION ABD
+Line 1892: LOCATION Clinton
+Line 1893: LOCATION Clinton
+Line 1894: LOCATION RUSYA
+Line 1895: LOCATION İRAN
+Line 1896: LOCATION İran
+Line 1896: LOCATION Afganistan
+Line 1899: PERSON Konseyi
+Line 1901: PERSON Ebu Nidal
+Line 1901: TIME temmuz
+Line 1902: LOCATION Çin
+Line 1903: ORGANIZATION Sokağı Web Sitesi
+Line 1908: TIME 0212
+Line 1908: TIME 21. yüzyıl
+Line 1911: LOCATION Şili
+Line 1912: LOCATION ANKARA
+Line 1913: LOCATION Ankara
+Line 1914: LOCATION Ankara
+Line 1914: LOCATION Adalet
+Line 1914: ORGANIZATION Adalet Bakanlığı
+Line 1915: LOCATION Adet
+Line 1916: LOCATION Eylül
+Line 1916: TIME Eylül
+Line 1916: TIME 23 Eylül
+Line 1918: PERSON Davut GÜLEÇ
+Line 1918: LOCATION KAYSERİ
+Line 1919: LOCATION KAYSERİ
+Line 1921: LOCATION Eğitim İl 
+Line 1921: LOCATION Kayseri
+Line 1923: LOCATION Kayseri
+Line 1924: LOCATION Kayseri
+Line 1925: PERSON Ersan ATAR
+Line 1925: LOCATION ATAR
+Line 1925: LOCATION ANKARA
+Line 1926: LOCATION Adalet
+Line 1926: ORGANIZATION Adalet Bakanlığı
+Line 1927: LOCATION Yeni
+Line 1927: ORGANIZATION Yargıtay
+Line 1928: ORGANIZATION Yargıtay
+Line 1929: ORGANIZATION Yargıtay
+Line 1929: TIME ocak
+Line 1931: TIME 3.5
+Line 1938: PERSON Hakim
+Line 1939: LOCATION Aynı
+Line 1947: ORGANIZATION Milli Eğitim Bakanlığı
+Line 1947: TIME kasım
+Line 1948: PERSON Doğu
+Line 1948: LOCATION İstanbul
+Line 1948: LOCATION Ankara
+Line 1948: LOCATION İzmir
+Line 1949: TIME 1998
+Line 1953: ORGANIZATION Çocuk Esirgeme Kurumu
+Line 1956: LOCATION ANKARA
+Line 1958: PERSON Ünal
+Line 1959: PERSON Ünal
+Line 1959: PERSON Devlet
+Line 1960: PERSON Ünal
+Line 1961: LOCATION Türkiye
+Line 1961: TIME 9001
+Line 1962: PERSON Ege Ordu Komutanlığı
+Line 1962: LOCATION Ordu
+Line 1965: PERSON Ege Merkez Komutanlığı
+Line 1965: LOCATION Merkez
+Line 1965: TIME 9001
+Line 1966: PERSON İbrahim YÜKSEL
+Line 1967: ORGANIZATION Yurtlar Kurumu
+Line 1968: ORGANIZATION Afyon Kocatepe Üniversitesi
+Line 1968: ORGANIZATION Yurtlar Kurumu
+Line 1969: PERSON Sağlık Yüksek Okulu
+Line 1969: ORGANIZATION Sağlık Yüksek Okulu
+Line 1970: PERSON Ahmet Özyurt
+Line 1971: PERSON Özel İdare
+Line 1971: ORGANIZATION Yurtlar Kurumu
+Line 1972: PERSON Taki BERBERAKİS
+Line 1973: PERSON Fener Rum Patrikhanesi
+Line 1973: LOCATION Atina
+Line 1973: LOCATION Brüksel
+Line 1974: PERSON Fener Rum Patrikhanesi
+Line 1974: LOCATION İstanbul
+Line 1974: LOCATION Atina
+Line 1975: TIME pazarlık
+Line 1976: PERSON Fener
+Line 1976: LOCATION Atina
+Line 1977: TIME pazarlık
+Line 1978: PERSON Fener
+Line 1978: LOCATION Atina
+Line 1978: LOCATION Brüksel
+Line 1980: PERSON Fener Patrikhanesi
+Line 1980: LOCATION Türkiye
+Line 1980: LOCATION İstanbul
+Line 1980: LOCATION Atina
+Line 1981: LOCATION İstanbul
+Line 1982: PERSON Fener
+Line 1983: LOCATION Kıbrıs
+Line 1983: LOCATION Brüksel
+Line 1984: TIME pazarına
+Line 1984: TIME pazarından
+Line 1985: LOCATION Türkiye
+Line 1985: LOCATION Paris
+Line 1986: PERSON Perihan ÇAKIROĞLU
+Line 1987: LOCATION Paris
+Line 1988: LOCATION Türkiye
+Line 1988: TIME pazarlayan
+Line 1989: TIME yaz
+Line 1990: PERSON Renaud Paris
+Line 1990: LOCATION Türkiye
+Line 1990: LOCATION Paris
+Line 1990: LOCATION Fransa
+Line 1991: LOCATION Türkiye
+Line 1992: LOCATION Türkiye
+Line 1992: LOCATION Paris
+Line 1992: TIME güz
+Line 1992: TIME 1950
+Line 1994: LOCATION Paris
+Line 1994: LOCATION İstanbul
+Line 1995: PERSON Renaud Paris
+Line 1995: LOCATION Paris
+Line 1995: LOCATION İstanbul
+Line 1996: LOCATION Ancak
+Line 1999: PERSON Renaud Paris
+Line 1999: LOCATION Paris
+Line 1999: TIME pazarlıkların
+Line 2002: PERSON Renaud
+Line 2002: PERSON Osman Çarmıklı
+Line 2002: LOCATION Paris
+Line 2002: TIME yaz
+Line 2003: PERSON Kasım
+Line 2003: TIME Kasım
+Line 2005: PERSON Kuzey Afrika
+Line 2005: LOCATION Arap
+Line 2005: LOCATION Romanya
+Line 2005: LOCATION Rusya
+Line 2005: TIME Ocak
+Line 2006: PERSON Renaud
+Line 2006: LOCATION Paris
+Line 2006: TIME 2003
+Line 2006: TIME pazarda
+Line 2009: LOCATION Türkiye
+Line 2009: TIME 2.5
+Line 2009: TIME pazarının
+Line 2010: TIME Pazarın
+Line 2010: TIME pazarın
+Line 2012: TIME 1.48
+Line 2012: TIME 1997
+Line 2013: TIME 1997
+Line 2013: TIME pazarı
+Line 2015: PERSON Canan Kozmetik
+Line 2015: TIME Pazarın
+Line 2015: TIME pazarda
+Line 2016: TIME Pazarın
+Line 2016: TIME pazarı
+Line 2018: TIME 1997
+Line 2018: TIME pazarda
+Line 2020: TIME pazarına
+Line 2021: TIME 1994
+Line 2021: TIME pazarı
+Line 2021: TIME 1995
+Line 2021: TIME 1996
+Line 2021: TIME kış
+Line 2021: TIME 1997
+Line 2021: TIME pazarda
+Line 2022: LOCATION Gillette
+Line 2022: TIME Pazara
+Line 2022: TIME 1995
+Line 2023: LOCATION Gillette
+Line 2023: TIME pazarını
+Line 2024: LOCATION Gillette
+Line 2024: TIME 1997
+Line 2024: TIME pazarının
+Line 2025: LOCATION Türkiye
+Line 2025: TIME 2.5
+Line 2025: TIME pazarının
+Line 2026: TIME Pazarın
+Line 2026: TIME pazarın
+Line 2028: TIME 1.48
+Line 2028: TIME 1997
+Line 2029: TIME 1997
+Line 2029: TIME pazarı
+Line 2031: PERSON Canan Kozmetik
+Line 2031: TIME Pazarın
+Line 2031: TIME pazarda
+Line 2032: TIME Pazarın
+Line 2032: TIME pazarı
+Line 2034: TIME 1997
+Line 2034: TIME pazarda
+Line 2036: TIME pazarına
+Line 2037: TIME 1994
+Line 2037: TIME pazarı
+Line 2037: TIME 1995
+Line 2037: TIME 1996
+Line 2037: TIME kış
+Line 2037: TIME 1997
+Line 2037: TIME pazarda
+Line 2038: LOCATION Gillette
+Line 2038: TIME Pazara
+Line 2038: TIME 1995
+Line 2039: LOCATION Gillette
+Line 2039: TIME pazarını
+Line 2040: LOCATION Gillette
+Line 2040: TIME 1997
+Line 2041: PERSON Perihan ÇAKIROĞLU
+Line 2043: TIME 1.3
+Line 2044: LOCATION Türkiye
+Line 2044: LOCATION Hollanda
+Line 2045: LOCATION Cumhuriyet
+Line 2046: LOCATION Türkiye
+Line 2047: PERSON Melih Türker
+Line 2047: LOCATION Türkiye
+Line 2048: PERSON Melih Türker
+Line 2048: LOCATION Türkiye
+Line 2048: LOCATION Bakü
+Line 2048: TIME kış
+Line 2049: PERSON Türker
+Line 2049: LOCATION Türkiye
+Line 2051: LOCATION Hollanda
+Line 2060: TIME pazarlama
+Line 2061: LOCATION Türkiye
+Line 2062: LOCATION Türkiye
+Line 2063: LOCATION Türkiye
+Line 2064: LOCATION Türkiye
+Line 2065: LOCATION Türkiye
+Line 2067: TIME pazara
+Line 2069: PERSON Artık
+Line 2073: LOCATION Merkez
+Line 2073: LOCATION Carrefour
+Line 2073: ORGANIZATION Carrefour
+Line 2077: TIME pazarlama
+Line 2079: LOCATION Türkiye
+Line 2087: PERSON Ülke
+Line 2087: ORGANIZATION BP
+Line 2087: TIME pazar
+Line 2089: LOCATION Yeni
+Line 2093: TIME pazarlama
+Line 2094: TIME pazarlamadaki
+Line 2098: PERSON Gerçek
+Line 2101: ORGANIZATION TÜPRAŞ
+Line 2102: PERSON Artık
+Line 2107: ORGANIZATION Tüpraş
+Line 2108: ORGANIZATION TÜPRAŞ
+Line 2111: PERSON Ceyhan
+Line 2111: LOCATION Bakü
+Line 2112: LOCATION Türkiye
+Line 2113: LOCATION Ancak
+Line 2114: LOCATION Türkiye
+Line 2119: PERSON Ceyhan
+Line 2119: LOCATION Bakü
+Line 2120: TIME pazarı
+Line 2122: PERSON Tarım İşletmeleri Genel Müdürlüğü
+Line 2122: LOCATION Türkiye
+Line 2122: TIME 5 Ekim
+Line 2122: TIME Ekim
+Line 2124: LOCATION Erzurum
+Line 2124: LOCATION İstanbul
+Line 2124: TIME 5 Ekim
+Line 2124: TIME Ekim
+Line 2125: LOCATION Erzurum
+Line 2128: TIME 71.8
+Line 2131: LOCATION Erzurum
+Line 2132: LOCATION Ağustos
+Line 2132: LOCATION Rusya
+Line 2132: TIME Ağustos
+Line 2134: LOCATION RUSYA
+Line 2136: LOCATION Ağustos
+Line 2136: TIME Ağustos
+Line 2137: LOCATION Ağustos
+Line 2137: TIME 41.9
+Line 2137: TIME Ağustos
+Line 2137: TIME 75.2
+Line 2138: PERSON Asya
+Line 2138: PERSON Ekim
+Line 2138: TIME Mayıs
+Line 2138: TIME 1997
+Line 2138: TIME Ekim
+Line 2139: ORGANIZATION Akbank
+Line 2140: LOCATION Ağustos
+Line 2140: TIME Ağustos
+Line 2141: ORGANIZATION Akbank
+Line 2142: ORGANIZATION İş Bankası
+Line 2143: LOCATION Ağustos
+Line 2143: TIME Ağustos
+Line 2144: LOCATION Ağustos
+Line 2144: TIME Ağustos
+Line 2145: PERSON Güney Bira
+Line 2145: PERSON Sabah Yayıncılık
+Line 2148: PERSON Kasım
+Line 2148: PERSON Ekim
+Line 2148: LOCATION Eylül
+Line 2148: LOCATION Ağustos
+Line 2148: TIME Ağustos
+Line 2148: TIME Ocak
+Line 2148: TIME Mart 1998 
+Line 2148: TIME Eylül 1997 
+Line 2148: TIME Şubat 1998 
+Line 2148: TIME Aralık 1997 
+Line 2148: TIME Kasım
+Line 2148: TIME Ocak 1998 
+Line 2148: TIME Nisan
+Line 2148: TIME 1998
+Line 2148: TIME Nisan 1998 
+Line 2148: TIME Ekim 1997 
+Line 2148: TIME Ağustos 1998 
+Line 2148: TIME Mart
+Line 2148: TIME Temmuz 1998 
+Line 2148: TIME Temmuz
+Line 2148: TIME Ekim
+Line 2148: TIME Şubat
+Line 2148: TIME Haziran
+Line 2148: TIME Haziran 1998 
+Line 2148: TIME Mayıs
+Line 2148: TIME Eylül
+Line 2148: TIME Mayıs 1998 
+Line 2148: TIME Aralık
+Line 2148: TIME 1997
+Line 2148: TIME Kasım 1997 
+Line 2149: ORGANIZATION Koç Holding
+Line 2149: TIME Nisan
+Line 2149: TIME 1999
+Line 2150: PERSON Koç
+Line 2150: LOCATION Türkiye
+Line 2150: LOCATION Rusya
+Line 2151: PERSON Seçim
+Line 2151: PERSON Koç
+Line 2154: PERSON Rahmi Koç
+Line 2154: LOCATION Türkiye
+Line 2155: PERSON Seçim
+Line 2155: PERSON Koç
+Line 2159: LOCATION Çin
+Line 2160: PERSON Rahmi Koç
+Line 2160: LOCATION Japonya
+Line 2160: LOCATION Çin
+Line 2160: LOCATION Rusya
+Line 2161: PERSON Koç
+Line 2161: LOCATION Çin
+Line 2162: PERSON Rahmi Koç
+Line 2162: LOCATION Türkiye
+Line 2164: LOCATION Küba
+Line 2164: LOCATION Irak
+Line 2164: LOCATION Libya
+Line 2165: PERSON Rahmi Koç
+Line 2166: LOCATION ANKARA
+Line 2167: ORGANIZATION Rekabet Kurumu
+Line 2168: ORGANIZATION Rekabet Kurumu
+Line 2168: ORGANIZATION Özelleştirme İdaresi Başkanlığı
+Line 2169: ORGANIZATION Rekabet Kurumu
+Line 2169: ORGANIZATION Özelleştirme İdaresi Başkanlığı
+Line 2170: TIME pazar
+Line 2171: ORGANIZATION Rekabet Kurumu
+Line 2172: PERSON Devlet Bakanı
+Line 2172: PERSON Işın Çelebi
+Line 2172: TIME 1999
+Line 2173: PERSON Çelebi
+Line 2173: TIME 1998
+Line 2173: TIME 1999
+Line 2174: TIME 1999
+Line 2183: PERSON Ekim
+Line 2183: TIME Ekim
+Line 2184: PERSON Zülfikar DOĞAN
+Line 2184: LOCATION ANKARA
+Line 2185: LOCATION Bayındır
+Line 2185: ORGANIZATION İş Bankası
+Line 2185: ORGANIZATION Bayındır Holding
+Line 2185: ORGANIZATION Park Holding
+Line 2186: ORGANIZATION Rekabet Kurumu
+Line 2186: ORGANIZATION Özelleştirme İdaresi Başkanlığı
+Line 2186: TIME 3 Kasım
+Line 2186: TIME Kasım
+Line 2187: PERSON Mehmet Gültekin
+Line 2187: TIME 6300
+Line 2188: LOCATION Yeni
+Line 2188: TIME 3400
+Line 2188: TIME 6300
+Line 2189: PERSON Mihail Gorbaçov
+Line 2189: LOCATION Rusya
+Line 2190: LOCATION Rusya
+Line 2191: LOCATION Rusya
+Line 2192: LOCATION Merkez
+Line 2192: LOCATION Eylül
+Line 2192: LOCATION Rusya
+Line 2192: ORGANIZATION Rusya Merkez Bankası
+Line 2192: TIME Eylül
+Line 2192: TIME 2 Eylül
+Line 2193: LOCATION Londra
+Line 2193: LOCATION Rusya
+Line 2194: LOCATION Rusya
+Line 2195: PERSON Feza Gürsey Salonu
+Line 2195: LOCATION Ankara
+Line 2196: LOCATION Çin
+Line 2197: LOCATION Eylül
+Line 2197: TIME Eylül
+Line 2199: LOCATION Pazar
+Line 2199: LOCATION Eylül
+Line 2199: TIME Pazar
+Line 2199: TIME Eylül
+Line 2199: TIME 14.30
+Line 2199: TIME 13 Eylül
+Line 2202: LOCATION PAZAR
+Line 2202: LOCATION Eylül
+Line 2202: TIME 16.30
+Line 2202: TIME Eylül
+Line 2202: TIME 13 Eylül
+Line 2203: LOCATION Yeni
+Line 2204: LOCATION Pazar
+Line 2204: LOCATION Altın
+Line 2204: LOCATION Eylül
+Line 2204: LOCATION Essen
+Line 2204: LOCATION Cannes
+Line 2204: TIME Pazar
+Line 2204: TIME 15 Eylül
+Line 2204: TIME 20.30
+Line 2204: TIME Cuma
+Line 2204: TIME 20 Eylül
+Line 2204: TIME 18 Eylül
+Line 2204: TIME 18.30
+Line 2204: TIME 17.00
+Line 2204: TIME Eylül
+Line 2204: TIME 15.30
+Line 2204: TIME yaz
+Line 2204: TIME Salı
+Line 2204: TIME 14.00
+Line 2205: PERSON Buket AŞÇI
+Line 2205: ORGANIZATION Buket AŞÇI
+Line 2208: LOCATION Türkiye
+Line 2208: LOCATION Cumhuriyet
+Line 2208: ORGANIZATION Tarih Vakfı
+Line 2208: TIME kış
+Line 2209: LOCATION Cumhuriyet
+Line 2209: ORGANIZATION Tarih Vakfı
+Line 2209: TIME kış
+Line 2210: LOCATION Eylül
+Line 2210: LOCATION Cumhuriyet
+Line 2210: ORGANIZATION Tarih Vakfı
+Line 2210: TIME 18 Eylül
+Line 2210: TIME Eylül
+Line 2212: PERSON Yiğit Öksüz
+Line 2212: LOCATION Cumhuriyet
+Line 2213: LOCATION Cumhuriyet
+Line 2214: LOCATION Cumhuriyet
+Line 2215: PERSON Altan ÖYMEN
+Line 2216: LOCATION Star
+Line 2221: TIME 1973
+Line 2223: LOCATION Clinton
+Line 2226: LOCATION Clinton
+Line 2227: LOCATION Beyaz Saray
+Line 2227: LOCATION Clinton
+Line 2227: TIME yaz
+Line 2229: LOCATION Clinton
+Line 2233: LOCATION ABD
+Line 2233: LOCATION Clinton
+Line 2235: PERSON Pek
+Line 2239: LOCATION Clinton
+Line 2240: LOCATION ABD
+Line 2245: PERSON Devlet
+Line 2247: LOCATION Clinton
+Line 2248: LOCATION ABD
+Line 2248: LOCATION Clinton
+Line 2254: LOCATION Yalnız
+Line 2258: TIME 1955
+Line 2260: LOCATION Odessa
+Line 2260: LOCATION Tokyo
+Line 2260: LOCATION İstanbul
+Line 2260: LOCATION New York
+Line 2260: LOCATION York
+Line 2260: LOCATION Moskova
+Line 2263: PERSON Zaman
+Line 2265: LOCATION Bodrum Kalesi
+Line 2267: PERSON Hüseyin Sermet
+Line 2267: LOCATION Mori
+Line 2271: LOCATION Bodrum Kalesi
+Line 2272: LOCATION Bodrum Kalesi
+Line 2278: LOCATION Pierre
+Line 2278: TIME yaz
+Line 2279: PERSON Doğu Akdeniz Kültür
+Line 2279: ORGANIZATION Sanat Vakfı
+Line 2280: PERSON Hüseyin Sermet
+Line 2281: PERSON Dünya
+Line 2284: PERSON Hüseyin Sermet
+Line 2285: LOCATION Bodrum Kalesi
+Line 2286: LOCATION Japonya
+Line 2290: LOCATION Türkiye
+Line 2291: PERSON Artık
+Line 2291: LOCATION Türkiye
+Line 2291: TIME mart
+Line 2291: TIME salı
+Line 2291: TIME Cumartesi
+Line 2294: LOCATION Türkiye
+Line 2295: LOCATION İzmir
+Line 2297: TIME pazar
+Line 2299: PERSON Cumhurbaşkanı
+Line 2303: PERSON Artık
+Line 2304: PERSON Devlet Güvenlik Mahkemesi
+Line 2304: PERSON Hakim 
+Line 2304: LOCATION Türkiye
+Line 2304: LOCATION Ancak
+Line 2304: TIME yaz
+Line 2308: LOCATION Türkiye
+Line 2310: TIME yaz
+Line 2311: PERSON Hani
+Line 2311: TIME yaz
+Line 2312: PERSON Aziz
+Line 2313: TIME yaz
+Line 2316: LOCATION Darülaceze
+Line 2316: TIME kış
+Line 2325: TIME yaz
+Line 2329: PERSON Karadeniz
+Line 2329: LOCATION İstanbul
+Line 2329: TIME mart
+Line 2329: TIME kasım
+Line 2331: TIME mayıs
+Line 2331: TIME Nisan
+Line 2339: LOCATION Erkek
+Line 2342: PERSON Paşa
+Line 2344: PERSON Mehmet Kemal
+Line 2344: LOCATION Eylül
+Line 2344: TIME 12 Eylül
+Line 2344: TIME Eylül
+Line 2344: TIME yaz
+Line 2345: TIME kış
+Line 2346: PERSON Adli Yıl
+Line 2346: TIME yaz
+Line 2347: ORGANIZATION Yargıtay
+Line 2349: PERSON Gülay Göktürk
+Line 2349: TIME pazarlık
+Line 2349: TIME yaz
+Line 2350: TIME kış
+Line 2358: PERSON Hakim 
+Line 2358: TIME kış
+Line 2359: PERSON Hakim 
+Line 2360: PERSON Ömer Şarlak
+Line 2362: PERSON Ömer Şarlak
+Line 2363: PERSON Ömer Lütfü Topal
+Line 2363: LOCATION Halen
+Line 2363: ORGANIZATION İnönü Üniversitesi
+Line 2364: PERSON Ömer Şarlak
+Line 2365: PERSON Ömer Lütfü Topal
+Line 2365: TIME 1987
+Line 2370: PERSON Hikmet Bayar
+Line 2372: PERSON Güler
+Line 2373: LOCATION Kara
+Line 2375: PERSON Birgün
+Line 2377: PERSON Çiftçi
+Line 2387: PERSON Çiftçi
+Line 2391: LOCATION Clinton
+Line 2394: PERSON Mesut Yılmaz
+Line 2394: PERSON Fahrettin Fidan
+Line 2394: TIME yaz
+Line 2398: LOCATION Clinton
+Line 2402: PERSON Necmettin Erbakan
+Line 2403: TIME yaz
+Line 2412: PERSON Bülent Ecevit
+Line 2412: PERSON Rahşan Ecevit
+Line 2413: PERSON Bülent
+Line 2415: PERSON Hikmet Çetin
+Line 2418: LOCATION Bursa
+Line 2421: PERSON Deniz Baykal
+Line 2422: PERSON Olay
+Line 2434: PERSON Tansu Çiller
+Line 2439: PERSON Mesut Yılmaz
+Line 2448: LOCATION Clinton
+Line 2449: LOCATION ABD
+Line 2451: LOCATION Clinton
+Line 2454: LOCATION Clinton
+Line 2455: PERSON Hülya Avşar
+Line 2456: PERSON Hülya Avşar
+Line 2458: PERSON Hülya Avşar
+Line 2459: LOCATION Kaya
+Line 2459: LOCATION Clinton
+Line 2460: PERSON Hülya Avşar
+Line 2461: LOCATION Kaya
+Line 2462: PERSON Hülya Avşar
+Line 2463: PERSON Meşhur
+Line 2464: PERSON Hülya Avşar
+Line 2464: LOCATION Clinton
+Line 2467: LOCATION Türkiye
+Line 2468: LOCATION Menderes
+Line 2469: PERSON Suzan Sözen
+Line 2469: PERSON Ayhan Aydan
+Line 2471: LOCATION Hasan
+Line 2472: PERSON Hamdi Üçpınarlar
+Line 2473: PERSON İlyas Aktaş
+Line 2477: LOCATION Oval
+Line 2477: LOCATION Arafat
+Line 2477: TIME pazarlıktayken
+Line 2480: PERSON Dünya
+Line 2483: LOCATION Clinton
+Line 2488: PERSON Oy
+Line 2490: PERSON Seçim
+Line 2491: LOCATION İstanbul
+Line 2491: ORGANIZATION İstanbul Üniversitesi
+Line 2496: LOCATION ALMANYA
+Line 2499: PERSON Güneş Taner
+Line 2499: LOCATION Almanya
+Line 2500: PERSON Devlet Bakanı
+Line 2500: LOCATION Almanya
+Line 2504: PERSON Taner
+Line 2507: LOCATION Almanya
+Line 2509: LOCATION Almanya
+Line 2510: LOCATION Almanya
+Line 2514: PERSON Taner
+Line 2514: LOCATION Almanya
+Line 2516: LOCATION Türkiye
+Line 2516: LOCATION Almanya
+Line 2519: LOCATION Türkiye
+Line 2520: LOCATION Türkiye
+Line 2521: LOCATION Yarın
+Line 2523: LOCATION Rusya
+Line 2524: PERSON Asya
+Line 2524: TIME pazarını
+Line 2525: TIME pazarını
+Line 2526: PERSON Taner
+Line 2529: PERSON Taner
+Line 2531: LOCATION Almanya
+Line 2532: TIME pazar
+Line 2534: PERSON Demirel
+Line 2535: PERSON Güneş Taner
+Line 2537: PERSON Taner
+Line 2537: LOCATION Akıl
+Line 2538: LOCATION Almanya
+Line 2540: PERSON Güneş Taner
+Line 2541: LOCATION Almanya
+Line 2542: LOCATION Almanya
+Line 2544: PERSON Güneş Taner
+Line 2544: LOCATION Türkiye
+Line 2544: LOCATION Almanya
+Line 2544: LOCATION Düsseldorf
+Line 2544: LOCATION Frankfurt
+Line 2545: PERSON Demirel
+Line 2545: LOCATION GAZ
+Line 2549: LOCATION Dachau
+Line 2551: LOCATION Almanya
+Line 2555: LOCATION Dachau
+Line 2555: LOCATION Almanya
+Line 2555: TIME 1945
+Line 2555: TIME 1933
+Line 2557: LOCATION Dachau
+Line 2558: LOCATION Gaz
+Line 2560: LOCATION Dachau
+Line 2562: LOCATION Dachau
+Line 2564: LOCATION Dachau
+Line 2566: LOCATION Dachau
+Line 2568: LOCATION Dachau
+Line 2575: LOCATION Dachau
+Line 2577: LOCATION Pazar
+Line 2577: TIME Pazar
+Line 2584: TIME yaz
+Line 2587: TIME yaz
+Line 2590: TIME kış
+Line 2593: PERSON Berna
+Line 2593: PERSON Semra
+Line 2593: TIME yaz
+Line 2595: TIME güz
+Line 2599: PERSON Gerçek
+Line 2601: LOCATION Pazar
+Line 2601: TIME Pazar
+Line 2603: LOCATION İzmir
+Line 2603: TIME Nisan
+Line 2603: TIME 18 Nisan 1999
+Line 2603: TIME 1999
+Line 2603: TIME 18 Nisan
+Line 2603: TIME Nisan 1999 
+Line 2604: PERSON Ege
+Line 2604: LOCATION İzmir
+Line 2604: TIME güz
+Line 2605: LOCATION İzmir
+Line 2606: LOCATION Türkiye
+Line 2606: LOCATION İzmir
+Line 2607: LOCATION Cumhuriyet
+Line 2607: LOCATION İzmir
+Line 2610: PERSON Halit Ziya Uşaklıgil
+Line 2610: LOCATION İzmir
+Line 2612: LOCATION İzmir
+Line 2613: TIME Yaz
+Line 2616: PERSON Ege Palas
+Line 2616: LOCATION Eylül
+Line 2616: TIME Eylül
+Line 2616: TIME 9 Eylül
+Line 2617: LOCATION Kültür Park
+Line 2618: LOCATION Aynı
+Line 2618: LOCATION Bursa
+Line 2627: LOCATION İstanbul
+Line 2627: LOCATION Atlantik
+Line 2634: LOCATION Brezilya
+Line 2635: TIME 1950
+Line 2635: TIME 1998
+Line 2635: TIME yaz
+Line 2637: LOCATION Brezilya
+Line 2638: PERSON Aylin LİVANELİ
+Line 2639: PERSON Hürriyet
+Line 2640: LOCATION Türkiye
+Line 2641: LOCATION Yalnız
+Line 2652: TIME kış
+Line 2654: TIME kış
+Line 2659: LOCATION Türkiye
+Line 2664: LOCATION İsveç
+Line 2665: PERSON Yazık
+Line 2665: TIME Yaz
+Line 2670: PERSON Eser Alptekin
+Line 2672: PERSON Alptekin
+Line 2680: LOCATION Türkiye
+Line 2683: PERSON Evin
+Line 2685: ORGANIZATION Sony
+Line 2696: LOCATION Türkiye
+Line 2696: TIME 2000
+Line 2698: LOCATION Hayır
+Line 2702: LOCATION Türkiye
+Line 2702: TIME 21. yüzyıla
+Line 2704: LOCATION WILDE
+Line 2705: LOCATION LONDRA
+Line 2706: LOCATION Margaret
+Line 2707: LOCATION Margaret
+Line 2708: LOCATION Margaret
+Line 2709: LOCATION ANKARA
+Line 2710: PERSON e Etki Değerlendirme
+Line 2710: LOCATION ÇAMLIHEMŞİN
+Line 2710: LOCATION Ankara
+Line 2710: ORGANIZATION Hemşin Vakfı
+Line 2711: PERSON Bakanlığı
+Line 2711: TIME Haziran 1998 
+Line 2711: TIME 1998
+Line 2711: TIME 26 Haziran 1998
+Line 2711: TIME 26 Haziran
+Line 2711: TIME Haziran
+Line 2712: LOCATION İSTANBUL
+Line 2714: LOCATION Kenedy Caddesi
+Line 2714: LOCATION Sahil
+Line 2714: LOCATION Çay
+Line 2714: LOCATION Kenedy
+Line 2715: PERSON Arbaş Kuyumculuk
+Line 2716: PERSON Arbaş Kuyumculuk
+Line 2717: LOCATION Kenedy Caddesi
+Line 2717: LOCATION Sahil
+Line 2717: LOCATION Kenedy
+Line 2717: TIME güz
+Line 2718: PERSON Selim GENÇ
+Line 2718: LOCATION GENÇ
+Line 2721: LOCATION Harvey
+Line 2724: LOCATION ABD
+Line 2725: LOCATION Tucson
+Line 2725: LOCATION ABD
+Line 2726: TIME ekim
+Line 2729: PERSON Güneş
+Line 2729: TIME 2.6
+Line 2731: PERSON Mehmet AKKAŞ
+Line 2731: PERSON Neşet KARADAĞ
+Line 2731: LOCATION SUMBAS
+Line 2731: LOCATION KARADAĞ
+Line 2732: LOCATION OSMANİYE
+Line 2732: LOCATION Sumbas İlçesi
+Line 2734: LOCATION Reşadiye Köyü
+Line 2734: LOCATION Sumbas İlçesi
+Line 2735: LOCATION Sadık
+Line 2737: LOCATION Sadık
+Line 2738: PERSON Mehmet Üzer
+Line 2738: LOCATION Sadık
+Line 2740: PERSON Önder Güler
+Line 2740: PERSON Mehmet Üzer
+Line 2741: LOCATION Ancak
+Line 2742: PERSON Reyhan Tunca
+Line 2742: PERSON Niyazi Sırık
+Line 2742: PERSON Zeynel Üzer
+Line 2742: PERSON Abdullah Dinç
+Line 2742: PERSON Süleyman Çöllü
+Line 2742: LOCATION Hasan
+Line 2742: TIME yaz
+Line 2743: LOCATION Kadirli
+Line 2743: ORGANIZATION Kadirli Devlet Hastanesi
+Line 2745: LOCATION Kadirli
+Line 2745: LOCATION Osmaniye Belediyesi
+Line 2745: LOCATION Osmaniye
+Line 2746: LOCATION Kadirli
+Line 2746: LOCATION Osmaniye
+Line 2747: LOCATION Almak
+Line 2747: LOCATION Osmaniye
+Line 2749: LOCATION ANKARA
+Line 2750: PERSON İsmail Hakkı Karadayı
+Line 2750: LOCATION Türkiye
+Line 2751: PERSON Orgeneral
+Line 2754: PERSON Sıtkı Aydınel
+Line 2754: LOCATION Türkiye
+Line 2755: LOCATION İSTANBUL
+Line 2756: PERSON Devlet Başkanı
+Line 2756: LOCATION PANAMA
+Line 2756: LOCATION Topkapı Sarayı
+Line 2756: LOCATION Süleymaniye
+Line 2757: PERSON Dora Maria
+Line 2757: LOCATION Topkapı Sarayı
+Line 2758: LOCATION Süleymaniye
+Line 2759: LOCATION Türkiye
+Line 2760: PERSON Ali NAZLAR
+Line 2760: LOCATION EDİRNE
+Line 2761: LOCATION Kurumsal
+Line 2761: LOCATION Edirne
+Line 2761: LOCATION Samsun
+Line 2762: LOCATION Kurumsal
+Line 2763: LOCATION ANKARA
+Line 2764: PERSON Ali Ilıksoy
+Line 2764: LOCATION Anayasa
+Line 2765: TIME yaz
+Line 2766: PERSON Yargı
+Line 2766: LOCATION Anayasa
+Line 2766: LOCATION Ancak
+Line 2767: LOCATION ANKARA
+Line 2768: PERSON Yardımcısı İbrahim
+Line 2768: PERSON Yaşar 
+Line 2768: LOCATION Kütahya
+Line 2770: PERSON Ahmet Kaya
+Line 2770: LOCATION Türkiye
+Line 2770: LOCATION Kaya
+Line 2771: LOCATION Merkez
+Line 2774: LOCATION İSTANBUL
+Line 2775: LOCATION Cumhuriyet
+Line 2776: LOCATION Cumhuriyet
+Line 2776: TIME 28 Şubat
+Line 2776: TIME Şubat
+Line 2777: PERSON Yardımcısı
+Line 2777: LOCATION Gül
+Line 2777: LOCATION Cumhuriyet
+Line 2779: LOCATION Eylül
+Line 2779: TIME 12 Eylül
+Line 2779: TIME Eylül
+Line 2780: PERSON Vekili
+Line 2780: LOCATION Türkiye
+Line 2780: LOCATION Hasan
+Line 2780: LOCATION Eylül
+Line 2780: LOCATION Güzel
+Line 2780: TIME 12 Eylül
+Line 2780: TIME Eylül
+Line 2780: TIME Güz
+Line 2782: LOCATION Eylül
+Line 2782: TIME 12 Eylül
+Line 2782: TIME Eylül 1980 
+Line 2782: TIME Eylül
+Line 2782: TIME 12 Eylül 1980
+Line 2782: TIME 1980
+Line 2783: LOCATION Türkiye
+Line 2784: LOCATION Güzel
+Line 2784: LOCATION Eylül
+Line 2784: TIME 12 Eylül
+Line 2784: TIME Eylül
+Line 2784: TIME Güz
+Line 2785: LOCATION Türkiye
+Line 2785: LOCATION Güzel
+Line 2785: TIME 28 Şubat
+Line 2785: TIME 28 Şubat 1997
+Line 2785: TIME Güz
+Line 2785: TIME Şubat 1997 
+Line 2785: TIME 1960
+Line 2785: TIME Şubat
+Line 2785: TIME 1997
+Line 2787: PERSON Yardımcısı
+Line 2787: LOCATION Türkiye
+Line 2787: LOCATION Eylül
+Line 2787: TIME 12 Eylül
+Line 2787: TIME Eylül 1980 
+Line 2787: TIME Eylül
+Line 2787: TIME 12 Eylül 1980
+Line 2787: TIME 1980
+Line 2789: PERSON Hakkı Önal
+Line 2789: LOCATION Eylül
+Line 2789: TIME 12 Eylül
+Line 2789: TIME Eylül
+Line 2790: PERSON Tayfun Görgün
+Line 2790: LOCATION Eylül
+Line 2790: TIME 12 Eylül
+Line 2790: TIME Eylül
+Line 2791: LOCATION İran
+Line 2791: ORGANIZATION Serbest Güreş Milli Takımımız
+Line 2792: PERSON Harun Doğan
+Line 2793: LOCATION Aydın
+Line 2794: LOCATION MERİÇ
+Line 2794: LOCATION TAHRAN
+Line 2795: PERSON Dünya Serbest Güreş Şampiyonası Milli
+Line 2795: LOCATION Türkiye
+Line 2795: LOCATION İRAN
+Line 2796: PERSON Harun Doğan
+Line 2796: LOCATION Aydın
+Line 2798: PERSON Dünya
+Line 2798: LOCATION ABD
+Line 2798: LOCATION İran
+Line 2798: LOCATION Rusya
+Line 2799: LOCATION Türkiye
+Line 2800: PERSON Dünya
+Line 2803: LOCATION Ankara
+Line 2803: ORGANIZATION Serbest Güreş Milli Takımımız
+Line 2804: PERSON Yüksel Şanlı
+Line 2804: PERSON Harun Doğan
+Line 2804: LOCATION İran
+Line 2804: LOCATION Aydın
+Line 2804: LOCATION Aynı
+Line 2804: TIME 2000
+Line 2806: LOCATION İstanbul
+Line 2807: LOCATION Ankara
+Line 2808: LOCATION Durham
+Line 2810: PERSON Memduh Öget
+Line 2810: PERSON Mustafa Can
+Line 2811: PERSON Teoman
+Line 2811: PERSON Kerem
+Line 2811: PERSON Selim
+Line 2811: PERSON Orhun
+Line 2811: PERSON Gökhan
+Line 2811: LOCATION Durham
+Line 2812: PERSON Rüçhan
+Line 2812: PERSON Faruk
+Line 2812: PERSON Tamer
+Line 2812: PERSON Onur
+Line 2812: PERSON Nedim
+Line 2812: PERSON Ömer
+Line 2812: PERSON Erdem
+Line 2812: LOCATION BEŞİKTAŞ
+Line 2820: TIME güz
+Line 2825: PERSON Ahmet Gülüm
+Line 2825: LOCATION İstanbul
+Line 2825: ORGANIZATION Voleybol Federasyonu
+Line 2825: TIME Pazarcık
+Line 2829: ORGANIZATION Milli Takımımız
+Line 2831: PERSON Gürsel
+Line 2833: PERSON Dünya Şampiyonası
+Line 2833: LOCATION Japonya
+Line 2835: PERSON İskender
+Line 2835: PERSON Hüseyin
+Line 2839: PERSON Seyit Cem
+Line 2839: LOCATION Yeni
+Line 2842: LOCATION Orta
+Line 2845: PERSON Erdem Akşimşek
+Line 2845: LOCATION Campbell
+Line 2846: LOCATION Campbell
+Line 2847: PERSON Ömer Üründül
+Line 2851: PERSON Metin Diyadin
+Line 2851: PERSON Murat Yakın
+Line 2851: LOCATION Orta
+Line 2851: TIME kış
+Line 2853: LOCATION Karabük
+Line 2855: LOCATION Karabük
+Line 2856: TIME güz
+Line 2860: LOCATION Çanakkale
+Line 2863: LOCATION Parma
+Line 2863: LOCATION Trabzon
+Line 2868: PERSON İlhami Kaplan
+Line 2869: LOCATION Yalnız
+Line 2870: PERSON Kaplan
+Line 2873: PERSON Murat Yakın
+Line 2875: PERSON Hayati
+Line 2881: PERSON Murat Yakın
+Line 2882: PERSON Murat Yakın
+Line 2884: PERSON Murat Yakın
+Line 2888: PERSON Metin
+Line 2893: LOCATION Parma
+Line 2895: LOCATION Ancak
+Line 2896: LOCATION Parma
+Line 2897: LOCATION İSTANBUL
+Line 2898: TIME aralık
+Line 2899: TIME yaz
+Line 2900: PERSON İlknur Kocadağ
+Line 2900: PERSON Kutlu Torunlar
+Line 2900: PERSON Sinan Erdem
+Line 2903: LOCATION Karabük
+Line 2904: LOCATION Orta
+Line 2907: PERSON Murat Yakın
+Line 2909: PERSON Murat Yakın
+Line 2912: LOCATION Karabük
+Line 2914: LOCATION Adam
+Line 2919: PERSON Fener
+Line 2919: LOCATION Parma
+Line 2919: LOCATION Karabük
+Line 2923: PERSON Okan
+Line 2923: LOCATION Hagi
+Line 2924: PERSON Okan
+Line 2924: PERSON Tolunay
+Line 2924: PERSON Tugay
+Line 2924: PERSON Ümit
+Line 2926: PERSON Tolunay
+Line 2927: PERSON Hakan
+Line 2927: PERSON Ümit
+Line 2928: LOCATION Hasan
+Line 2931: PERSON Fatih
+Line 2931: PERSON Ergün
+Line 2931: PERSON Terim
+Line 2932: LOCATION Hasan
+Line 2934: PERSON Fatih
+Line 2935: LOCATION Sürpriz
+Line 2935: TIME kış
+Line 2937: PERSON Murat Ilgaz
+Line 2939: LOCATION Erkek
+Line 2939: LOCATION Antalya
+Line 2939: ORGANIZATION Erkek Milli Takımımız
+Line 2942: LOCATION Eylül
+Line 2942: LOCATION Belçika
+Line 2942: LOCATION Ay
+Line 2942: LOCATION Bursa
+Line 2942: TIME 19 Eylül
+Line 2942: TIME Eylül
+Line 2943: LOCATION Yunanistan
+Line 2944: PERSON Barış
+Line 2944: PERSON Hakan
+Line 2944: PERSON Cengizhan
+Line 2944: PERSON Ufuk
+Line 2944: PERSON Mehmet
+Line 2944: PERSON Aykut
+Line 2944: PERSON Osman
+Line 2944: PERSON Kenan
+Line 2944: PERSON Emrah
+Line 2944: PERSON Gökhan
+Line 2944: PERSON Erkan
+Line 2944: PERSON Şahin
+Line 2947: LOCATION Erzurum
+Line 2951: LOCATION Yarın
+Line 2951: LOCATION İtalya
+Line 2954: PERSON Hikmet Karaman
+Line 2954: LOCATION Karaman
+Line 2955: LOCATION Karaman
+Line 2956: PERSON Doğan KOLOĞLU
+Line 2957: PERSON Ümit
+Line 2959: PERSON Fatih Terim
+Line 2961: LOCATION Erzurum
+Line 2964: LOCATION Erzurum
+Line 2965: PERSON Fatih
+Line 2965: PERSON Tolunay
+Line 2965: PERSON Ümit
+Line 2969: PERSON Hakan
+Line 2969: PERSON Vedat
+Line 2971: PERSON Ümit
+Line 2974: PERSON Vedat
+Line 2975: LOCATION Ancak
+Line 2982: PERSON Muzaffer
+Line 2987: LOCATION Türkiye
+Line 2989: PERSON Hakan
+Line 2992: PERSON Ülker
+Line 2992: PERSON Hüseyin
+Line 2993: TIME yaz
+Line 2994: PERSON Haluk Yeşiloğlu
+Line 2994: PERSON Recep Ankaralı
+Line 2995: PERSON Ali Hodzic
+Line 2995: LOCATION Anderson
+Line 2995: LOCATION Serdar
+Line 2996: TIME 39.16
+Line 2997: PERSON Süleyman Seba
+Line 2999: LOCATION KARTAL
+Line 3000: PERSON Süleyman Seba
+Line 3000: LOCATION BEŞİKTAŞ
+Line 3001: PERSON Seba
+Line 3002: LOCATION Ancak
+Line 3003: PERSON Seba
+Line 3004: PERSON Galli 
+Line 3005: PERSON İnönü Stadı
+Line 3005: PERSON Dünya Karması
+Line 3005: PERSON Galli 
+Line 3005: LOCATION Trnava
+Line 3005: LOCATION Bursa
+Line 3005: ORGANIZATION Futbol Federasyonu
+Line 3005: TIME yaz
+Line 3006: PERSON Kadir Akbulut
+Line 3006: TIME yaz
+Line 3007: LOCATION Eylül
+Line 3007: TIME Eylül
+Line 3007: TIME 16 Eylül
+Line 3010: LOCATION İstanbul
+Line 3012: LOCATION Erzurum
+Line 3013: PERSON Muzaffer
+Line 3014: LOCATION Hasan
+Line 3015: LOCATION Hasan
+Line 3016: PERSON Hakan
+Line 3017: LOCATION Hagi
+Line 3018: PERSON Tugay
+Line 3019: PERSON Arif
+Line 3020: PERSON Tolunay
+Line 3021: PERSON Fatih Terim
+Line 3022: PERSON Hakan
+Line 3024: PERSON Hakan
+Line 3024: PERSON Fatih
+Line 3024: TIME ekim
+Line 3026: TIME ekim
+Line 3027: PERSON Tugay
+Line 3030: PERSON Ebu Nidal
+Line 3030: TIME temmuz
+Line 3031: PERSON Nidal
+Line 3031: LOCATION Kahire
+Line 3031: LOCATION Almanya
+Line 3033: PERSON Ebu Nidal
+Line 3033: LOCATION Mısır
+Line 3033: TIME ağustos
+Line 3034: PERSON Ebu Nidal
+Line 3034: LOCATION Mısır
+Line 3035: PERSON Ebu Nidal
+Line 3035: LOCATION Kahire
+Line 3035: LOCATION Mısır
+Line 3036: PERSON Ebu Nidal
+Line 3037: PERSON Taki BERBERAKİS
+Line 3038: LOCATION Çin
+Line 3039: LOCATION Ağustos
+Line 3039: LOCATION Rusya
+Line 3039: LOCATION Kıbrıs
+Line 3039: LOCATION Türkiye
+Line 3039: LOCATION Ada
+Line 3039: LOCATION Çin
+Line 3039: TIME Ağustos
+Line 3040: LOCATION Türkiye
+Line 3040: LOCATION Çin
+Line 3041: LOCATION Türkiye
+Line 3041: LOCATION İsrail
+Line 3041: LOCATION Ankara
+Line 3041: LOCATION Çin
+Line 3042: LOCATION İRAN
+Line 3042: LOCATION Afganistan
+Line 3043: PERSON Muhammed Hatemi
+Line 3043: LOCATION İran
+Line 3044: LOCATION Afganistan
+Line 3045: LOCATION İran
+Line 3046: LOCATION İran
+Line 3047: LOCATION İran
+Line 3047: LOCATION Afganistan
+Line 3048: LOCATION İran
+Line 3048: LOCATION Afganistan
+Line 3049: LOCATION Serdar
+Line 3050: PERSON Atatürk Kültür Merkezi
+Line 3050: LOCATION Kanada
+Line 3053: LOCATION Asil
+Line 3053: LOCATION Tanrı
+Line 3054: LOCATION Kükürt
+Line 3054: LOCATION Kırıkkale
+Line 3054: LOCATION İzmir
+Line 3054: TIME 2002
+Line 3054: TIME 65.6
+Line 3054: TIME 03.1
+Line 3054: TIME 2000
+Line 3055: TIME 2001
+Line 3056: TIME 4.8
+Line 3056: TIME 47.5
+Line 3057: TIME 8.1
+Line 3059: TIME 2000
+Line 3060: TIME 41.7
+Line 3061: PERSON Ergun Kuran
+Line 3061: LOCATION Kuran
+Line 3062: LOCATION Kuran
+Line 3063: LOCATION Parma
+Line 3064: LOCATION Parma
+Line 3064: LOCATION Karabük
+Line 3065: LOCATION Parma
+Line 3066: PERSON Alman 
+Line 3066: LOCATION Parma
+Line 3067: PERSON Muhteşem
+Line 3067: LOCATION Parma
+Line 3067: LOCATION Karabük
+Line 3068: PERSON Rüştü
+Line 3068: LOCATION Parma
+Line 3070: PERSON Rüştü
+Line 3071: LOCATION Parma
+Line 3073: LOCATION Parma
+Line 3074: LOCATION İstanbul
+Line 3074: LOCATION Parma
+Line 3075: PERSON Abdullah KARAKUŞ
+Line 3075: LOCATION ANKARA
+Line 3076: PERSON P 
+Line 3076: TIME 1998
+Line 3077: LOCATION Sakarya
+Line 3078: LOCATION Sakarya
+Line 3079: PERSON Kutan
+Line 3079: PERSON Şiir
+Line 3081: PERSON Ayrıca 
+Line 3083: PERSON Çelik
+Line 3084: LOCATION Büyükşehir Belediyesi
+Line 3084: LOCATION Ankara
+Line 3086: PERSON Zeki Çelik
+Line 3088: PERSON Melih Gökçek
+Line 3089: PERSON Sema Küçüksöz
+Line 3092: PERSON Duygu ASENA
+Line 3094: LOCATION Şırnak
+Line 3095: PERSON Doğu
+Line 3099: PERSON Yardımcısı
+Line 3099: LOCATION Şırnak
+Line 3100: LOCATION Şırnak
+Line 3101: LOCATION Ağrı
+Line 3103: LOCATION Adıyaman
+Line 3103: LOCATION Şırnak
+Line 3104: LOCATION Adıyaman
+Line 3104: LOCATION Şırnak
+Line 3106: LOCATION Şırnak
+Line 3106: TIME 1950
+Line 3110: PERSON Arif Keskiner
+Line 3115: PERSON Sema Küçüksöz
+Line 3116: PERSON Dinç ÇOBAN
+Line 3116: PERSON Süleyman ÖZIŞIK
+Line 3116: PERSON Berk ALTINIŞIK
+Line 3116: PERSON Ahmet DUMANLI
+Line 3116: LOCATION İZMİR
+Line 3116: LOCATION İSTANBUL
+Line 3117: LOCATION İSTANBUL
+Line 3119: TIME aralık
+Line 3120: LOCATION Yakacık
+Line 3120: LOCATION Orman
+Line 3121: LOCATION Yakacık
+Line 3121: LOCATION Kartal
+Line 3121: TIME 17.00
+Line 3121: TIME yaz
+Line 3122: LOCATION Orman
+Line 3128: PERSON Çevik Kuvvet Şube Müdürlüğü
+Line 3128: PERSON k Kuvvet Şube
+Line 3131: LOCATION Kartal
+Line 3133: LOCATION Yakacık
+Line 3133: LOCATION Kartal
+Line 3133: LOCATION Ancak
+Line 3133: LOCATION Orman
+Line 3134: LOCATION İstanbul
+Line 3134: LOCATION Büyükşehir Belediyesi
+Line 3135: PERSON Yalın
+Line 3137: LOCATION İstanbul
+Line 3137: TIME 13.30
+Line 3137: TIME Ocak
+Line 3139: TIME 14.30
+Line 3141: PERSON Güney Kampusu
+Line 3141: ORGANIZATION Boğaziçi Üniversitesi
+Line 3141: TIME 16.00
+Line 3144: TIME 16.30
+Line 3145: PERSON Gazi Mahallesi
+Line 3145: LOCATION Gazi Mahallesi
+Line 3145: TIME 19.30
+Line 3145: TIME 18.00
+Line 3146: PERSON Gazi Mezarlığı
+Line 3146: LOCATION Gazi Mezarlığı
+Line 3148: LOCATION Yeni
+Line 3148: LOCATION İzmir
+Line 3151: PERSON Azim Haydari
+Line 3152: LOCATION Mentor
+Line 3155: LOCATION Kültür Sarayı 
+Line 3155: LOCATION Tiran
+Line 3159: LOCATION Tiran
+Line 3159: ORGANIZATION Başbakanlık
+Line 3160: LOCATION Polis
+Line 3162: PERSON Devlet Başkanı
+Line 3164: LOCATION Polis
+Line 3167: PERSON Erdal Acar
+Line 3168: PERSON Selim GENÇ
+Line 3168: LOCATION GENÇ
+Line 3169: PERSON Demet Şener
+Line 3169: LOCATION Türkiye
+Line 3169: TIME Güz
+Line 3170: PERSON Şener
+Line 3170: TIME güz
+Line 3171: PERSON Erdal Acar
+Line 3171: LOCATION Türkiye
+Line 3171: TIME kış
+Line 3172: PERSON Erdal Acar
+Line 3175: PERSON Kerim
+Line 3175: PERSON Şener Şen
+Line 3178: LOCATION Yarım
+Line 3179: PERSON Nazım ALPMAN
+Line 3180: LOCATION EDESSA
+Line 3181: LOCATION Şanlıurfa
+Line 3183: LOCATION Şanlıurfa
+Line 3188: PERSON Su
+Line 3189: TIME yaz
+Line 3197: PERSON Hüseyin Kırcalı
+Line 3200: LOCATION Sola
+Line 3201: PERSON Şener Şen
+Line 3203: PERSON Şener Şen
+Line 3206: PERSON Şener
+Line 3207: PERSON Hüseyin Kırcalı
+Line 3207: PERSON Şener Şen
+Line 3211: LOCATION Hayır
+Line 3212: PERSON Abbas Sümer
+Line 3215: PERSON Atatürk
+Line 3215: PERSON Sümer
+Line 3216: PERSON Ağa
+Line 3216: PERSON Şener
+Line 3217: PERSON Onurlu Eşkıya Hoşgeldin
+Line 3217: TIME yaz
+Line 3222: PERSON Şener Şen
+Line 3224: LOCATION Ancak
+Line 3225: PERSON İlyas Salman
+Line 3229: LOCATION Köy
+Line 3230: PERSON Şener Şen
+Line 3231: PERSON Kerim
+Line 3231: PERSON Şener Şen
+Line 3233: PERSON Kerim
+Line 3234: PERSON Kerim Üzümcü
+Line 3236: PERSON Mimar Sinan
+Line 3238: PERSON Kerim
+Line 3242: PERSON Şener Şen
+Line 3243: LOCATION HARRAN
+Line 3244: PERSON Vergi Reform Yasası
+Line 3245: LOCATION Ancak
+Line 3246: PERSON Harun GÜREK
+Line 3246: LOCATION ANKARA
+Line 3248: LOCATION Türkiye
+Line 3248: LOCATION Rusya
+Line 3249: LOCATION Eylül
+Line 3249: TIME Eylül
+Line 3250: LOCATION Borsa
+Line 3250: LOCATION Ağustos
+Line 3250: LOCATION Rusya
+Line 3250: TIME Ağustos
+Line 3251: LOCATION Eylül
+Line 3251: TIME 1 Eylül
+Line 3251: TIME Eylül
+Line 3252: PERSON Hazine
+Line 3253: PERSON Vergi Reform Yasası
+Line 3253: LOCATION Eylül
+Line 3253: TIME Eylül
+Line 3253: TIME Temmuz
+Line 3255: TIME 1999
+Line 3256: PERSON Hazine
+Line 3256: LOCATION Türkiye
+Line 3256: LOCATION Eylül
+Line 3256: TIME kış
+Line 3256: TIME Eylül
+Line 3256: TIME 2 Eylül
+Line 3257: PERSON Hazine
+Line 3257: LOCATION Eylül
+Line 3257: TIME Eylül
+Line 3257: TIME 15 Eylül
+Line 3257: TIME 29 Eylül
+Line 3259: LOCATION Eylül
+Line 3259: LOCATION Ağustos
+Line 3259: LOCATION Rusya
+Line 3259: TIME kış
+Line 3259: TIME Eylül
+Line 3259: TIME Ağustos
+Line 3260: LOCATION İzmir
+Line 3260: TIME yaz
+Line 3261: PERSON Tayfur
+Line 3261: PERSON Okan
+Line 3261: PERSON Sinan
+Line 3262: PERSON Oktay
+Line 3262: PERSON Nihat
+Line 3262: TIME yaz
+Line 3263: LOCATION Kartal
+Line 3263: LOCATION Ancak
+Line 3263: LOCATION Trnava
+Line 3264: PERSON Ali Rıza Çakmak
+Line 3265: PERSON Ali Eren
+Line 3265: LOCATION Aydın
+Line 3265: LOCATION BEŞİKTAŞ
+Line 3266: PERSON Mutlu
+Line 3266: PERSON Hikmet
+Line 3266: PERSON Yasin
+Line 3266: PERSON Savaş
+Line 3267: PERSON Tunahan
+Line 3267: PERSON Turan
+Line 3267: PERSON Erkan
+Line 3267: PERSON Ünal
+Line 3267: PERSON Mustafa
+Line 3267: PERSON Selim
+Line 3267: PERSON Murat
+Line 3267: PERSON Okan
+Line 3267: PERSON Sinan
+Line 3267: PERSON Şenol
+Line 3267: PERSON Deniz
+Line 3268: PERSON Taner
+Line 3268: PERSON Engin
+Line 3268: PERSON Ender
+Line 3268: PERSON Şaban
+Line 3269: LOCATION SARI
+Line 3271: LOCATION Yeşil
+Line 3271: TIME yaz
+Line 3273: PERSON Fevzi
+Line 3274: PERSON Fevzi
+Line 3274: PERSON Rahim
+Line 3275: PERSON Bülent Uzun
+Line 3275: LOCATION Genç
+Line 3276: PERSON Hakan
+Line 3276: PERSON Fevzi
+Line 3277: LOCATION Türkiye
+Line 3278: PERSON Yusuf ÖZKAN
+Line 3278: LOCATION TRABZON
+Line 3279: PERSON Deniz Baykal
+Line 3279: LOCATION Türkiye
+Line 3280: PERSON Bülent Ecevit
+Line 3280: PERSON Doğu Karadeniz
+Line 3280: PERSON Doğu Anadolu
+Line 3280: LOCATION Türkiye
+Line 3280: LOCATION Trabzon
+Line 3280: TIME 1998
+Line 3281: TIME 1998
+Line 3282: PERSON Baykal
+Line 3283: PERSON Tek
+Line 3283: PERSON Baykal
+Line 3284: PERSON Baykal
+Line 3285: LOCATION Rize
+Line 3285: LOCATION Trabzon
+Line 3286: PERSON Baykal
+Line 3286: LOCATION Çay
+Line 3287: PERSON Baykal
+Line 3288: PERSON Bayrak
+Line 3289: LOCATION Maçka
+Line 3290: PERSON Baykal
+Line 3291: LOCATION Atatürk Parkı
+Line 3291: LOCATION Maçka
+Line 3292: PERSON Baykal
+Line 3293: LOCATION Maçka
+Line 3293: ORGANIZATION Maçka Kültür Vakfı
+Line 3294: PERSON Yıldız
+Line 3297: PERSON Sakıp Sabancı
+Line 3297: LOCATION Türkiye
+Line 3297: TIME kış
+Line 3298: PERSON İhsan YILMAZ
+Line 3298: LOCATION İSTANBUL
+Line 3299: PERSON Sakıp Sabancı
+Line 3299: LOCATION New York
+Line 3299: LOCATION ABD
+Line 3299: LOCATION York
+Line 3299: LOCATION Altın
+Line 3301: LOCATION Clinton
+Line 3301: TIME kış
+Line 3302: PERSON Sakıp Sabancı
+Line 3302: LOCATION Türkiye
+Line 3302: LOCATION ABD
+Line 3303: PERSON İstemihan Talay
+Line 3303: PERSON Atatürk Havalimanı
+Line 3304: PERSON Talay
+Line 3304: LOCATION Türkiye
+Line 3305: LOCATION ABD
+Line 3305: TIME güz
+Line 3306: LOCATION Clinton
+Line 3307: LOCATION ABD
+Line 3308: PERSON Yavaş
+Line 3308: LOCATION Türkiye
+Line 3308: LOCATION ABD
+Line 3308: TIME kış
+Line 3308: TIME güz
+Line 3309: LOCATION İstanbul
+Line 3309: LOCATION Büyükşehir Belediye 
+Line 3310: LOCATION Clinton
+Line 3311: PERSON Seçim
+Line 3313: PERSON Seçim
+Line 3314: LOCATION Türkiye
+Line 3314: LOCATION Yeni
+Line 3314: LOCATION Rusya
+Line 3315: PERSON Kuzey Kıbrıs Türk Cumhuriyeti
+Line 3315: LOCATION Kıbrıs
+Line 3315: LOCATION KIBRIS
+Line 3316: TIME 07.00
+Line 3321: TIME kış
+Line 3324: LOCATION İZMİR
+Line 3325: PERSON Devrim Akkaya
+Line 3325: PERSON Tuncay Bilgin
+Line 3325: PERSON Rifat Akkaya
+Line 3326: LOCATION Aydın
+Line 3326: LOCATION Kuşadası
+Line 3326: ORGANIZATION Doğan Holding
+Line 3327: LOCATION Genç
+Line 3327: LOCATION Kuşadası
+Line 3328: PERSON Ahmet Priştina
+Line 3328: PERSON Hakan Tartan
+Line 3328: PERSON Rifat Akkaya
+Line 3328: LOCATION İzmir
+Line 3332: PERSON Yılmaz
+Line 3332: LOCATION Ancak
+Line 3337: PERSON Bülent Akyazıcı
+Line 3337: TIME yaz
+Line 3338: PERSON Zafer ARAPKİRLİ
+Line 3338: LOCATION LONDRA
+Line 3339: LOCATION ABD
+Line 3339: LOCATION Clinton
+Line 3340: LOCATION Beyaz Saray
+Line 3340: TIME yaz
+Line 3341: LOCATION Beyaz Saray
+Line 3341: LOCATION Clinton
+Line 3341: TIME yaz
+Line 3342: TIME yaz
+Line 3343: LOCATION Beyaz Saray
+Line 3343: LOCATION Elizabeth
+Line 3343: TIME yaz
+Line 3346: LOCATION Clinton
+Line 3349: LOCATION Clinton
+Line 3351: LOCATION Clinton
+Line 3354: LOCATION Clinton
+Line 3355: LOCATION Clinton
+Line 3357: LOCATION Clinton
+Line 3358: LOCATION Clinton
+Line 3359: LOCATION ABD
+Line 3360: LOCATION Blythe
+Line 3360: LOCATION Virginia
+Line 3360: LOCATION Clinton
+Line 3361: LOCATION Virginia
+Line 3361: LOCATION Clinton
+Line 3362: LOCATION Leon
+Line 3362: LOCATION Blythe
+Line 3362: LOCATION Baba
+Line 3362: LOCATION Virginia
+Line 3362: TIME 1935
+Line 3363: LOCATION Hamilton
+Line 3363: LOCATION Blythe
+Line 3363: TIME 1938
+Line 3364: TIME 1940
+Line 3366: LOCATION Blythe
+Line 3367: LOCATION Blythe
+Line 3367: LOCATION Virginia
+Line 3368: LOCATION Chicago
+Line 3368: LOCATION Blythe
+Line 3369: LOCATION Clinton
+Line 3370: LOCATION Clinton
+Line 3371: LOCATION Clinton
+Line 3372: LOCATION Clinton
+Line 3374: LOCATION Clinton
+Line 3375: LOCATION Clinton
+Line 3376: LOCATION Clinton
+Line 3377: LOCATION Clinton
+Line 3377: LOCATION Blythe
+Line 3377: LOCATION Jefferson
+Line 3378: LOCATION Clinton
+Line 3379: LOCATION Clinton
+Line 3380: LOCATION Clinton
+Line 3381: LOCATION Clinton
+Line 3382: PERSON Kasım
+Line 3382: TIME 17 Kasım
+Line 3382: TIME Kasım
+Line 3383: PERSON Kasım Cuma
+Line 3383: TIME 17 Kasım
+Line 3383: TIME Kasım
+Line 3383: TIME Cuma
+Line 3388: LOCATION Currie
+Line 3388: LOCATION Oval
+Line 3389: LOCATION Currie
+Line 3391: LOCATION Currie
+Line 3395: LOCATION Currie
+Line 3403: LOCATION Beyaz Saray
+Line 3403: TIME yaz
+Line 3403: TIME 9:38
+Line 3403: TIME 10:14
+Line 3404: TIME 10:14
+Line 3404: TIME Aralık
+Line 3404: TIME 31 Aralık
+Line 3404: TIME 9:53
+Line 3406: LOCATION Beyaz Saray
+Line 3406: TIME pazar
+Line 3406: TIME Aralık 1995 
+Line 3406: TIME 31 Aralık
+Line 3406: TIME yaz
+Line 3406: TIME 1:16
+Line 3406: TIME 31 Aralık 1995
+Line 3406: TIME Aralık
+Line 3406: TIME 1995
+Line 3407: LOCATION Oval
+Line 3407: TIME 12:11
+Line 3411: TIME 7 Ocak
+Line 3411: TIME Ocak
+Line 3412: TIME pazar
+Line 3412: TIME 7 Ocak
+Line 3412: TIME Ocak
+Line 3418: LOCATION Ancak
+Line 3420: PERSON Oval Ofis
+Line 3420: LOCATION Oval
+Line 3421: PERSON Birgün
+Line 3422: TIME 21 Ocak
+Line 3422: TIME Ocak
+Line 3423: TIME pazar
+Line 3423: TIME 21 Ocak
+Line 3423: TIME Ocak
+Line 3423: TIME 1996
+Line 3423: TIME 21 Ocak 1996
+Line 3423: TIME Ocak 1996 
+Line 3424: LOCATION Oval
+Line 3433: LOCATION Oval
+Line 3436: PERSON Yeter
+Line 3441: PERSON Atatürk Barajı
+Line 3448: PERSON Doğu
+Line 3448: PERSON Batı
+Line 3449: PERSON Yeter
+Line 3450: TIME 1941
+Line 3452: LOCATION Ancak
+Line 3453: TIME 1968
+Line 3457: LOCATION Köy
+Line 3458: PERSON Abbas Sümer
+Line 3458: TIME ekim
+Line 3459: LOCATION Hollanda
+Line 3462: TIME pazara
+Line 3463: LOCATION Yeni
+Line 3468: PERSON Gün
+Line 3471: PERSON Yeter
+Line 3473: LOCATION Houston
+Line 3475: PERSON Dünya Enerji Konseyi
+Line 3476: PERSON Yardımcısı
+Line 3476: PERSON Güney Afrika
+Line 3476: PERSON Devlet Başkanı
+Line 3476: LOCATION Arjantin
+Line 3476: LOCATION Güney Afrika
+Line 3476: LOCATION ABD
+Line 3476: LOCATION Clinton
+Line 3477: PERSON Süleyman Demirel
+Line 3479: PERSON Dünya Enerji Konseyi
+Line 3479: LOCATION Kömür
+Line 3479: LOCATION ABD
+Line 3479: LOCATION Güney Kore
+Line 3479: LOCATION Hindistan
+Line 3479: LOCATION Japonya
+Line 3479: LOCATION Fransa
+Line 3479: LOCATION Almanya
+Line 3479: LOCATION Kore
+Line 3479: LOCATION Çin
+Line 3479: TIME 1.7
+Line 3479: TIME 1993
+Line 3479: TIME 0.5
+Line 3479: TIME 1992
+Line 3479: TIME 1991
+Line 3479: TIME 2.5
+Line 3479: TIME 7.6
+Line 3479: TIME 3.2
+Line 3479: TIME 0.2
+Line 3479: TIME 2.6
+Line 3479: TIME yaz
+Line 3479: TIME pazarlarda
+Line 3479: TIME 7.2
+Line 3479: TIME 2.9
+Line 3479: TIME 10.4
+Line 3479: TIME pazarlarında
+Line 3479: TIME 1994
+Line 3481: PERSON Mustafa ÖZDEMİR
+Line 3481: PERSON Hatice GÜREL
+Line 3481: LOCATION EREĞLİ
+Line 3482: PERSON Mesut Yılmaz
+Line 3482: PERSON Deniz Baykal
+Line 3483: PERSON Yılmaz
+Line 3483: PERSON Baykal
+Line 3483: PERSON Önemli
+Line 3483: TIME 99 Mart
+Line 3483: TIME Mart
+Line 3483: TIME Nisan
+Line 3483: TIME 2000
+Line 3483: TIME 00 Nisan
+Line 3483: TIME 1999
+Line 3483: TIME 00 Mart
+Line 3484: PERSON Karadeniz
+Line 3484: PERSON Yılmaz
+Line 3484: PERSON Baykal
+Line 3484: PERSON Seçim
+Line 3484: LOCATION Anayasa
+Line 3484: TIME 1999
+Line 3485: LOCATION Anayasa
+Line 3487: PERSON Yılmaz
+Line 3487: PERSON Baykal
+Line 3488: PERSON Mesut Yılmaz
+Line 3488: PERSON Mahmut Yıldırım
+Line 3488: LOCATION Yeşil
+Line 3488: TIME mart
+Line 3488: TIME Cumartesi
+Line 3489: PERSON Tansu Çiller
+Line 3490: PERSON Yılmaz
+Line 3491: PERSON Erdemir
+Line 3492: PERSON Mesut Yılmaz
+Line 3492: PERSON Çelik İşletmeleri
+Line 3492: LOCATION Ereğli
+Line 3493: PERSON Yılmaz
+Line 3493: PERSON Erdemir
+Line 3495: PERSON Yılmaz
+Line 3496: PERSON Erdemir
+Line 3497: PERSON Tanju Argun
+Line 3497: PERSON Fahrettin Gülener
+Line 3497: PERSON Vehbi Gülener
+Line 3497: LOCATION Argun
+Line 3497: TIME 1963
+Line 3498: PERSON Çelik Tesisleri
+Line 3498: LOCATION İskenderun
+Line 3498: LOCATION Argun
+Line 3499: TIME 1998
+Line 3499: TIME 1998-1999
+Line 3499: TIME 1999
+Line 3501: TIME yaz
+Line 3502: LOCATION Yeni
+Line 3504: LOCATION Cumhuriyet
+Line 3505: LOCATION Cumhuriyet
+Line 3508: PERSON Öncesi 
+Line 3508: PERSON Sağlık Meslek Liseleri
+Line 3508: LOCATION Uluslararası İlişkiler 
+Line 3508: LOCATION Amasya
+Line 3508: LOCATION Eylül
+Line 3508: LOCATION Yeni
+Line 3508: LOCATION Halen
+Line 3508: LOCATION Ankara
+Line 3508: ORGANIZATION Çocuk Esirgeme Kurumu
+Line 3508: ORGANIZATION Milli Eğitim Bakanlığı
+Line 3508: ORGANIZATION Sağlık Meslek Liseleri
+Line 3508: ORGANIZATION Dünya Bankası
+Line 3508: TIME 22 Eylül
+Line 3508: TIME 1998
+Line 3508: TIME 1998-1999
+Line 3508: TIME 1999
+Line 3508: TIME Eylül
+Line 3508: TIME Ekim
+Line 3508: TIME Aralık
+Line 3508: TIME Kasım
+Line 3508: TIME 17 Eylül
+Line 3508: TIME 16 Kasım
+Line 3509: TIME 1998
+Line 3509: TIME 1998-1999
+Line 3509: TIME 1999
+Line 3511: TIME yaz
+Line 3513: PERSON Kerim
+Line 3513: PERSON Şener Şen
+Line 3516: LOCATION Yarım
+Line 3517: PERSON Sakıp Sabancı
+Line 3517: LOCATION Türkiye
+Line 3517: TIME kış
+Line 3518: PERSON Sema Küçüksöz
+Line 3521: PERSON Yeter
+Line 3522: LOCATION İstanbul
+Line 3526: LOCATION Kıbrıs
+Line 3527: PERSON Bakanı
+Line 3528: PERSON Afet İşleri
+Line 3528: LOCATION TRABZON
+Line 3530: LOCATION Yakacık
+Line 3530: LOCATION İstanbul
+Line 3531: LOCATION Yakacık
+Line 3532: PERSON Dilek Güroluk
+Line 3532: LOCATION Rize
+Line 3534: PERSON Ali Bin Al Hüseyin
+Line 3534: LOCATION Ürdün
+Line 3535: PERSON Ali
+Line 3535: LOCATION Kahramanmaraş
+Line 3536: PERSON Ali Sezal
+Line 3536: LOCATION Kahramanmaraş
+Line 3538: TIME 1959
+Line 3541: PERSON Dünya Enerji Konseyi
+Line 3542: LOCATION ABD
+Line 3543: PERSON Vergi Reform Yasası
+Line 3544: LOCATION Ancak
+Line 3545: LOCATION İzmir
+Line 3545: TIME 2002
+Line 3545: TIME 65.6
+Line 3545: TIME 03.1
+Line 3546: LOCATION Türkiye
+Line 3546: TIME pazarlarına
+Line 3548: LOCATION Bursa
+Line 3549: LOCATION Hollanda
+Line 3549: LOCATION Marshall
+Line 3550: LOCATION Marshall
+Line 3552: ORGANIZATION YARGITAY
+Line 3553: PERSON Devlet İstatistik Enstitüsü
+Line 3553: ORGANIZATION Devlet İstatistik Enstitüsü
+Line 3554: TIME 2000
+Line 3555: TIME 1998
+Line 3555: TIME 29.8
+Line 3556: PERSON Dünya
+Line 3557: PERSON Karadeniz Bakır İşletmeleri
+Line 3558: LOCATION İstanbul
+Line 3558: LOCATION Çanakkale
+Line 3560: ORGANIZATION YARGITAY
+Line 3561: PERSON Devlet İstatistik Enstitüsü
+Line 3561: ORGANIZATION Devlet İstatistik Enstitüsü
+Line 3562: LOCATION Montreal
+Line 3563: LOCATION Türkiye
+Line 3563: LOCATION Eskişehir
+Line 3563: LOCATION King
+Line 3563: TIME 12 Ekim
+Line 3563: TIME Ekim
+Line 3565: PERSON Sanat Yönetmeni
+Line 3565: PERSON Erkal Yavi
+Line 3565: PERSON Ferit Edgü
+Line 3566: PERSON Sanat
+Line 3567: TIME Yaz
+Line 3569: PERSON Fazilet Partisi
+Line 3569: PERSON Tansu Çiller
+Line 3570: PERSON Erdal Acar
+Line 3571: PERSON Atatürk Kültür Merkezi
+Line 3571: LOCATION Kanada
+Line 3572: PERSON Devrim Akkaya
+Line 3572: PERSON Tuncay Bilgin
+Line 3572: PERSON Rifat Akkaya
+Line 3576: LOCATION TEM Otoyolu
+Line 3577: PERSON Mehmet Özdemir
+Line 3577: TIME 02.00
+Line 3578: LOCATION Orman
+Line 3581: PERSON Yıldırım Mahallesi
+Line 3581: PERSON Yılmaz Keser
+Line 3581: LOCATION Yengeç Sokak
+Line 3581: LOCATION Yıldırım Mahallesi
+Line 3581: TIME 21.00
+Line 3582: PERSON Sibel Can
+Line 3583: PERSON Güngör Bayrak
+Line 3585: LOCATION Türkiye
+Line 3586: PERSON P 
+Line 3586: TIME 1998
+Line 3587: PERSON Necdet Calp
+Line 3587: LOCATION Eylül
+Line 3587: TIME 12 Eylül
+Line 3587: TIME Eylül
+Line 3589: PERSON Yardımcısı
+Line 3589: TIME Nisan
+Line 3589: TIME 18 Nisan 1999
+Line 3589: TIME 1999
+Line 3589: TIME 18 Nisan
+Line 3589: TIME Nisan 1999 
+Line 3590: PERSON Mesut Yılmaz
+Line 3590: PERSON Deniz Baykal
+Line 3590: PERSON Hüsamettin Cindoruk
+Line 3591: PERSON Yardımcısı
+Line 3591: TIME Nisan
+Line 3591: TIME 18 Nisan 1999
+Line 3591: TIME 1999
+Line 3591: TIME 18 Nisan
+Line 3591: TIME Nisan 1999 
+Line 3592: PERSON Süleyman Demirel
+Line 3593: PERSON Yörük Bayramı
+Line 3593: LOCATION Bilecik
+Line 3593: LOCATION Söğüt
+Line 3594: PERSON Afet İşleri
+Line 3594: LOCATION TRABZON
+Line 3595: PERSON Halil İbrahim Özsoy
+Line 3595: PERSON Dünya Sağlık Örgütü
+Line 3595: LOCATION Danimarka
+Line 3595: LOCATION Kopenhag
+Line 3596: PERSON Tansu Çiller
+Line 3596: PERSON Refah Partisi
+Line 3596: LOCATION Kütahya
+Line 3598: PERSON Yardımcısı
+Line 3599: LOCATION Sahil
+Line 3600: LOCATION İzmir
+Line 3600: TIME yaz
+Line 3601: PERSON Tayfur
+Line 3602: LOCATION Parma
+Line 3603: LOCATION Parma
+Line 3603: LOCATION Karabük
+Line 3605: PERSON M
+Line 3606: TIME çarşamba
+Line 3607: PERSON Fatih Terim
+Line 3607: LOCATION Erzurum
+Line 3608: PERSON Terim
+Line 3609: TIME Kasım
+Line 3610: PERSON Konuk
+Line 3611: TIME Kasım
+Line 3612: PERSON Bekir
+Line 3612: PERSON Nedim
+Line 3612: LOCATION Hatay
+Line 3612: TIME yaz
+Line 3613: PERSON Bekir
+Line 3614: PERSON Gökhan
+Line 3614: PERSON Kenan
+Line 3616: PERSON Engin
+Line 3616: PERSON Mert
+Line 3617: PERSON Aygün
+Line 3617: LOCATION Sakarya
+Line 3618: ORGANIZATION Futbol Federasyonu
+Line 3620: PERSON Gürcan BİLGİÇ
+Line 3622: PERSON Bilal MEŞE
+Line 3623: PERSON Feyyaz Uçar
+Line 3623: TIME yaz
+Line 3624: LOCATION ABD
+Line 3624: LOCATION Clinton
+Line 3626: PERSON Cem
+Line 3626: LOCATION Tahran
+Line 3626: LOCATION Yunanistan
+Line 3626: LOCATION İran
+Line 3627: PERSON Azim Haydari
+Line 3628: LOCATION İRAN
+Line 3628: LOCATION Afganistan
+Line 3629: PERSON Kuzey Kıbrıs Türk Cumhuriyeti
+Line 3629: LOCATION Kıbrıs
+Line 3629: LOCATION KIBRIS
+Line 3630: TIME 07.00
+Line 3631: LOCATION AZERBAYCAN
+Line 3631: LOCATION Merkez
+Line 3631: LOCATION Bakü
+Line 3631: ORGANIZATION Demokratik Kuruluşlar
+Line 3631: TIME 11 Ekim
+Line 3631: TIME Ekim
+Line 3632: LOCATION ALMANYA
+Line 3632: LOCATION Almanya
+Line 3634: PERSON Dilek Güroluk Hidroelektrik
+Line 3634: LOCATION Rize
+Line 3636: TIME yaz
+Line 3637: LOCATION Genç
+Line 3640: LOCATION Kıbrıs
+Line 3641: PERSON Abdullah Öcalan
+Line 3641: TIME yaz
+Line 3642: LOCATION Irak
+Line 3650: PERSON Yerel Gündem
+Line 3650: LOCATION İzmir
+Line 3651: PERSON Konak
+Line 3651: LOCATION İzmir
+Line 3652: TIME 1.8
+Line 3652: TIME 83.4
+Line 3653: TIME 14.8
+Line 3654: TIME 56.6
+Line 3654: TIME 38.4
+Line 3655: TIME 63.8
+Line 3657: TIME 64.3
+Line 3657: TIME 35.3
+Line 3659: PERSON Aslı YILMAZ
+Line 3659: LOCATION TRABZON
+Line 3660: PERSON Afet İşleri
+Line 3660: LOCATION TRABZON
+Line 3661: PERSON Hüseyin Tirgil
+Line 3661: PERSON Afet İşleri
+Line 3661: TIME 1990
+Line 3662: PERSON Afet
+Line 3663: PERSON Gürkan ATA
+Line 3663: LOCATION ERZURUM
+Line 3664: TIME 1959
+Line 3666: PERSON Yardımcısı
+Line 3666: LOCATION Yakutiye Belediyesi
+Line 3666: TIME 2000
+Line 3666: TIME 1959
+Line 3666: TIME 1950
+Line 3668: PERSON Ata
+Line 3668: PERSON Ayna
+Line 3669: LOCATION İSTANBUL
+Line 3671: LOCATION Yakacık
+Line 3671: LOCATION İstanbul
+Line 3672: LOCATION Yakacık
+Line 3673: TIME 13.30
+Line 3673: TIME Ocak
+Line 3675: LOCATION Kartal
+Line 3675: LOCATION Orman
+Line 3676: PERSON n Tarla Mevkii
+Line 3676: TIME 14.30
+Line 3677: LOCATION Kartal
+Line 3679: PERSON Ulus
+Line 3680: LOCATION Yakacık
+Line 3681: LOCATION Orman
+Line 3684: PERSON Kemal ÇELİK
+Line 3684: LOCATION BATMAN
+Line 3688: PERSON Öztürk Şimşek
+Line 3688: LOCATION Temel
+Line 3692: PERSON Ali Bin Al Hüseyin
+Line 3692: LOCATION Ürdün
+Line 3693: PERSON Ali
+Line 3693: LOCATION Kahramanmaraş
+Line 3694: LOCATION Kahramanmaraş
+Line 3695: PERSON Mehmet Kambur
+Line 3697: PERSON Ali
+Line 3697: PERSON Kılıç
+Line 3699: PERSON Efe ERDEM
+Line 3700: PERSON Aykut
+Line 3700: LOCATION BEYKOZ
+Line 3701: LOCATION Dostluk
+Line 3701: LOCATION Orman
+Line 3702: PERSON Aykut
+Line 3702: LOCATION Ancak
+Line 3702: LOCATION Orman
+Line 3702: TIME kış
+Line 3703: PERSON Aykut
+Line 3704: PERSON Ersin Taranoğlu
+Line 3704: LOCATION Dostluk
+Line 3704: LOCATION Orman
+Line 3704: TIME 30 Ekim
+Line 3704: TIME Ekim
+Line 3706: PERSON Aykut
+Line 3707: TIME yaz
+Line 3709: PERSON Arife AVCU
+Line 3713: LOCATION Türkiye
+Line 3715: LOCATION Türkiye
+Line 3716: PERSON Tek
+Line 3716: PERSON Mahmut
+Line 3718: LOCATION Kaya
+Line 3718: LOCATION Dalkuru Köyü
+Line 3719: PERSON Hüseyin Kaya
+Line 3719: LOCATION Kaya
+Line 3719: LOCATION Siirt
+Line 3720: LOCATION Kaya
+Line 3721: PERSON Devlet
+Line 3721: LOCATION Kaya
+Line 3721: LOCATION Siirt
+Line 3722: PERSON Adile
+Line 3722: LOCATION Kaya
+Line 3723: PERSON Adile Kaya
+Line 3723: LOCATION Kaya
+Line 3724: PERSON Zehra GüNGöR
+Line 3725: LOCATION Hollanda
+Line 3725: LOCATION Marshall
+Line 3726: LOCATION Marshall
+Line 3727: PERSON Feridun Uzunyol
+Line 3727: LOCATION Marshall
+Line 3728: PERSON Feridun Uzunyol
+Line 3729: PERSON Feridun Uzunyol
+Line 3729: LOCATION Marshall
+Line 3730: LOCATION Marshall
+Line 3738: LOCATION Marshall
+Line 3739: LOCATION Yeni
+Line 3743: TIME 1954
+Line 3744: ORGANIZATION Akzo Nobel
+Line 3748: LOCATION Türkiye
+Line 3749: LOCATION Türkiye
+Line 3750: LOCATION Marshall
+Line 3751: LOCATION Marshall
+Line 3754: PERSON Aile
+Line 3757: LOCATION Türkiye
+Line 3766: LOCATION Kocaeli
+Line 3768: LOCATION Marshall
+Line 3770: LOCATION Marshall
+Line 3776: TIME 1.5
+Line 3782: LOCATION Türkiye
+Line 3785: PERSON Batı
+Line 3791: PERSON Kimya
+Line 3793: LOCATION Türkiye
+Line 3794: LOCATION Türkiye
+Line 3795: LOCATION Adam
+Line 3800: TIME 1990
+Line 3804: LOCATION Türkiye
+Line 3806: LOCATION Türkiye
+Line 3811: TIME güz
+Line 3812: LOCATION Türkiye
+Line 3812: TIME 2.7
+Line 3813: LOCATION Yunanistan
+Line 3813: LOCATION ABD
+Line 3813: LOCATION Portekiz
+Line 3814: LOCATION Marshall
+Line 3815: LOCATION Marshall
+Line 3815: TIME 1954
+Line 3817: LOCATION Marshall
+Line 3818: TIME 1968
+Line 3820: TIME 1991
+Line 3821: TIME 1997
+Line 3822: LOCATION Türkiye
+Line 3823: LOCATION Marshall
+Line 3824: ORGANIZATION Akzo Nobel
+Line 3826: LOCATION Türkiye
+Line 3828: PERSON Feridun Uzunyol
+Line 3829: LOCATION Çanakkale
+Line 3830: LOCATION Çanakkale
+Line 3834: LOCATION Türkiye
+Line 3834: TIME pazarlarına
+Line 3836: LOCATION Türkiye
+Line 3836: LOCATION Eylül
+Line 3836: LOCATION Bursa
+Line 3836: TIME pazarına
+Line 3836: TIME Eylül
+Line 3836: TIME 25 Eylül
+Line 3837: TIME 1999
+Line 3838: LOCATION Türkiye
+Line 3838: ORGANIZATION Renault
+Line 3839: LOCATION Türkiye
+Line 3839: TIME pazarında
+Line 3841: LOCATION Fethiye
+Line 3847: LOCATION Türkiye
+Line 3847: TIME pazar
+Line 3848: LOCATION Eylül
+Line 3848: TIME Eylül
+Line 3848: TIME 25 Eylül
+Line 3849: PERSON Ersan ATAR
+Line 3849: LOCATION ATAR
+Line 3849: LOCATION ANKARA
+Line 3850: ORGANIZATION YARGITAY
+Line 3851: PERSON Devlet
+Line 3852: ORGANIZATION Yargıtay
+Line 3852: TIME 3095
+Line 3853: LOCATION Ticaret
+Line 3854: PERSON Yasa
+Line 3855: LOCATION Merkez
+Line 3855: ORGANIZATION Merkez Bankası
+Line 3856: LOCATION Ancak
+Line 3859: TIME 5 Nisanlar
+Line 3859: TIME Nisan
+Line 3860: TIME 5 Nisan
+Line 3860: TIME Nisan
+Line 3861: TIME Nisan
+Line 3861: TIME Nisan 1994 
+Line 3861: TIME 5 Nisan
+Line 3861: TIME 3098
+Line 3861: TIME 5 Nisan 1994
+Line 3861: TIME 1994
+Line 3862: PERSON Karadeniz Bakır
+Line 3864: LOCATION Ağustos
+Line 3864: TIME Ağustos
+Line 3864: TIME Ocak
+Line 3867: PERSON Ersan ATAR
+Line 3867: LOCATION ATAR
+Line 3867: LOCATION ANKARA
+Line 3868: ORGANIZATION YARGITAY
+Line 3869: PERSON Devlet
+Line 3870: ORGANIZATION Yargıtay
+Line 3870: TIME 3095
+Line 3871: LOCATION Ticaret
+Line 3872: PERSON Yasa
+Line 3873: LOCATION Merkez
+Line 3873: ORGANIZATION Merkez Bankası
+Line 3874: LOCATION Ancak
+Line 3877: TIME 5 Nisanlar
+Line 3877: TIME Nisan
+Line 3878: TIME 5 Nisan
+Line 3878: TIME Nisan
+Line 3879: TIME Nisan
+Line 3879: TIME Nisan 1994 
+Line 3879: TIME 5 Nisan
+Line 3879: TIME 3098
+Line 3879: TIME 5 Nisan 1994
+Line 3879: TIME 1994
+Line 3880: TIME 2000
+Line 3881: TIME 1998
+Line 3881: TIME 29.8
+Line 3882: PERSON Asya
+Line 3882: PERSON Dünya
+Line 3882: LOCATION Hindistan
+Line 3882: LOCATION Çin
+Line 3882: TIME 60.5
+Line 3882: TIME 88.9
+Line 3883: TIME 0.5
+Line 3883: TIME 29.5
+Line 3884: LOCATION Hindistan
+Line 3884: LOCATION ABD
+Line 3884: LOCATION Çin
+Line 3884: TIME 75.8
+Line 3884: TIME 73.8
+Line 3884: TIME 55.1
+Line 3885: LOCATION Hindistan
+Line 3885: LOCATION ABD
+Line 3885: LOCATION Çin
+Line 3885: TIME 16.46
+Line 3885: TIME 4.62
+Line 3885: TIME 21.16
+Line 3886: LOCATION Pakistan
+Line 3886: LOCATION Rusya
+Line 3886: TIME 47.8
+Line 3886: TIME 47.2
+Line 3887: LOCATION Türkiye
+Line 3888: LOCATION Mısır
+Line 3888: LOCATION Irak
+Line 3888: LOCATION Türkiye
+Line 3888: LOCATION Azerbaycan
+Line 3888: LOCATION Gürcistan
+Line 3888: LOCATION Yunanistan
+Line 3888: TIME 7.7
+Line 3888: TIME 15.3
+Line 3888: TIME 10.6
+Line 3888: TIME 63.8
+Line 3888: TIME 8.4
+Line 3888: TIME 73.1
+Line 3888: TIME 3.6
+Line 3888: TIME 5.4
+Line 3888: TIME 21.8
+Line 3890: LOCATION Türkiye
+Line 3890: TIME 9.3
+Line 3890: TIME 40.3
+Line 3890: TIME 1975
+Line 3891: LOCATION Türkiye
+Line 3891: TIME 23.5
+Line 3891: TIME 1998
+Line 3891: TIME 1975
+Line 3893: PERSON Sanat Yönetmeni
+Line 3893: PERSON Erkal Yavi
+Line 3893: PERSON Ferit Edgü
+Line 3894: PERSON Sanat
+Line 3895: PERSON Dünya Kupası
+Line 3895: LOCATION Fransa
+Line 3895: TIME Yaz
+Line 3896: TIME yaz
+Line 3897: LOCATION Homeros
+Line 3897: TIME yaz
+Line 3898: LOCATION Gül
+Line 3898: TIME yaz
+Line 3899: PERSON Vehbi
+Line 3899: PERSON Humayun
+Line 3900: PERSON Ferit Edgü
+Line 3901: PERSON Abidin Dino
+Line 3901: PERSON Dünya Kupası
+Line 3901: TIME 1966
+Line 3901: TIME yaz
+Line 3902: TIME yaz
+Line 3903: LOCATION Türkiye
+Line 3903: LOCATION Eskişehir
+Line 3903: LOCATION King
+Line 3903: TIME 12 Ekim
+Line 3903: TIME Ekim
+Line 3904: TIME 1986
+Line 3905: LOCATION Hamilton
+Line 3907: LOCATION Eylül
+Line 3907: LOCATION Montreal
+Line 3907: TIME 21.00
+Line 3907: TIME 15 Eylül
+Line 3907: TIME Eylül
+Line 3908: LOCATION Eylül
+Line 3908: LOCATION Kadıköy Belediyesi 
+Line 3908: TIME Eylül
+Line 3908: TIME 23 Eylül
+Line 3909: PERSON Tülin Tanman
+Line 3909: PERSON Sanat Galerisi
+Line 3910: PERSON Sanat Galerisi
+Line 3910: TIME 2 Ekim
+Line 3910: TIME Ekim
+Line 3913: LOCATION Eylül
+Line 3913: LOCATION Bodrum Kalesi
+Line 3913: TIME 4 Ekim
+Line 3913: TIME Eylül
+Line 3913: TIME 15 Eylül
+Line 3913: TIME Ekim
+Line 3914: LOCATION Greenfield
+Line 3915: TIME 8516
+Line 3915: TIME 19.15
+Line 3916: LOCATION Türkiye
+Line 3916: LOCATION Taşkent
+Line 3917: ORGANIZATION Y Vakfı
+Line 3917: TIME 19.30
+Line 3919: LOCATION Eylül
+Line 3919: TIME Eylül
+Line 3920: PERSON Sanat Merkezi
+Line 3920: PERSON Fügen Can
+Line 3920: PERSON Meliha Denktaş
+Line 3920: LOCATION Eylül
+Line 3920: LOCATION Uran
+Line 3920: TIME 26 Eylül
+Line 3920: TIME Eylül
+Line 3922: PERSON Yılmaz Güney
+Line 3922: TIME 19.00
+Line 3924: PERSON Emeç Sanat Galerisi
+Line 3924: LOCATION Eylül
+Line 3924: TIME 24 Eylül
+Line 3924: TIME Eylül
+Line 3925: TIME 19.30
+Line 3926: PERSON Sanat Merkezi
+Line 3926: PERSON Kerem Görsev
+Line 3926: LOCATION Evans
+Line 3926: TIME 18.30
+Line 3927: PERSON Evin Sanat Galerisi
+Line 3927: PERSON Ahmet Umur Deniz
+Line 3928: LOCATION Cumhuriyet
+Line 3928: ORGANIZATION Tarih Vakfı
+Line 3929: PERSON Nuşin Meltem Kaya
+Line 3929: LOCATION Kaya
+Line 3930: LOCATION Güzel
+Line 3930: LOCATION Balıkesir
+Line 3930: TIME Güz
+Line 3931: TIME 18.00
+Line 3933: LOCATION Cumhuriyet
+Line 3933: TIME 17.00
+Line 3936: TIME 18.00
+Line 3936: TIME 14.00
+Line 3937: PERSON Akgün Akova
+Line 3937: PERSON Sunay Akın
+Line 3937: LOCATION Ankara
+Line 3937: TIME 19.00
+Line 3938: LOCATION PAZAR
+Line 3939: LOCATION Cumhuriyet
+Line 3939: ORGANIZATION Tarih Vakfı
+Line 3939: TIME 20.30
+Line 3940: LOCATION Caceres
+Line 3941: PERSON Sanat
+Line 3941: LOCATION Eylül
+Line 3941: TIME 12 Eylül
+Line 3941: TIME Eylül
+Line 3941: TIME 16.00
+Line 3942: LOCATION Montreal
+Line 3943: LOCATION Montreal
+Line 3944: LOCATION Montreal
+Line 3944: TIME 0.00
+Line 3944: TIME 1.75
+Line 3944: TIME 1800
+Line 3945: TIME 1970
+Line 3946: LOCATION Yeni
+Line 3948: PERSON Eva Von Gencsy
+Line 3948: LOCATION New York
+Line 3948: LOCATION York
+Line 3948: LOCATION Montreal
+Line 3948: TIME 1972
+Line 3949: TIME 1000
+Line 3950: LOCATION Montreal
+Line 3952: LOCATION Montreal
+Line 3953: LOCATION Manteca
+Line 3955: LOCATION Parsons
+Line 3955: LOCATION David
+Line 3957: TIME 1995
+Line 3958: TIME 1972
+Line 3959: LOCATION Montreal
+Line 3960: PERSON Tamer HEPER
+Line 3963: TIME 7.30
+Line 3965: TIME pazar
+Line 3977: PERSON Kanun
+Line 3978: LOCATION BEYAZ Saray
+Line 3978: LOCATION Clinton
+Line 3982: TIME şubat
+Line 3983: LOCATION Oval
+Line 3983: LOCATION Clinton
+Line 3984: PERSON Coşkun
+Line 3984: PERSON Monika
+Line 3984: LOCATION Clinton
+Line 3985: PERSON Monika
+Line 3987: LOCATION Gore
+Line 3988: TIME 30 Mart
+Line 3988: TIME Mart
+Line 3989: PERSON Monika Levinski
+Line 3989: LOCATION Clinton
+Line 3990: PERSON Monika
+Line 3990: LOCATION Clinton
+Line 3990: TIME kış
+Line 3991: LOCATION Gore
+Line 3992: TIME Nisan
+Line 3992: TIME 4 Nisan
+Line 3993: LOCATION Oval
+Line 3993: LOCATION Bağdat
+Line 3993: LOCATION Clinton
+Line 3994: PERSON Monika
+Line 3995: TIME 13 Nisan
+Line 3995: TIME Nisan
+Line 3996: PERSON Monika
+Line 3996: LOCATION Clinton
+Line 3997: PERSON Monika
+Line 3998: PERSON Monika
+Line 3998: LOCATION Clinton
+Line 3999: PERSON Monika
+Line 3999: LOCATION Clinton
+Line 4000: PERSON Sağlık
+Line 4001: LOCATION Gore
+Line 4002: TIME Nisan
+Line 4002: TIME 15 Nisan
+Line 4003: PERSON Monika
+Line 4003: LOCATION Clinton
+Line 4005: TIME Mayıs
+Line 4005: TIME 26 Mayıs
+Line 4006: LOCATION Arafat
+Line 4006: LOCATION Beyaz Saray
+Line 4006: LOCATION Clinton
+Line 4006: TIME yaz
+Line 4007: LOCATION Oval
+Line 4009: TIME Haziran
+Line 4009: TIME 5 Haziran
+Line 4010: LOCATION Clinton
+Line 4011: LOCATION Oval
+Line 4011: LOCATION Beyaz Saray
+Line 4011: TIME yaz
+Line 4013: TIME Haziran
+Line 4013: TIME 18 Haziran
+Line 4014: PERSON Monika
+Line 4014: LOCATION Clinton
+Line 4015: LOCATION Bağdat
+Line 4016: LOCATION Bağdat
+Line 4017: TIME 19 Haziran
+Line 4017: TIME Haziran
+Line 4018: PERSON Monika
+Line 4018: LOCATION Clinton
+Line 4019: LOCATION Bağdat
+Line 4020: LOCATION Bağdat
+Line 4021: LOCATION Clinton
+Line 4022: TIME 14 Temmuz
+Line 4022: TIME Temmuz
+Line 4023: LOCATION Clinton
+Line 4024: LOCATION Clinton
+Line 4025: PERSON Monika
+Line 4026: PERSON Monika
+Line 4029: LOCATION Türkiye
+Line 4030: LOCATION Japonya
+Line 4033: LOCATION Clinton
+Line 4036: PERSON Memduh Bayraktaroğlu
+Line 4036: TIME kış
+Line 4036: TIME yaz
+Line 4037: PERSON Yavuz Ataç
+Line 4040: PERSON Birgen Air
+Line 4042: PERSON Artık
+Line 4045: PERSON Cudi Dağı
+Line 4045: LOCATION Cudi Dağı
+Line 4046: LOCATION Medya
+Line 4046: LOCATION Polis
+Line 4047: ORGANIZATION Çocuk Esirgeme Kurumu
+Line 4048: LOCATION Gri
+Line 4049: PERSON Orhan TOKATLI
+Line 4049: TIME 2000
+Line 4051: PERSON Devlet
+Line 4056: TIME kış
+Line 4058: LOCATION Hilmi Caddesi
+Line 4060: LOCATION Ankara
+Line 4060: TIME güz
+Line 4062: LOCATION Eski Belediyeci 
+Line 4064: LOCATION Ankara
+Line 4066: PERSON Devrim Tarihi
+Line 4066: TIME yaz
+Line 4070: PERSON Necdet
+Line 4071: PERSON Mithat Paşa
+Line 4072: PERSON Mithat Paşa
+Line 4073: PERSON Mithat Paşa
+Line 4075: LOCATION Menderes
+Line 4075: TIME 1960
+Line 4080: LOCATION Yeni
+Line 4084: PERSON Necdet
+Line 4084: LOCATION Fikir
+Line 4088: LOCATION Fransa
+Line 4091: LOCATION Cumhuriyet
+Line 4096: PERSON Ak
+Line 4100: LOCATION Türkiye
+Line 4100: TIME 21. Yüzyıl
+Line 4107: LOCATION Türkiye
+Line 4108: TIME 3.6
+Line 4117: LOCATION Temel
+Line 4120: LOCATION Türkiye
+Line 4122: PERSON Yılmaz
+Line 4125: PERSON Yasa
+Line 4129: LOCATION Türkiye
+Line 4131: PERSON Dünya Bankası
+Line 4131: ORGANIZATION Dünya Bankası
+Line 4136: PERSON Atilla
+Line 4138: PERSON Ulusal Sosyal Güvenlik Sistemi Modeli
+Line 4139: TIME Mayıs 1998 
+Line 4139: TIME Mayıs
+Line 4139: TIME 1998
+Line 4143: LOCATION Yeni
+Line 4145: PERSON Mevcut
+Line 4149: PERSON Ulusal Sosyal Güvenlik Sigorta Kurumu
+Line 4149: ORGANIZATION Ulusal Sosyal Güvenlik Sigorta Kurumu
+Line 4150: PERSON Ulusal Sağlık Sistemi Modeli
+Line 4152: PERSON Dünya Bankası
+Line 4152: ORGANIZATION Dünya Bankası
+Line 4153: PERSON Ulusal Sosyal Güvenlik Sigorta Kurumu
+Line 4153: ORGANIZATION Ulusal Sosyal Güvenlik Sigorta Kurumu
+Line 4154: PERSON Devlet
+Line 4155: LOCATION ILO
+Line 4156: LOCATION Türkiye
+Line 4156: LOCATION ILO
+Line 4157: LOCATION Türkiye
+Line 4158: PERSON Enis Tütüncü
+Line 4158: LOCATION Tekirdağ
+Line 4158: LOCATION Yeni
+Line 4160: PERSON Hazine
+Line 4161: LOCATION Ekonomi
+Line 4161: LOCATION Eylül
+Line 4161: LOCATION Türkiye
+Line 4161: LOCATION Ankara
+Line 4161: TIME 12 Eylül
+Line 4161: TIME Eylül
+Line 4162: ORGANIZATION Hazine Müsteşarlığı
+Line 4164: PERSON Melih Araz
+Line 4165: PERSON Araz
+Line 4166: LOCATION Oğuz
+Line 4167: LOCATION Anayasa
+Line 4168: PERSON Çağan
+Line 4169: PERSON Çağan
+Line 4170: PERSON Hazine Müsteşarlığı
+Line 4170: ORGANIZATION Hazine Müsteşarlığı
+Line 4171: ORGANIZATION Maliye Bakanlığı
+Line 4173: PERSON Anadolu
+Line 4173: PERSON Tören
+Line 4173: TIME 1999
+Line 4174: LOCATION Beykoz Belediye 
+Line 4175: PERSON Tören
+Line 4176: PERSON Tören
+Line 4177: PERSON Tören
+Line 4178: PERSON Tören
+Line 4181: LOCATION Ekonomi
+Line 4182: PERSON Çağan
+Line 4183: PERSON Nazım
+Line 4183: PERSON Ragıp
+Line 4184: PERSON Ragıp Duran
+Line 4184: TIME yaz
+Line 4185: TIME 4.5
+Line 4186: PERSON Ragıp
+Line 4187: PERSON Nazım Hikmet
+Line 4187: TIME güz
+Line 4188: TIME güz
+Line 4189: TIME güz
+Line 4192: LOCATION Selçuk
+Line 4193: ORGANIZATION Yargıtay
+Line 4195: PERSON Yekta Güngör
+Line 4196: PERSON Sami Selçuk
+Line 4196: LOCATION Selçuk
+Line 4197: LOCATION Selçuk
+Line 4198: LOCATION Selçuk
+Line 4199: LOCATION Türkiye
+Line 4199: LOCATION Yeni
+Line 4200: LOCATION Selçuk
+Line 4202: PERSON Atatürk
+Line 4202: TIME yaz
+Line 4203: PERSON Sami Selçuk
+Line 4203: LOCATION Selçuk
+Line 4205: LOCATION Adalet
+Line 4206: PERSON Sami Selçuk
+Line 4206: LOCATION Selçuk
+Line 4208: LOCATION Anayasa
+Line 4208: LOCATION Selçuk
+Line 4210: LOCATION Selçuk
+Line 4212: LOCATION Selçuk
+Line 4213: LOCATION HOUSTON
+Line 4214: TIME yaz
+Line 4215: TIME yaz
+Line 4216: PERSON Derya
+Line 4216: LOCATION Ekonomi
+Line 4217: PERSON Bilgi
+Line 4224: PERSON Güneş
+Line 4228: PERSON Dünya Enerji Zirvesi
+Line 4229: PERSON Dünya Enerji Konseyi
+Line 4232: TIME eylül
+Line 4237: PERSON Dünya
+Line 4239: TIME güz
+Line 4240: LOCATION Türkiye
+Line 4244: LOCATION Türkiye
+Line 4244: LOCATION Yarın
+Line 4245: LOCATION RUSYA
+Line 4246: LOCATION Duma
+Line 4247: LOCATION Merkez
+Line 4247: LOCATION Rusya
+Line 4247: ORGANIZATION Merkez Bankası
+Line 4247: TIME ekim
+Line 4249: LOCATION Rusya
+Line 4250: LOCATION Merkez
+Line 4250: LOCATION Rusya
+Line 4250: ORGANIZATION Merkez Bankası
+Line 4250: TIME 1992
+Line 4250: TIME 1993
+Line 4251: TIME 1994
+Line 4252: LOCATION Rusya
+Line 4253: LOCATION Washington
+Line 4253: LOCATION Duma
+Line 4253: LOCATION David
+Line 4253: TIME 12.09
+Line 4253: TIME 1998
+Line 4254: LOCATION Duma
+Line 4254: LOCATION Rusya
+Line 4257: LOCATION Rusya
+Line 4258: LOCATION ABD
+Line 4259: PERSON Batı
+Line 4259: LOCATION Ancak
+Line 4259: LOCATION Rusya
+Line 4262: LOCATION Duma
+Line 4263: LOCATION Marshall
+Line 4263: LOCATION Rusya
+Line 4264: LOCATION Moskova
+Line 4264: TIME yaz
+Line 4265: LOCATION Kaliningrad
+Line 4265: LOCATION Moskova
+Line 4265: LOCATION Samara
+Line 4266: LOCATION Washington
+Line 4266: LOCATION Rusya
+Line 4266: TIME 09.09
+Line 4266: TIME 1998
+Line 4267: LOCATION Washington
+Line 4267: LOCATION ABD
+Line 4267: LOCATION Rusya
+Line 4267: TIME 22.00
+Line 4268: LOCATION Washington
+Line 4268: LOCATION ABD
+Line 4268: LOCATION Rusya
+Line 4269: LOCATION ABD
+Line 4269: LOCATION Rusya
+Line 4270: LOCATION Ancak
+Line 4270: LOCATION ABD
+Line 4272: LOCATION Rusya
+Line 4273: LOCATION Duma
+Line 4273: LOCATION Ancak
+Line 4274: LOCATION Duma
+Line 4274: TIME aralık
+Line 4275: LOCATION Marshall
+Line 4275: LOCATION Rusya
+Line 4277: LOCATION Washington
+Line 4277: LOCATION Rusya
+Line 4278: PERSON Dünya Bankası
+Line 4278: ORGANIZATION Dünya Bankası
+Line 4279: LOCATION Rusya
+Line 4280: LOCATION FRANKFURT
+Line 4282: PERSON Zaman
+Line 4283: PERSON İhsan Sabri Çağlayangil
+Line 4285: LOCATION Kıbrıs
+Line 4286: LOCATION Almanya
+Line 4289: PERSON Özel Kalem Müdürü
+Line 4289: LOCATION Almanya
+Line 4289: LOCATION Özel Kalem 
+Line 4290: PERSON Zaman
+Line 4291: LOCATION DÜSSELDORF
+Line 4293: LOCATION Essen
+Line 4295: PERSON Recai Aksu
+Line 4295: LOCATION Gelsenkirchen
+Line 4295: LOCATION Aksu
+Line 4295: LOCATION Almanya
+Line 4296: PERSON Recai
+Line 4297: LOCATION Hayır
+Line 4299: PERSON Hami
+Line 4300: LOCATION Gelsenkirchen
+Line 4305: PERSON Faruk Şen
+Line 4306: PERSON Oy
+Line 4307: PERSON Çağlayangil
+Line 4307: PERSON Şen
+Line 4309: TIME 2002
+Line 4318: LOCATION Almanya
+Line 4321: LOCATION Yeni
+Line 4324: PERSON Mustafa Taşar
+Line 4326: PERSON Fazilet
+Line 4327: PERSON Faruk Şen
+Line 4331: PERSON Hami
+Line 4334: PERSON Sonuç
+Line 4334: PERSON Hami
+Line 4335: LOCATION Türkiye
+Line 4348: LOCATION Köy
+Line 4352: LOCATION Türkiye
+Line 4357: LOCATION Köy
+Line 4357: ORGANIZATION Köy Enstitüleri
+Line 4357: TIME 1940
+Line 4359: LOCATION Türkiye
+Line 4362: LOCATION Türkiye
+Line 4362: TIME Nisan
+Line 4365: TIME yaz
+Line 4366: PERSON Şener Şen
+Line 4369: TIME yaz
+Line 4373: PERSON Batı
+Line 4373: PERSON Yeter
+Line 4374: PERSON Tüzüner
+Line 4375: LOCATION Medya
+Line 4376: PERSON Özveri
+Line 4377: PERSON Arsal Tüzüner
+Line 4380: PERSON Devlet
+Line 4386: TIME kasım
+Line 4392: LOCATION Washington
+Line 4395: LOCATION ABD
+Line 4399: LOCATION Anayasa
+Line 4400: LOCATION Anayasa
+Line 4402: LOCATION Türkiye
+Line 4403: LOCATION Clinton
+Line 4404: LOCATION ABD
+Line 4404: LOCATION Clinton
+Line 4406: LOCATION ABD
+Line 4406: LOCATION Ancak
+Line 4406: LOCATION Clinton
+Line 4407: LOCATION Clinton
+Line 4410: LOCATION ABD
+Line 4410: LOCATION Clinton
+Line 4411: LOCATION Ancak
+Line 4412: LOCATION ABD
+Line 4412: LOCATION Adalet
+Line 4412: ORGANIZATION Adalet Bakanlığı
+Line 4413: LOCATION Boston
+Line 4413: LOCATION ABD
+Line 4414: LOCATION Kıbrıs
+Line 4414: LOCATION Kosova
+Line 4415: TIME Yaz
+Line 4416: LOCATION ABD
+Line 4417: LOCATION Aynı
+Line 4418: LOCATION Türkiye
+Line 4419: LOCATION Clinton
+Line 4420: TIME yaz
+Line 4422: LOCATION ABD
+Line 4427: LOCATION Clinton
+Line 4427: TIME kış
+Line 4428: PERSON Özel
+Line 4428: LOCATION Clinton
+Line 4429: TIME kış
+Line 4430: PERSON İnsaf
+Line 4432: LOCATION Nagazaki
+Line 4433: LOCATION Nagazaki
+Line 4434: PERSON General
+Line 4434: LOCATION Marshall
+Line 4436: LOCATION Japonya
+Line 4436: LOCATION Beyaz Saray
+Line 4436: TIME yaz
+Line 4438: LOCATION Küba
+Line 4438: LOCATION ABD
+Line 4439: LOCATION Şili
+Line 4440: LOCATION Körfez
+Line 4442: LOCATION ABD
+Line 4443: LOCATION New York
+Line 4443: LOCATION Columbia
+Line 4443: LOCATION York
+Line 4443: LOCATION Bar
+Line 4443: ORGANIZATION Columbia Üniversitesi
+Line 4444: PERSON Doğu
+Line 4444: PERSON Batı
+Line 4445: PERSON Doğu
+Line 4447: TIME yaz
+Line 4448: TIME güz
+Line 4448: TIME yaz
+Line 4451: PERSON Fazilet Partisi
+Line 4451: PERSON Tansu Çiller
+Line 4452: PERSON Naki ÖZKAN
+Line 4457: PERSON Gazi Üniversitesi İktisadi İdari Bilimler Fakültesi
+Line 4457: ORGANIZATION Gazi Üniversitesi
+Line 4459: PERSON Naki Özkan
+Line 4460: TIME yaz
+Line 4462: PERSON Devlet
+Line 4467: PERSON Devlet
+Line 4478: PERSON Devlet
+Line 4483: PERSON Haldun
+Line 4484: PERSON Fazilet Partisi
+Line 4501: PERSON Adil Düzen
+Line 4505: LOCATION Merkez
+Line 4513: PERSON İslam
+Line 4516: PERSON Tek
+Line 4523: TIME yaz
+Line 4528: PERSON İslam
+Line 4528: LOCATION Türkiye
+Line 4530: PERSON İslam
+Line 4531: PERSON İslam
+Line 4533: PERSON Devlet
+Line 4539: PERSON Devlet
+Line 4551: LOCATION Kuran
+Line 4578: PERSON İslam
+Line 4579: PERSON Kutsal
+Line 4582: PERSON Süleyman Çelebi
+Line 4582: TIME 14. yüzyılda
+Line 4582: TIME yaz
+Line 4585: LOCATION İstanbul
+Line 4586: LOCATION Arap
+Line 4586: TIME yaz
+Line 4606: LOCATION TEM Otoyolu
+Line 4607: PERSON Mehmet Özdemir
+Line 4607: TIME 02.00
+Line 4609: PERSON Uludağ Turizm
+Line 4610: PERSON Mualla Özdemir
+Line 4610: PERSON Mehmet Özdemir
+Line 4613: PERSON Yıldırım Mahallesi Yengeç Sokak
+Line 4613: LOCATION Yengeç Sokak
+Line 4613: LOCATION Yıldırım Mahallesi 
+Line 4613: TIME 21.00
+Line 4614: PERSON Keser
+Line 4614: PERSON Ayşe
+Line 4614: PERSON Çiğdem
+Line 4615: PERSON Ayşe
+Line 4615: PERSON Çiğdem
+Line 4616: PERSON Yılmaz Keser
+Line 4616: PERSON Çiğdem Keser
+Line 4619: LOCATION TEM Otoyolu
+Line 4619: TIME 03.00
+Line 4621: PERSON Sinan Samat
+Line 4621: LOCATION Mahmutbey Köprüsü
+Line 4621: TIME 03.00
+Line 4623: PERSON Emine Samat
+Line 4624: PERSON Sinan Samat
+Line 4625: PERSON Armağan
+Line 4625: PERSON Ümran
+Line 4627: PERSON Selim GENÇ
+Line 4627: LOCATION GENÇ
+Line 4628: PERSON Güngör Bayrak
+Line 4629: PERSON Erkan Özerman
+Line 4630: PERSON Bayrak
+Line 4630: LOCATION Duruma
+Line 4631: PERSON Bayrak
+Line 4632: LOCATION Orman
+Line 4634: TIME aralık
+Line 4636: PERSON Arife AVCU
+Line 4636: LOCATION İSTANBUL
+Line 4641: PERSON Dr
+Line 4641: LOCATION Türkiye
+Line 4641: LOCATION Merkez
+Line 4645: PERSON Serkan DUYGU
+Line 4646: PERSON Sibel Can
+Line 4647: PERSON Hakan Ural
+Line 4647: LOCATION Ancak
+Line 4648: PERSON Samim Değer
+Line 4648: PERSON Hakan Ural
+Line 4648: LOCATION Değer
+Line 4649: PERSON Tansu Çiller
+Line 4649: PERSON Refah Partisi
+Line 4649: LOCATION Kütahya
+Line 4650: LOCATION Kuran
+Line 4651: LOCATION Kuran
+Line 4654: PERSON Aslı YILMAZ
+Line 4654: LOCATION TRABZON
+Line 4655: PERSON Afet İşleri
+Line 4655: LOCATION TRABZON
+Line 4656: PERSON Hüseyin Tirgil
+Line 4656: TIME 1990
+Line 4657: PERSON Afet
+Line 4658: PERSON Mesut Yılmaz
+Line 4658: PERSON Deniz Baykal
+Line 4658: PERSON Hüsamettin Cindoruk
+Line 4659: PERSON Cindoruk
+Line 4660: PERSON Cindoruk
+Line 4660: PERSON Ülke
+Line 4661: PERSON Seçim
+Line 4661: PERSON Cindoruk
+Line 4662: LOCATION İstanbul
+Line 4662: LOCATION Büyükşehir Belediye 
+Line 4663: LOCATION İstanbul
+Line 4664: PERSON Cindoruk
+Line 4665: PERSON Selim DÜZEL
+Line 4665: LOCATION AYVALIK
+Line 4666: LOCATION Sahil
+Line 4667: PERSON Olay
+Line 4667: TIME 01.00
+Line 4668: LOCATION Sahil
+Line 4669: LOCATION Sahil
+Line 4671: PERSON Halil İbrahim Özsoy
+Line 4671: PERSON Dünya Sağlık Örgütü
+Line 4671: LOCATION Danimarka
+Line 4671: LOCATION Kopenhag
+Line 4672: TIME 2000
+Line 4672: TIME 2001
+Line 4672: TIME 21. Yüzyıl
+Line 4673: PERSON İhsan Doğramac
+Line 4673: PERSON Sağlık Bakanı
+Line 4673: LOCATION Türkiye
+Line 4673: TIME 1979
+Line 4673: TIME 1948
+Line 4673: TIME 1964
+Line 4674: LOCATION Konya
+Line 4674: ORGANIZATION Konya Devlet Hastanesi
+Line 4674: TIME ekim
+Line 4675: PERSON Özsoy
+Line 4675: TIME ekim
+Line 4676: PERSON Can HACIOĞLU
+Line 4676: LOCATION SÖĞÜT
+Line 4677: PERSON Süleyman Demirel
+Line 4678: PERSON Yörük Bayramı
+Line 4678: LOCATION Bilecik
+Line 4678: LOCATION Söğüt
+Line 4679: PERSON ı Devlet Bahçeli
+Line 4680: PERSON Demirel
+Line 4681: PERSON Süleyman Demirel
+Line 4681: LOCATION Birlik
+Line 4682: PERSON Güner
+Line 4682: PERSON Yardımcısı
+Line 4682: PERSON Agah Oktay Güner
+Line 4683: PERSON Güner
+Line 4683: PERSON Kaddafi
+Line 4683: LOCATION İran
+Line 4683: LOCATION Irak
+Line 4684: PERSON Devlet Bahçeli
+Line 4685: PERSON Muhammed Aydoğduyev
+Line 4685: PERSON Başdanışmanı
+Line 4685: PERSON Türkmen Kalpağı
+Line 4685: LOCATION Türkmenistan
+Line 4686: PERSON Demirel
+Line 4687: PERSON Süleyman Demirel
+Line 4688: PERSON Ömer Musaoğlu
+Line 4688: LOCATION Ankara
+Line 4689: PERSON Yardımcısı
+Line 4689: TIME Nisan
+Line 4689: TIME 18 Nisan 1999
+Line 4689: TIME 1999
+Line 4689: TIME 18 Nisan
+Line 4689: TIME Nisan 1999 
+Line 4690: PERSON Atatürk Havalimanı Şeref Salonu
+Line 4691: PERSON Okuyan
+Line 4691: PERSON İslam
+Line 4692: PERSON Yardımcısı
+Line 4693: PERSON Rahşan Ecevit
+Line 4693: TIME 18 Nisan
+Line 4693: TIME Nisan
+Line 4693: TIME yaz
+Line 4695: PERSON Yardımcısı
+Line 4695: TIME Nisan
+Line 4695: TIME 18 Nisan 1999
+Line 4695: TIME 1999
+Line 4695: TIME 18 Nisan
+Line 4695: TIME Nisan 1999 
+Line 4696: PERSON Baykal
+Line 4696: ORGANIZATION TBMM
+Line 4697: PERSON Mesut Yılmaz
+Line 4698: PERSON Necdet Calp
+Line 4698: LOCATION Eylül
+Line 4698: TIME 12 Eylül
+Line 4698: TIME Eylül
+Line 4700: LOCATION Ankara
+Line 4700: ORGANIZATION Ankara Üniversitesi
+Line 4700: TIME 1922
+Line 4702: PERSON Özel Kalem Müdürlüğü
+Line 4702: LOCATION Türkiye
+Line 4702: LOCATION Eylül
+Line 4702: LOCATION Özel Kalem 
+Line 4702: TIME 12 Eylül
+Line 4702: TIME Eylül 1980 
+Line 4702: TIME Eylül
+Line 4702: TIME 12 Eylül 1980
+Line 4702: TIME 1980
+Line 4703: LOCATION Eylül
+Line 4703: TIME 12 Eylül
+Line 4703: TIME Eylül
+Line 4704: TIME 20 Mayıs 1983
+Line 4704: TIME Mayıs
+Line 4704: TIME 1983
+Line 4704: TIME 20 Mayıs
+Line 4704: TIME Mayıs 1983 
+Line 4705: PERSON Necdet Calp
+Line 4705: LOCATION Ankara
+Line 4705: TIME 6 Kasım 1983
+Line 4705: TIME 6 Kasım
+Line 4705: TIME 1983
+Line 4705: TIME Kasım 1983 
+Line 4705: TIME Kasım
+Line 4706: LOCATION Aydın
+Line 4706: TIME 29 Haziran
+Line 4706: TIME 29 Haziran 1985
+Line 4706: TIME 1985
+Line 4706: TIME Haziran 1985 
+Line 4706: TIME Haziran
+Line 4707: TIME 2 Kasım 1985
+Line 4707: TIME 2 Kasım
+Line 4707: TIME 1985
+Line 4707: TIME Kasım 1985 
+Line 4707: TIME Kasım
+Line 4708: TIME 3 Kasım
+Line 4708: TIME 3 Kasım 1985
+Line 4708: TIME 1985
+Line 4708: TIME Kasım 1985 
+Line 4708: TIME Kasım
+Line 4709: PERSON Necdet Calp
+Line 4709: LOCATION Ankara
+Line 4709: TIME Kasım 1987 
+Line 4709: TIME 29 Kasım
+Line 4709: TIME 1987
+Line 4709: TIME 29 Kasım 1987
+Line 4709: TIME Kasım
+Line 4710: PERSON Necdet Calp
+Line 4711: ORGANIZATION Futbol Federasyonu
+Line 4712: PERSON Gönen Beşiktaşlılar Derneği
+Line 4712: TIME yaz
+Line 4714: PERSON Atatürk Stadı
+Line 4714: PERSON Haluk Ulusoy
+Line 4714: ORGANIZATION Futbol Federasyonu
+Line 4715: PERSON Gönen Beşiktaşlılar Derneği
+Line 4716: TIME kış
+Line 4716: TIME yaz
+Line 4720: PERSON Ertuğrul
+Line 4721: PERSON Ertuğrul
+Line 4723: LOCATION İzmir
+Line 4723: TIME yaz
+Line 4724: LOCATION İrlanda
+Line 4724: LOCATION İzmir
+Line 4724: ORGANIZATION Milli Takımımızın
+Line 4725: PERSON Gürcan BİLGİÇ
+Line 4728: LOCATION Ancak
+Line 4729: LOCATION Yeşil
+Line 4731: PERSON Tebrik
+Line 4735: LOCATION Ancak
+Line 4739: PERSON Sefer
+Line 4741: PERSON Sefer
+Line 4742: PERSON Ali Uluyol
+Line 4744: PERSON Engin
+Line 4744: PERSON Alpay
+Line 4745: PERSON Engin
+Line 4745: LOCATION Aynı
+Line 4747: TIME Kasım
+Line 4748: PERSON Konuk
+Line 4749: TIME Kasım
+Line 4750: PERSON Önder İpek
+Line 4751: PERSON Aykut
+Line 4752: PERSON Zafer Önder İpek
+Line 4753: PERSON Yusuf
+Line 4753: PERSON Erol
+Line 4753: PERSON Besim
+Line 4753: PERSON Vahit
+Line 4753: PERSON Salih
+Line 4753: PERSON Ahmet
+Line 4753: PERSON Mustafa
+Line 4753: PERSON İslam
+Line 4753: PERSON Gürkan
+Line 4753: PERSON Murat
+Line 4753: PERSON Hakikat
+Line 4753: PERSON Şükrü
+Line 4754: PERSON Ayhan
+Line 4754: PERSON Aykut
+Line 4754: PERSON Ali
+Line 4754: PERSON Tarık
+Line 4754: PERSON Nail
+Line 4754: PERSON Serhat
+Line 4754: PERSON Şevket
+Line 4754: PERSON Ceyhun
+Line 4754: PERSON Uğur
+Line 4754: PERSON Metin
+Line 4754: PERSON Erkan
+Line 4754: PERSON Ramazan
+Line 4754: PERSON Remzi
+Line 4754: LOCATION Hasan
+Line 4755: PERSON Aykut
+Line 4756: TIME çarşamba
+Line 4757: PERSON Fatih Terim
+Line 4757: LOCATION Erzurum
+Line 4758: PERSON Terim
+Line 4760: PERSON Fatih Terim
+Line 4761: PERSON Fatih Terim
+Line 4764: PERSON Bilal MEŞE
+Line 4772: LOCATION Serdar
+Line 4773: PERSON Tayfur
+Line 4773: PERSON Mutlu
+Line 4775: PERSON Ayhan
+Line 4784: PERSON Oktay
+Line 4784: PERSON Ertuğrul
+Line 4784: PERSON Nihat
+Line 4788: PERSON Yazık
+Line 4788: TIME Yaz
+Line 4788: TIME yaz
+Line 4789: LOCATION İzmir
+Line 4790: LOCATION Kartal
+Line 4794: LOCATION Kartal
+Line 4799: PERSON Ertuğrul
+Line 4799: PERSON Nihat
+Line 4800: PERSON Oktay
+Line 4801: LOCATION Kartal
+Line 4801: TIME ekim
+Line 4802: PERSON Artık
+Line 4804: PERSON Oktay
+Line 4805: PERSON Nihat
+Line 4805: LOCATION Bursa
+Line 4808: PERSON Feyyaz Uçar
+Line 4808: TIME yaz
+Line 4809: LOCATION İstanbul
+Line 4810: PERSON İnönü
+Line 4810: PERSON Zemin
+Line 4813: LOCATION İstanbul
+Line 4820: PERSON Ertuğrul
+Line 4821: PERSON Tayfur
+Line 4821: LOCATION Orta
+Line 4822: PERSON Ali Eren
+Line 4822: LOCATION Türkiye
+Line 4823: PERSON Rahim
+Line 4827: LOCATION Bursa
+Line 4830: PERSON Doğru
+Line 4837: LOCATION Aydın
+Line 4839: LOCATION Ancak
+Line 4840: PERSON Ayhan
+Line 4842: PERSON Okan
+Line 4845: PERSON Alpay
+Line 4848: PERSON Engin
+Line 4848: PERSON Mert
+Line 4849: PERSON Aygün
+Line 4849: LOCATION Sakarya
+Line 4850: LOCATION Ancak
+Line 4852: PERSON Kamil Dertop
+Line 4852: PERSON Ali Uluyol
+Line 4852: PERSON Necdet Sevim
+Line 4853: PERSON Murat Yavaşgül
+Line 4853: LOCATION Hasan
+Line 4854: PERSON Murat Kefez
+Line 4855: PERSON Engin
+Line 4855: PERSON Erhan
+Line 4855: PERSON Orhan
+Line 4855: PERSON Soner
+Line 4855: PERSON Ahmet
+Line 4855: PERSON Osman
+Line 4855: PERSON Tarık
+Line 4855: PERSON Evren
+Line 4855: PERSON Cihan
+Line 4855: PERSON Mert
+Line 4855: PERSON Medhat
+Line 4855: PERSON Nuri
+Line 4856: PERSON Metin
+Line 4856: PERSON Bülent
+Line 4856: PERSON Cem
+Line 4857: LOCATION Kocaeli
+Line 4857: LOCATION SARI
+Line 4860: LOCATION BEŞİKTAŞ
+Line 4866: PERSON Mutlu
+Line 4866: LOCATION Aydın
+Line 4870: PERSON Ertuğrul
+Line 4870: PERSON Tayfur
+Line 4870: PERSON Rahim
+Line 4870: LOCATION Aydın
+Line 4874: PERSON Fevzi
+Line 4874: PERSON Rahim
+Line 4875: PERSON Fevzi
+Line 4897: PERSON Bekir
+Line 4897: PERSON Nedim
+Line 4897: LOCATION Hatay
+Line 4897: TIME yaz
+Line 4898: PERSON Bekir
+Line 4899: PERSON Gökhan
+Line 4899: PERSON Kenan
+Line 4900: PERSON Kenan
+Line 4900: PERSON Bülent
+Line 4900: PERSON Nedim
+Line 4901: PERSON Hakan Özkan
+Line 4901: PERSON Olkan Aymankul
+Line 4901: PERSON Bülent Türkekul
+Line 4902: PERSON Hakan
+Line 4902: PERSON Bülent
+Line 4902: PERSON Soner
+Line 4902: PERSON Nedim
+Line 4902: PERSON Ali
+Line 4902: PERSON Ahmet
+Line 4902: PERSON Hayrettin
+Line 4902: PERSON Levent
+Line 4902: PERSON Mustafa
+Line 4902: PERSON Kenan
+Line 4902: PERSON Enis
+Line 4902: PERSON Murat
+Line 4902: PERSON Gökhan
+Line 4902: LOCATION ZEYTİNBURNU
+Line 4903: PERSON Erdinç
+Line 4903: PERSON Hakan
+Line 4903: PERSON Kemal
+Line 4903: PERSON Bülent
+Line 4903: PERSON İlhan
+Line 4903: PERSON Halil
+Line 4903: PERSON Ahmet
+Line 4903: PERSON Baykan
+Line 4903: PERSON Kenan
+Line 4903: PERSON Bayram
+Line 4903: PERSON Bekir
+Line 4903: PERSON Talip
+Line 4903: PERSON Gökmen
+Line 4904: PERSON Kenan
+Line 4904: PERSON Gökhan
+Line 4904: PERSON Bekir
+Line 4904: PERSON Nedim
+Line 4905: LOCATION ALMANYA
+Line 4905: LOCATION Almanya
+Line 4906: LOCATION Türkiye
+Line 4906: LOCATION Almanya
+Line 4907: LOCATION Almanya
+Line 4907: TIME 87.4
+Line 4908: LOCATION Eylül
+Line 4908: TIME 27 Eylül
+Line 4908: TIME Eylül
+Line 4909: PERSON Cem
+Line 4909: LOCATION Tahran
+Line 4909: LOCATION Yunanistan
+Line 4909: LOCATION İran
+Line 4910: PERSON Muhammed Hatemi
+Line 4910: PERSON İsmail Cem
+Line 4910: LOCATION İran
+Line 4911: PERSON Demirel
+Line 4911: PERSON Cem
+Line 4911: LOCATION İran
+Line 4911: LOCATION Cumhuriyet
+Line 4911: LOCATION Ankara
+Line 4912: LOCATION Baba
+Line 4913: LOCATION Tahran
+Line 4914: PERSON Kemal Harrazi
+Line 4914: LOCATION Türkiye
+Line 4914: LOCATION Tahran
+Line 4914: LOCATION İran
+Line 4916: PERSON Ali Ekber Natık
+Line 4916: LOCATION İran
+Line 4917: LOCATION İran
+Line 4917: LOCATION Afganistan
+Line 4918: PERSON İsmail Cem
+Line 4919: PERSON Natık Nuri
+Line 4920: PERSON Natık Nuri
+Line 4920: PERSON Sayın
+Line 4920: PERSON Süleyman Demirel
+Line 4921: PERSON Kemal Harrazi
+Line 4921: PERSON İsmail Cem
+Line 4921: LOCATION Türkiye
+Line 4921: LOCATION Yunanistan
+Line 4921: LOCATION İran
+Line 4921: LOCATION Tahran
+Line 4922: PERSON Cem
+Line 4922: LOCATION Yunanistan
+Line 4923: LOCATION Türkiye
+Line 4924: LOCATION Türkiye
+Line 4924: LOCATION Yunanistan
+Line 4925: PERSON İsmail Cem
+Line 4925: LOCATION Türkiye
+Line 4925: LOCATION Kıbrıs
+Line 4925: LOCATION Yunanistan
+Line 4926: PERSON Kemal Harrazi
+Line 4926: LOCATION Türkiye
+Line 4926: LOCATION İran
+Line 4927: LOCATION AZERBAYCAN
+Line 4927: LOCATION Bakü
+Line 4927: ORGANIZATION Demokratik Kuruluşlar
+Line 4927: TIME 11 Ekim
+Line 4927: TIME Ekim
+Line 4928: LOCATION Bakü
+Line 4929: LOCATION Azerbaycan
+Line 4930: PERSON Haydar Aliyev
+Line 4933: TIME 18 Nisan
+Line 4933: TIME Nisan
+Line 4934: PERSON Mesut Yılmaz
+Line 4934: PERSON Deniz Baykal
+Line 4934: TIME bahar
+Line 4934: TIME ilkbahar
+Line 4937: LOCATION Türkiye
+Line 4938: PERSON Dünya
+Line 4938: LOCATION Türkiye
+Line 4938: TIME bahar
+Line 4938: TIME İlkbahar
+Line 4939: TIME 28 Şubat
+Line 4939: TIME Şubat
+Line 4943: PERSON Deniz Baykal
+Line 4944: TIME bahar
+Line 4944: TIME ilkbahar
+Line 4945: PERSON Yılmaz
+Line 4961: PERSON Baykal
+Line 4966: PERSON Mesut Yılmaz
+Line 4966: TIME Ocak 1999 
+Line 4966: TIME Aralık
+Line 4966: TIME Ocak
+Line 4966: TIME 1999
+Line 4972: TIME bahar
+Line 4972: TIME sonbahar
+Line 4974: TIME bahar
+Line 4974: TIME ilkbahar
+Line 4976: LOCATION Türkiye
+Line 4976: TIME bahar
+Line 4976: TIME ilkbahar
+Line 4976: TIME Ocak
+Line 4976: TIME sonbahar

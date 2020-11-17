@@ -1,0 +1,87 @@
+Türkiye Cumhuriyeti Ziraat Bankası A.Ş. (Ortakları: %100 T.C. Başbakanlık Hazine Müsteşarlığı)
+Türkiye Halk Bankası A.Ş. (Ortakları: %51,1 T.C. Başbakanlık Özelleştirme İdaresi Başkanlığı, %48,88 Halka Açık)
+Türkiye Vakıflar Bankası T.A.O. (Ortakları: %58,44 T.C. BAŞBAKANLIK VAKIFLAR GENEL MÜDÜRLÜĞÜ, %25,2 HALKA AÇIK, %16,1 VAKIFBANK MEM. VE HİZM. EM. VE SAĞ. YARD. SAN. VAKFI)
+Akbank T.A.Ş. (Ortakları: %48,9 Sabancı Holding, %51,1 Halka Açık)
+Anadolubank A.Ş. (Ortakları: %69,98 HABAŞ Sınai ve Tıbbi Gazlar İstihsal Endüstrisi A.Ş, %27,32 Mehmet Rüştü Başaran)
+Fibabanka A.Ş. (Ortakları: %71,19 Fiba Holding A.Ş., %9,95 TurkFinance B.V., %8,96 International Finance Corporation, %8,96 European Bank for Reconstruction and Development)
+Şekerbank T.A.Ş. (Ortakları: %35,44 Şekerbank T.A.Ş. Personeli Munzam Sosyal Güvenlik ve Yardımlaşma Sandığı Vakfı, %19,37 Samruk Kazyna Kazakistan Devlet Varlık Fonu, %9,43 Şekerbank T.A.Ş., %1,48 BTA Securities JSC, %0,09 Pancar Kooperatifleri, %34,19 Halka Açık)
+Turkish Bank A.Ş. (Ortakları: %58,92 Özyol Holding, %34,29 National Bank of Kuwait)
+Türk Ekonomi Bankası A.Ş. (Ortakları: %55 Teb Holding A.Ş, %23,51 BNP Paribas Yatırımlar Holding A.Ş, %21,23 BNP Paribas Fortis Yatırımlar Holding A.Ş.)
+Türkiye İş Bankası A.Ş. (Ortakları: %40,15 İş Bankası Munzam Sandık Vakfı, %28,09 Atatürk Hisseleri, %31,76 Halka Açık)
+Yapı ve Kredi Bankası A.Ş. (Ortakları: %81,8 Koç Finansal Hizmetler A.Ş, %18,2 Halka Açık)
+Adabank A.Ş.
+Birleşik Fon Bankası A.Ş.
+Alternatif Bank A.Ş. (Ortakları: %100 The Commercial Bank Of Qatar)
+Arap Türk Bankası A.Ş. (Ortakları: %62,37 Libyan Foreign Bank, %20,58 Türkiye İş Bankası, %15,43 T.C. Ziraat Bankası, %1,62 Kuwait Investment Co.)
+Bank of Tokyo-Mitsubishi UFJ Turkey A.Ş. (Ortakları: %100 Bank of Tokyo-Mitsubishi UFJ)
+Burgan Bank A.Ş. (Ortakları: %99,26 Burgan Bank S.A.K.)
+Citibank A.Ş. (Ortakları: %99,99 Citigroup Netherlands B.V.)
+Denizbank A.Ş. (Ortakları: %99,85 Sberbank of Russia)
+Deutsche Bank A.Ş. (Ortakları: %99,99 Deutsche Bank A.G.)
+HSBC A.Ş. (Ortakları: %100 HSBC Bank plc.)
+ICBC Turkey Bank A.Ş. (Ortakları: %92,82 Industrial and Commercial Bank of China, %7,18 Halka Açık)
+ING Bank A.Ş. (Ortakları: %99,99 ING Bank N.V.)
+Odeabank A.Ş. (Ortakları: %93,82 Bank Audi s.a.l, %6,06 Audi Private Bank s.a.l.)
+QNB Finansbank A.Ş. (Ortakları: %99,88 Qatar National Bank)
+Rabobank A.Ş. (Ortakları: %96 Rabobank International Holding B.V.)
+T-Bank A.Ş. (Ortakları: %50 BankMed, %28 Arab Bank, %22 Arab Bank İsviçre)
+Türkiye Garanti Bankası A.Ş. (Ortakları: %40 BBVA, %10 Doğuş Grubu, %50 Diğer Ortaklar)
+Bank Mellat
+Habib Bank Limited
+Intesa Sanpaolo S.P.A
+JP Morgan Chase Bank N.A.
+Société Générale S.A.
+The Royal Bank of Scotland PLC.
+İller Bankası A.Ş.
+Türk Eximbank A.Ş.
+Türkiye Kalkınma Bankası A.Ş.
+İstanbul Takas ve Saklama Bankası A.Ş.
+Aktif Yatırım Bankası A.Ş.
+Diler Yatırım Bankası A.Ş.
+GSD Yatırım Bankası A.Ş.
+Nurol Yatırım Bankası A.Ş.
+Türkiye Sınai Kalkınma Bankası A.Ş. (Ortakları: %50 Türkiye İş Bankası, %8,38 Türkiye Vakıflar Bankası, %41,62 Halka Açık)
+BankPozitif Kredi ve Kalkınma Bankası A.Ş. (Ortakları: %69,82 TARSHISH HAPOALIM AND INVESMENTS LTD, %30;17 C Faktoring A.Ş.)
+Merrill Lynch Yatırım Bank A.Ş.
+Pasha Yatırım Bankası A.Ş. (Ortakları: %99,91 Pasha Bank OJSC)
+Standard Chartered Yatırım Bankası Türk A.Ş.
+Albaraka Türk Katılım Bankası A.Ş. (Ortakları: %54,06 Albaraka Bankacılık Grubu, %7,84 İslam Kalkınma Bankası, %24,84 Halka Açık)
+Kuveyt Türk Katılım Bankası A.Ş. (Ortakları: %62,24 Kuwait Finance House KSC, %18,72 T.C. Başbakanlık Vakıflar Genel Müdürlüğü, %9 İslam Kalkınma Bankası, %9 Kuveyt Sosyal Güvenlik Kamu Kuruluşu, %1,04 Diğer Ortaklar)
+Türkiye Finans Katılım Bankası A.Ş. (Ortakları: %67,03 The National Commercial Bank, %10,57 Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş., %22,40 Diğer Ortaklar)
+Ziraat Katılım Bankası A.Ş.
+Vakıf Katılım Bankası A.Ş.
+Bank Asya A.Ş.
+Bank Ekspres A.Ş.
+Bank Kapital Türk T.A.Ş.
+Bayındırbank A.Ş.
+Demirbank T.A.Ş.
+Dışbank A.Ş.
+Egebank A.Ş.
+EGS Bank A.Ş.
+Esbank T.A.Ş.
+Etibank A.Ş.
+İktisat Bankası T.A.Ş.
+İmar Bankası T.A.Ş.
+İmpexbank A.Ş.
+İnterbank A.Ş.
+İstanbul Esnaf Bankası T.A.Ş. (İsbank)
+Kentbank A.Ş.
+Koçbank A.Ş.
+Marmarabank A.Ş.
+MNG Bank A.Ş.
+Osmanlı Bankası A.Ş
+Birleşik Türk Körfez Bankası A.Ş.
+Oyakbank A.Ş.
+Pamukbank T.A.Ş.
+Sitebank A.Ş.
+Sümerbank A.Ş.
+Tarişbank (Milli Aydın Bankası T.A.Ş.)
+Tekfenbank A.Ş.
+Toprakbank A.Ş.
+Türkiye Emlak Bankası A.Ş.
+Türk Ticaret Bankası A.Ş.
+Tütünbank A.Ş. (Bankanın ismi değişti.)
+TYT Bank A.Ş.
+Ulusal Bank T.A.Ş.
+Yaşarbank A.Ş.
+Yurtbank A.Ş.
